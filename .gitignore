@@ -10,3 +10,9 @@ Thumbs.db
 *.tmp
 *.bak
 ~$*
+
+# Local BMAD / agent tooling installs
+.agent/
+.agents/
+.claude/
+_bmad/

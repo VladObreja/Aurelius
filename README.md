@@ -10,7 +10,7 @@ The current source extraction lives in:
 - `archive/original/` - preserved copies of the original workbook, PDFs, and research text files
 - `tools/extract_aurelius.py` - reproducible extraction script
 
-Start with `docs/README.md`, `docs/protocol-index.md`, and `docs/daily-guide.md`.
+Start with `docs/agent-orientation.md`, then `docs/README.md`, `docs/protocol-index.md`, and `docs/daily-guide.md`.
 
 For protocol development direction, see:
 

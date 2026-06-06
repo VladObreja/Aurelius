@@ -2,6 +2,8 @@
 
 This repository is a research/protocol knowledge base, not a software application. Treat protocol content with care: preserve provenance, avoid casual medical claims, and keep the protocol simple enough to execute.
 
+Start by reading `docs/agent-orientation.md` for the project purpose, core model, entry points, and safety posture.
+
 ## BMAD Skills
 
 BMAD has been installed under:

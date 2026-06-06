@@ -13,6 +13,7 @@ The repository is not a software application. Its architecture is a knowledge-sy
 
 ## Quick Reference
 
+- **Agent orientation:** `docs/agent-orientation.md`
 - **Canonical protocol data:** `data/protocol/`
 - **Research source index and chunks:** `data/research/`
 - **Generated human docs:** `docs/`
@@ -35,6 +36,7 @@ The repository is not a software application. Its architecture is a knowledge-sy
 
 ### Existing Aurelius Documentation
 
+- [Agent Orientation](./agent-orientation.md) - Start-here guide for new AI agents
 - [Aurelius Protocol Knowledge Base](./README.md) - Extraction summary
 - [Protocol Spine](./protocol-spine.md) - Frozen current protocol spine
 - [Protocol Brief](./protocol-brief.md) - Energy-first BMAD brief for protocol optimization
@@ -84,6 +86,7 @@ For data work:
 When planning new protocol work, ground the session in:
 
 - `docs/index.md`
+- `docs/agent-orientation.md`
 - `docs/protocol-spine.md`
 - `docs/bmad-protocol-workflow.md`
 - `AGENTS.md`

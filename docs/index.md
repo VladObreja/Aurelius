@@ -21,6 +21,7 @@ The repository is not a software application. Its architecture is a knowledge-sy
 - **Protocol spine:** `docs/protocol-spine.md`
 - **BMAD adaptation:** `docs/bmad-protocol-workflow.md`
 - **Codex repo guidance:** `AGENTS.md`
+- **Operator skill:** `skills/aurelius-protocol-operator/SKILL.md`
 
 ## Generated Documentation
 
@@ -86,6 +87,7 @@ When planning new protocol work, ground the session in:
 - `docs/protocol-spine.md`
 - `docs/bmad-protocol-workflow.md`
 - `AGENTS.md`
+- `skills/aurelius-protocol-operator/SKILL.md`
 
 Use BMAD terms in their protocol-adapted sense:
 

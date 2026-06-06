@@ -41,6 +41,19 @@ The current project-specific adaptation is documented in:
 - `docs/protocol-spine.md`
 - `docs/bmad-protocol-workflow.md`
 
+## Aurelius Protocol Operator
+
+For practical execution questions such as "where do I start Sunday morning?" or "what should I buy while shopping?", use the repo-local skill:
+
+- `skills/aurelius-protocol-operator/SKILL.md`
+
+Use its helper script for grounded phase plans and shopping lists:
+
+```powershell
+& 'C:\Users\Vlad\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' tools\aurelius_operator.py morning --phase 1.0
+& 'C:\Users\Vlad\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' tools\aurelius_operator.py shopping --phase 1.0 --tiers CORE SUPPORT
+```
+
 ## Change Discipline
 
 - Do not mutate `data/protocol/*.json` casually.

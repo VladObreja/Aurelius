@@ -36,6 +36,7 @@ The repository is not a software application. Its architecture is a knowledge-sy
 
 - [Aurelius Protocol Knowledge Base](./README.md) - Extraction summary
 - [Protocol Spine](./protocol-spine.md) - Frozen current protocol spine
+- [Protocol Brief](./protocol-brief.md) - Energy-first BMAD brief for protocol optimization
 - [BMAD Protocol Workflow](./bmad-protocol-workflow.md) - Protocol-specific BMAD adaptation
 - [Data Layout](./data-layout.md) - Data file map
 - [Protocol Index](./protocol-index.md) - Object counts and module/axis overview

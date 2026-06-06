@@ -12,4 +12,9 @@ The current source extraction lives in:
 
 Start with `docs/README.md`, `docs/protocol-index.md`, and `docs/daily-guide.md`.
 
+For protocol development direction, see:
+
+- `docs/protocol-spine.md`
+- `docs/bmad-protocol-workflow.md`
+
 Important: this is a research and self-tracking knowledge base, not medical advice.

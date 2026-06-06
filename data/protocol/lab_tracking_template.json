@@ -1,0 +1,34 @@
+{
+  "template_name": "08_Lab_Tracking",
+  "fields": [
+    {
+      "name": "Date",
+      "key": "date"
+    },
+    {
+      "name": "Marker",
+      "key": "marker"
+    },
+    {
+      "name": "Value",
+      "key": "value"
+    },
+    {
+      "name": "Range",
+      "key": "range"
+    },
+    {
+      "name": "Interpretation",
+      "key": "interpretation"
+    },
+    {
+      "name": "Adjustment",
+      "key": "adjustment"
+    },
+    {
+      "name": "Phase",
+      "key": "phase"
+    }
+  ],
+  "rows": []
+}

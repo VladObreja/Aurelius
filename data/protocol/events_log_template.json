@@ -1,0 +1,30 @@
+{
+  "template_name": "09_Events_Log",
+  "fields": [
+    {
+      "name": "Date",
+      "key": "date"
+    },
+    {
+      "name": "Event",
+      "key": "event"
+    },
+    {
+      "name": "Cause",
+      "key": "cause"
+    },
+    {
+      "name": "CAS/COP",
+      "key": "cas_cop"
+    },
+    {
+      "name": "Phase",
+      "key": "phase"
+    },
+    {
+      "name": "Resolution",
+      "key": "resolution"
+    }
+  ],
+  "rows": []
+}

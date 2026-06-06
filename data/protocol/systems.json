@@ -1,0 +1,567 @@
+[
+  {
+    "cfs_id": "CFS-01",
+    "system_name": "Thyroid–Testosterone–Dopamine Triangle",
+    "description": "Interlinked regulation of metabolic rate (T3), androgen signaling and dopamine tone. T3 increases dopamine synthesis and androgen receptor expression; androgens modulate dopamine; dopamine supports hypothalamic drive.",
+    "symptoms": "High T but low libido; fatigue; low motivation; cold intolerance; normal labs but 'flat' affect.",
+    "labs": "TSH, FT3, FT4, rT3, prolactin, total T, free T, SHBG, cortisol",
+    "cas_links": "CAS-MITO-05, CAS-ANTIOX-01, CAS-MICRO-02, CAS-ANDRO-01, CAS-ANDRO-02, CAS-STERO-01, CAS-STERO-02, CAS-MET-01",
+    "cop_links": "COP-12, COP-14",
+    "phases": "1.5,2,3",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-01",
+    "cas_links_list": [
+      "CAS-MITO-05",
+      "CAS-ANTIOX-01",
+      "CAS-MICRO-02",
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-STERO-01",
+      "CAS-STERO-02",
+      "CAS-MET-01"
+    ],
+    "cop_links_list": [
+      "COP-12",
+      "COP-14"
+    ],
+    "phases_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-ANTIOX-01",
+      "CAS-MET-01",
+      "CAS-MICRO-02",
+      "CAS-MITO-05",
+      "CAS-STERO-01",
+      "CAS-STERO-02",
+      "CFS-01",
+      "COP-12",
+      "COP-14"
+    ]
+  },
+  {
+    "cfs_id": "CFS-02",
+    "system_name": "Neurovascular Integration Module",
+    "description": "Couples penile sensory nerves, spinal cord circuits, pelvic floor motor output and endothelial NO release to generate erections and maintain EQ.",
+    "symptoms": "Weak erections, poor glans engorgement, cold extremities, delayed or inconsistent erections.",
+    "labs": "Doppler (optional), lipids, NO-related markers (indirect), glucose/insulin",
+    "cas_links": "CAS-VAS-01, CAS-VAS-02, CAS-VAS-03, CAS-VAS-04, CAS-VAS-05, CAS-VAS-06, CAS-VAS-07, CAS-VAS-08, CAS-VAS-11, CAS-LIP-01, CAS-ANTIOX-01",
+    "cop_links": "COP-01, COP-02, COP-03, COP-04, COP-05, COP-10, COP-11, COP-13, COP-17, COP-18",
+    "phases": "1,1.5,2,3",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-02",
+    "cas_links_list": [
+      "CAS-VAS-01",
+      "CAS-VAS-02",
+      "CAS-VAS-03",
+      "CAS-VAS-04",
+      "CAS-VAS-05",
+      "CAS-VAS-06",
+      "CAS-VAS-07",
+      "CAS-VAS-08",
+      "CAS-VAS-11",
+      "CAS-LIP-01",
+      "CAS-ANTIOX-01"
+    ],
+    "cop_links_list": [
+      "COP-01",
+      "COP-02",
+      "COP-03",
+      "COP-04",
+      "COP-05",
+      "COP-10",
+      "COP-11",
+      "COP-13",
+      "COP-17",
+      "COP-18"
+    ],
+    "phases_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-ANTIOX-01",
+      "CAS-LIP-01",
+      "CAS-VAS-01",
+      "CAS-VAS-02",
+      "CAS-VAS-03",
+      "CAS-VAS-04",
+      "CAS-VAS-05",
+      "CAS-VAS-06",
+      "CAS-VAS-07",
+      "CAS-VAS-08",
+      "CAS-VAS-11",
+      "CFS-02",
+      "COP-01",
+      "COP-02",
+      "COP-03",
+      "COP-04",
+      "COP-05",
+      "COP-10",
+      "COP-11",
+      "COP-13",
+      "COP-17",
+      "COP-18"
+    ]
+  },
+  {
+    "cfs_id": "CFS-03",
+    "system_name": "Orgasmic Architecture & Ejaculatory Reflex",
+    "description": "Four-phase sexual response system: libido → arousal → plateau → orgasm/ejaculation, mediated by spinal pattern generators, oxytocin, neurosteroids and pelvic floor rhythm.",
+    "symptoms": "Muted orgasm, low pleasure, weak ejaculation force, long time to orgasm or inability to reach climax.",
+    "labs": "Prolactin (post-orgasm baseline), testosterone, estradiol, neurosteroid proxies (indirect)",
+    "cas_links": "CAS-STERO-01, CAS-STERO-02, CAS-ANDRO-01, CAS-ANDRO-02",
+    "cop_links": "COP-01, COP-08, COP-09, COP-21, COP-22",
+    "phases": "2,3",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-03",
+    "cas_links_list": [
+      "CAS-STERO-01",
+      "CAS-STERO-02",
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02"
+    ],
+    "cop_links_list": [
+      "COP-01",
+      "COP-08",
+      "COP-09",
+      "COP-21",
+      "COP-22"
+    ],
+    "phases_list": [
+      "2",
+      "3"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-STERO-01",
+      "CAS-STERO-02",
+      "CFS-03",
+      "COP-01",
+      "COP-08",
+      "COP-09",
+      "COP-21",
+      "COP-22"
+    ]
+  },
+  {
+    "cfs_id": "CFS-04",
+    "system_name": "Neurosteroid Axis",
+    "description": "Pregnenolone → DHEA → downstream steroids (including allopregnanolone) modulating GABA-A, mood, sensory vividness and libido.",
+    "symptoms": "Anhedonia, emotional flatness, low pleasure from touch and smell, poor stress tolerance.",
+    "labs": "Pregnenolone and DHEA levels (if tested), cortisol, progesterone (optional)",
+    "cas_links": "CAS-STERO-01, CAS-STERO-02, CAS-VIT-01",
+    "cop_links": "COP-14, COP-19",
+    "phases": "2,3",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-04",
+    "cas_links_list": [
+      "CAS-STERO-01",
+      "CAS-STERO-02",
+      "CAS-VIT-01"
+    ],
+    "cop_links_list": [
+      "COP-14",
+      "COP-19"
+    ],
+    "phases_list": [
+      "2",
+      "3"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-STERO-01",
+      "CAS-STERO-02",
+      "CAS-VIT-01",
+      "CFS-04",
+      "COP-14",
+      "COP-19"
+    ]
+  },
+  {
+    "cfs_id": "CFS-05",
+    "system_name": "Microglial Activation & Suppression",
+    "description": "Brain immune cells become chronically activated by endotoxin, stress or toxicity; suppress dopamine and neuroplasticity.",
+    "symptoms": "Brain fog, anhedonia, low drive, poor smell, depression-like symptoms without classic major depression.",
+    "labs": "CRP-hs, ferritin, homocysteine, cytokine panels (if available), gut markers",
+    "cas_links": "CAS-GUT-01, CAS-GUT-02, CAS-GUT-03, CAS-GUT-04, CAS-GUT-05, CAS-GUT-06, CAS-ANTIOX-01, CAS-LIP-01, CAS-INF-01",
+    "cop_links": "COP-11, COP-14, COP-18, COP-19, COP-20",
+    "phases": "1,1.5,2",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-05",
+    "cas_links_list": [
+      "CAS-GUT-01",
+      "CAS-GUT-02",
+      "CAS-GUT-03",
+      "CAS-GUT-04",
+      "CAS-GUT-05",
+      "CAS-GUT-06",
+      "CAS-ANTIOX-01",
+      "CAS-LIP-01",
+      "CAS-INF-01"
+    ],
+    "cop_links_list": [
+      "COP-11",
+      "COP-14",
+      "COP-18",
+      "COP-19",
+      "COP-20"
+    ],
+    "phases_list": [
+      "1",
+      "1.5",
+      "2"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-ANTIOX-01",
+      "CAS-GUT-01",
+      "CAS-GUT-02",
+      "CAS-GUT-03",
+      "CAS-GUT-04",
+      "CAS-GUT-05",
+      "CAS-GUT-06",
+      "CAS-INF-01",
+      "CAS-LIP-01",
+      "CFS-05",
+      "COP-11",
+      "COP-14",
+      "COP-18",
+      "COP-19",
+      "COP-20"
+    ]
+  },
+  {
+    "cfs_id": "CFS-06",
+    "system_name": "Smell–Libido Axis",
+    "description": "Olfactory bulb and limbic circuits feed into hypothalamic and dopaminergic structures, heavily influencing libido, bonding and attraction.",
+    "symptoms": "Loss or blunting of smell, low spontaneous sexual interest, reduced emotional coloring of experiences.",
+    "labs": "Olfactory testing (subjective scale), zinc, B12, thyroid, MRI only in extreme cases",
+    "cas_links": "CAS-ANTIOX-01, CAS-MICRO-01, CAS-MITO-06, CAS-LIP-01",
+    "cop_links": "COP-06, COP-19",
+    "phases": "1,1.5,2,3",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-06",
+    "cas_links_list": [
+      "CAS-ANTIOX-01",
+      "CAS-MICRO-01",
+      "CAS-MITO-06",
+      "CAS-LIP-01"
+    ],
+    "cop_links_list": [
+      "COP-06",
+      "COP-19"
+    ],
+    "phases_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-ANTIOX-01",
+      "CAS-LIP-01",
+      "CAS-MICRO-01",
+      "CAS-MITO-06",
+      "CFS-06",
+      "COP-06",
+      "COP-19"
+    ]
+  },
+  {
+    "cfs_id": "CFS-07",
+    "system_name": "Fascia & Pelvic Floor Mechanics",
+    "description": "Myofascial chains of psoas, adductors, hamstrings, glutes and pelvic floor influence nerve conduction, vascular flow and autonomic tone.",
+    "symptoms": "Anterior pelvic tilt, chronic sitting posture, tight hips, lower back pain, 'hard flaccid' tendencies, EQ issues.",
+    "labs": "No specific labs; posture, gait and palpation dominant; vitamin D, magnesium and collagen markers secondary",
+    "cas_links": "CAS-MITO-03, CAS-MITO-01, CAS-ANTIOX-01",
+    "cop_links": "COP-01, COP-02, COP-03, COP-04, COP-13, COP-17",
+    "phases": "1,1.5,2,3",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-07",
+    "cas_links_list": [
+      "CAS-MITO-03",
+      "CAS-MITO-01",
+      "CAS-ANTIOX-01"
+    ],
+    "cop_links_list": [
+      "COP-01",
+      "COP-02",
+      "COP-03",
+      "COP-04",
+      "COP-13",
+      "COP-17"
+    ],
+    "phases_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-ANTIOX-01",
+      "CAS-MITO-01",
+      "CAS-MITO-03",
+      "CFS-07",
+      "COP-01",
+      "COP-02",
+      "COP-03",
+      "COP-04",
+      "COP-13",
+      "COP-17"
+    ]
+  },
+  {
+    "cfs_id": "CFS-08",
+    "system_name": "Angion Microvascular Remodeling",
+    "description": "Ischemia/reperfusion stimulus plus biochemical support triggers VEGF-mediated angiogenesis and microvascular adaptation.",
+    "symptoms": "Slow filling erections, loss of morning wood, cold penis/glans, delayed arousal response.",
+    "labs": "VEGF (optional), lipids, glucose/insulin, blood pressure, endothelial function proxies",
+    "cas_links": "CAS-VAS-01, CAS-VAS-02, CAS-VAS-03, CAS-VAS-04, CAS-VAS-05, CAS-VAS-06, CAS-VAS-07, CAS-VAS-08, CAS-LIP-01, CAS-INF-01",
+    "cop_links": "COP-10, COP-11, COP-18",
+    "phases": "2,3",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-08",
+    "cas_links_list": [
+      "CAS-VAS-01",
+      "CAS-VAS-02",
+      "CAS-VAS-03",
+      "CAS-VAS-04",
+      "CAS-VAS-05",
+      "CAS-VAS-06",
+      "CAS-VAS-07",
+      "CAS-VAS-08",
+      "CAS-LIP-01",
+      "CAS-INF-01"
+    ],
+    "cop_links_list": [
+      "COP-10",
+      "COP-11",
+      "COP-18"
+    ],
+    "phases_list": [
+      "2",
+      "3"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-INF-01",
+      "CAS-LIP-01",
+      "CAS-VAS-01",
+      "CAS-VAS-02",
+      "CAS-VAS-03",
+      "CAS-VAS-04",
+      "CAS-VAS-05",
+      "CAS-VAS-06",
+      "CAS-VAS-07",
+      "CAS-VAS-08",
+      "CFS-08",
+      "COP-10",
+      "COP-11",
+      "COP-18"
+    ]
+  },
+  {
+    "cfs_id": "CFS-09",
+    "system_name": "Estrogen Axis & SHBG Regulation",
+    "description": "Balance of estrogen load, clearance and receptor sensitivity; SHBG regulates free androgen availability.",
+    "symptoms": "High SHBG, good total T but low free T, gynecomastia tendency, water retention or low libido.",
+    "labs": "Total T, free T, SHBG, estradiol (sensitive), LH, FSH, prolactin, liver panel",
+    "cas_links": "CAS-GUT-02, CAS-INF-01, CAS-MICRO-01, CAS-LIP-01, CAS-ANDRO-01, CAS-ANDRO-02, CAS-ANDRO-10",
+    "cop_links": "COP-11, COP-14, COP-15",
+    "phases": "1.5,2,3",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-09",
+    "cas_links_list": [
+      "CAS-GUT-02",
+      "CAS-INF-01",
+      "CAS-MICRO-01",
+      "CAS-LIP-01",
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-ANDRO-10"
+    ],
+    "cop_links_list": [
+      "COP-11",
+      "COP-14",
+      "COP-15"
+    ],
+    "phases_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-ANDRO-10",
+      "CAS-GUT-02",
+      "CAS-INF-01",
+      "CAS-LIP-01",
+      "CAS-MICRO-01",
+      "CFS-09",
+      "COP-11",
+      "COP-14",
+      "COP-15"
+    ]
+  },
+  {
+    "cfs_id": "CFS-10",
+    "system_name": "Cholestasis & Bile Dynamics",
+    "description": "Hepatic bile production, flow through ducts and enterohepatic circulation of bile acids and conjugated toxins/metabolites.",
+    "symptoms": "Fatty meals poorly tolerated, pale or floating stools, pruritus, fat-soluble vitamin deficiency, PAS/PSSD-like patterns.",
+    "labs": "AST, ALT, GGT, ALP, total and direct bilirubin, fasting bile acids, ultrasound if needed, stool fat (optional)",
+    "cas_links": "CAS-LIV-01, CAS-LIV-02, CAS-LIV-03, CAS-GUT-01, CAS-GUT-02, CAS-GUT-03, CAS-GUT-04, CAS-VAS-08, CAS-ANTIOX-01",
+    "cop_links": "COP-15, COP-11",
+    "phases": "1,1.5,2",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-10",
+    "cas_links_list": [
+      "CAS-LIV-01",
+      "CAS-LIV-02",
+      "CAS-LIV-03",
+      "CAS-GUT-01",
+      "CAS-GUT-02",
+      "CAS-GUT-03",
+      "CAS-GUT-04",
+      "CAS-VAS-08",
+      "CAS-ANTIOX-01"
+    ],
+    "cop_links_list": [
+      "COP-15",
+      "COP-11"
+    ],
+    "phases_list": [
+      "1",
+      "1.5",
+      "2"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-ANTIOX-01",
+      "CAS-GUT-01",
+      "CAS-GUT-02",
+      "CAS-GUT-03",
+      "CAS-GUT-04",
+      "CAS-LIV-01",
+      "CAS-LIV-02",
+      "CAS-LIV-03",
+      "CAS-VAS-08",
+      "CFS-10",
+      "COP-11",
+      "COP-15"
+    ]
+  },
+  {
+    "cfs_id": "CFS-11",
+    "system_name": "Neurovascular–Endocrine Coupling",
+    "description": "Integration zone where thyroid, cortisol, sex steroids, NO and neuronal excitability intersect to determine performance, resilience and arousal.",
+    "symptoms": "Good labs but inconsistent performance; 'on some days, off others'; stress sensitivity and overreactions.",
+    "labs": "Thyroid panel, sex steroids, cortisol (AM), prolactin, CRP-hs, HRV (indirect)",
+    "cas_links": "CAS-MITO-05, CAS-MITO-01, CAS-ANDRO-01, CAS-ANDRO-02, CAS-STERO-01, CAS-STERO-02, CAS-VAS-01, CAS-LIP-01",
+    "cop_links": "COP-11, COP-12, COP-14, COP-18, COP-20",
+    "phases": "2,3",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-11",
+    "cas_links_list": [
+      "CAS-MITO-05",
+      "CAS-MITO-01",
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-STERO-01",
+      "CAS-STERO-02",
+      "CAS-VAS-01",
+      "CAS-LIP-01"
+    ],
+    "cop_links_list": [
+      "COP-11",
+      "COP-12",
+      "COP-14",
+      "COP-18",
+      "COP-20"
+    ],
+    "phases_list": [
+      "2",
+      "3"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-LIP-01",
+      "CAS-MITO-01",
+      "CAS-MITO-05",
+      "CAS-STERO-01",
+      "CAS-STERO-02",
+      "CAS-VAS-01",
+      "CFS-11",
+      "COP-11",
+      "COP-12",
+      "COP-14",
+      "COP-18",
+      "COP-20"
+    ]
+  },
+  {
+    "cfs_id": "CFS-12",
+    "system_name": "HFMP 10-Axis Meta-Model",
+    "description": "Top-level integrator that coordinates all 10 axes of the High-Functioning Male Phenotype into a coherent expression: energy, libido, performance, mood and resilience.",
+    "symptoms": "When dysfunctional: feeling 'less than potential' across multiple domains despite interventions.",
+    "labs": "Composite of HFMP labs: hormones, thyroid, inflammatory markers, lipids, liver, kidney, micronutrients",
+    "cas_links": "ALL relevant CAS agents (summary layer)",
+    "cop_links": "ALL relevant COP practices (summary layer)",
+    "phases": "All phases; especially 3",
+    "cas_contributors": null,
+    "cop_contributors": null,
+    "phases_active": null,
+    "canonical_id": "CFS-12",
+    "cas_links_list": [
+      "ALL relevant CAS agents (summary layer)"
+    ],
+    "cop_links_list": [
+      "ALL relevant COP practices (summary layer)"
+    ],
+    "phases_list": [
+      "All phases; especially 3"
+    ],
+    "phases_active_list": [],
+    "referenced_ids": [
+      "CFS-12"
+    ]
+  }
+]

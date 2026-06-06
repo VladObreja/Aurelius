@@ -1,0 +1,50 @@
+{
+  "template_name": "07_Daily_Tracker",
+  "fields": [
+    {
+      "name": "Date",
+      "key": "date"
+    },
+    {
+      "name": "Phase",
+      "key": "phase"
+    },
+    {
+      "name": "Compounds Taken",
+      "key": "compounds_taken"
+    },
+    {
+      "name": "Practices",
+      "key": "practices"
+    },
+    {
+      "name": "Energy",
+      "key": "energy"
+    },
+    {
+      "name": "Libido",
+      "key": "libido"
+    },
+    {
+      "name": "Mood",
+      "key": "mood"
+    },
+    {
+      "name": "Smell",
+      "key": "smell"
+    },
+    {
+      "name": "EQ",
+      "key": "eq"
+    },
+    {
+      "name": "Digestion",
+      "key": "digestion"
+    },
+    {
+      "name": "Notes",
+      "key": "notes"
+    }
+  ],
+  "rows": []
+}

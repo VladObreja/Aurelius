@@ -1,0 +1,63 @@
+[
+  {
+    "track_component": "High-dose NMN (NAD+ push)",
+    "related_cas_id": "CAS-MITO-08",
+    "suggested_range": "≥1000 mg/day (experimental reset)",
+    "purpose": "Epigenetic / NAD+ drive; may increase methyl demand (methyl-drain risk).",
+    "prerequisites_gates": "NOT Phase 1. Use only after stable baseline ≥14 days; sleep stable; no acute stressor; stop other experimental changes.",
+    "monitoring": "Homocysteine; sleep quality; anxiety/irritability; HR/resting pulse; digestion.",
+    "notes_stop_rules": "Stop/reduce if insomnia, agitation, palpitations, marked anxiety, or GI crash.",
+    "canonical_id": "RESET-001",
+    "referenced_ids": [
+      "CAS-MITO-08"
+    ]
+  },
+  {
+    "track_component": "TMG (methyl-buffer)",
+    "related_cas_id": "CAS-MET-08",
+    "suggested_range": "500–2000 mg/day with meals",
+    "purpose": "Buffers methyl demand; supports homocysteine recycling; may improve tolerance of NAD+ pushes.",
+    "prerequisites_gates": "Introduce before or alongside NMN push; start low if methyl-sensitive.",
+    "monitoring": "Homocysteine (trend); mood/sleep; headache/pressure changes.",
+    "notes_stop_rules": "If overstimulated or 'wired', reduce dose; ensure adequate B2/B6/folate/B12 from food.",
+    "canonical_id": "RESET-002",
+    "referenced_ids": [
+      "CAS-MET-08"
+    ]
+  },
+  {
+    "track_component": "Hops extract (8‑PN) — RESET ONLY",
+    "related_cas_id": "CAS-RESET-01",
+    "suggested_range": "Standardized 8‑PN; clinician-guided",
+    "purpose": "Phytoestrogenic lever in reset hypothesis (AR resensitization via counter-regulation).",
+    "prerequisites_gates": "Avoid if prior estrogen sensitivity or high prolactin/gynecomastia history; do not combine with other hormone-active agents.",
+    "monitoring": "Estrogenic side effects (water retention, nipple sensitivity); mood; libido; prolactin/estradiol if available.",
+    "notes_stop_rules": "Stop immediately if gynecomastia/nipple pain, emotional volatility, or libido collapse.",
+    "canonical_id": "RESET-003",
+    "referenced_ids": [
+      "CAS-RESET-01"
+    ]
+  },
+  {
+    "track_component": "Keep Aurelius stabilizers (do not change)",
+    "related_cas_id": "(Use mainline CAS list)",
+    "suggested_range": "As per Phase + baseline",
+    "purpose": "Maintain terrain stability while testing reset levers.",
+    "prerequisites_gates": "Do not stack multiple new agents at once; one change every 5–7 days.",
+    "monitoring": "CRP-hs; liver enzymes if adding new agents; subjective stability.",
+    "notes_stop_rules": "If stability deteriorates, revert to mainline and re-stabilize ≥7 days before retry.",
+    "canonical_id": "RESET-004",
+    "referenced_ids": []
+  },
+  {
+    "track_component": "Governance: RESET track is OPTIONAL and higher-volatility. Keep it separate from Phase 1 / mainline. Prefer: baseline labs → single-variable change → track → decide.",
+    "related_cas_id": null,
+    "suggested_range": null,
+    "purpose": null,
+    "prerequisites_gates": null,
+    "monitoring": null,
+    "notes_stop_rules": null,
+    "canonical_id": "RESET-007",
+    "referenced_ids": []
+  }
+]

@@ -1,0 +1,471 @@
+[
+  {
+    "time_block": "Phase 1.0 — MVP Daily Spine (minimal dosing events)",
+    "what_to_do_take": null,
+    "notes": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_MVP-001",
+    "referenced_ids": []
+  },
+  {
+    "time_block": "On waking",
+    "what_to_do_take": "Hydration Baseline [COP-23]\nOptional: Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "notes": "Default: 300–500 mL water on waking. Keep binder window clean; avoid taking other supplements immediately before psyllium.",
+    "source_ids": "COP-23, CAS-FOOD-03",
+    "canonical_id": "DAILY_MVP-002",
+    "referenced_ids": [
+      "CAS-FOOD-03",
+      "COP-23"
+    ]
+  },
+  {
+    "time_block": "Binder window (fasted)",
+    "what_to_do_take": "Psyllium — 5–10 g in water [CAS-GUT-01]\nCarrot salad [CAS-FOOD-01]",
+    "notes": "Fasted. Take psyllium with a full glass; wait 20–30 min before carrot salad. Keep other supplements/meds away from this window when possible.",
+    "source_ids": "CAS-GUT-01, CAS-FOOD-01",
+    "canonical_id": "DAILY_MVP-003",
+    "referenced_ids": [
+      "CAS-FOOD-01",
+      "CAS-GUT-01"
+    ]
+  },
+  {
+    "time_block": "First meal (post-binder)",
+    "what_to_do_take": "Taurine — 1g [CAS-LIV-01]\nMSM — 750mg [CAS-LIV-02]\nMolybdenum — 100-200mcg [CAS-LIV-03]\nCreatine — 5g [CAS-MITO-01]\nUndecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "notes": "Take with first post-binder meal. Keep ≥60–90 min after psyllium when practical. Undecylenic acid is 'with meals'—split across meals if dosing >1 cap/day.",
+    "source_ids": "CAS-LIV-01, CAS-LIV-02, CAS-LIV-03, CAS-MITO-01, CAS-FUNG-01",
+    "canonical_id": "DAILY_MVP-004",
+    "referenced_ids": [
+      "CAS-FUNG-01",
+      "CAS-LIV-01",
+      "CAS-LIV-02",
+      "CAS-LIV-03",
+      "CAS-MITO-01"
+    ]
+  },
+  {
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Magnesium glycinate — 200-300mg [CAS-MICRO-03]\nGlycine — 2-3g [CAS-AMINO-01]",
+    "notes": "Sleep anchor. If insomnia worsens, reduce newest daytime additions before changing bedtime anchor.",
+    "source_ids": "CAS-MICRO-03, CAS-AMINO-01",
+    "canonical_id": "DAILY_MVP-005",
+    "referenced_ids": [
+      "CAS-AMINO-01",
+      "CAS-MICRO-03"
+    ]
+  },
+  {
+    "time_block": "MVP Practices",
+    "what_to_do_take": "Hydration Baseline — Daily — On waking + throughout day [COP-23]\nSleep Optimization Practices — Daily — Evening [COP-14]\nDiaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]\nPelvic Mobility Drills — Daily — AM or PM [COP-04]\nReverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]",
+    "notes": "MVP practice set (keep it short). Rule: no daily Angion (if used; Phase 2+).",
+    "source_ids": "COP-23, COP-14, COP-12, COP-04, COP-01",
+    "canonical_id": "DAILY_MVP-006",
+    "referenced_ids": [
+      "COP-01",
+      "COP-04",
+      "COP-12",
+      "COP-14",
+      "COP-23"
+    ]
+  },
+  {
+    "time_block": "Support add-ons (optional)",
+    "what_to_do_take": "Beet extract — per label [CAS-VAS-08]\nVitamin C — 1g [CAS-ANTIOX-01]\nZinc — 20-30mg [CAS-MICRO-01]\nSelenium — 100-200mcg [CAS-MICRO-02]\nTUDCA — 250mg [CAS-LIV-04]",
+    "notes": "Support add-ons (optional): add only when needed/tolerated; prefer 1 change at a time; de-escalate last-added first.",
+    "source_ids": "CAS-VAS-08, CAS-ANTIOX-01, CAS-MICRO-01, CAS-MICRO-02, CAS-LIV-04",
+    "canonical_id": "DAILY_MVP-007",
+    "referenced_ids": [
+      "CAS-ANTIOX-01",
+      "CAS-LIV-04",
+      "CAS-MICRO-01",
+      "CAS-MICRO-02",
+      "CAS-VAS-08"
+    ]
+  },
+  {
+    "time_block": "Experimental / cycled (optional)",
+    "what_to_do_take": "-",
+    "notes": "Experimental/cycled: keep to 1–2 active experiments at once; stop first if insomnia/wiredness/anxiety increases.",
+    "source_ids": "-",
+    "canonical_id": "DAILY_MVP-008",
+    "referenced_ids": []
+  },
+  {
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Constipation → hold binder ramp / hold antifungal escalation.\nNausea/bile reflux/RUQ pain → hold bile-flow agents.\nInsomnia/wired → remove newest stimulatory adds first.\nLow BP/dizziness → reduce nitrates/vasodilators first.",
+    "notes": "De-escalate last-added first; do not 'push through' constipation, nausea, insomnia, or bile reflux.",
+    "source_ids": "CPO",
+    "canonical_id": "DAILY_MVP-009",
+    "referenced_ids": []
+  },
+  {
+    "time_block": "Phase 1.5 — MVP Daily Spine (minimal dosing events)",
+    "what_to_do_take": null,
+    "notes": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_MVP-011",
+    "referenced_ids": []
+  },
+  {
+    "time_block": "On waking",
+    "what_to_do_take": "Hydration Baseline [COP-23]\nOptional: Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "notes": "Default: 300–500 mL water on waking. Keep binder window clean; avoid taking other supplements immediately before psyllium.",
+    "source_ids": "COP-23, CAS-FOOD-03",
+    "canonical_id": "DAILY_MVP-012",
+    "referenced_ids": [
+      "CAS-FOOD-03",
+      "COP-23"
+    ]
+  },
+  {
+    "time_block": "Binder window (fasted)",
+    "what_to_do_take": "Psyllium — 5–10 g in water [CAS-GUT-01]\nCarrot salad [CAS-FOOD-01]",
+    "notes": "Fasted. Take psyllium with a full glass; wait 20–30 min before carrot salad. Keep other supplements/meds away from this window when possible.",
+    "source_ids": "CAS-GUT-01, CAS-FOOD-01",
+    "canonical_id": "DAILY_MVP-013",
+    "referenced_ids": [
+      "CAS-FOOD-01",
+      "CAS-GUT-01"
+    ]
+  },
+  {
+    "time_block": "First meal (post-binder)",
+    "what_to_do_take": "Taurine — 1g [CAS-LIV-01]\nMSM — 750mg [CAS-LIV-02]\nMolybdenum — 100-200mcg [CAS-LIV-03]\nPHGG — 1-2g [CAS-GUT-03]\nMegaSporeBiotic — 0.5→1 cap [CAS-GUT-04]\nBenfotiamine — 150-300mg [CAS-MITO-05]\nCreatine — 5g [CAS-MITO-01]\nNiacinamide — 250–500mg [CAS-B-01]\nUndecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "notes": "Take with first post-binder meal. Keep ≥60–90 min after psyllium when practical. Undecylenic acid is 'with meals'—split across meals if dosing >1 cap/day.",
+    "source_ids": "CAS-LIV-01, CAS-LIV-02, CAS-LIV-03, CAS-GUT-03, CAS-GUT-04, CAS-MITO-05, CAS-MITO-01, CAS-B-01, CAS-FUNG-01",
+    "canonical_id": "DAILY_MVP-014",
+    "referenced_ids": [
+      "CAS-B-01",
+      "CAS-FUNG-01",
+      "CAS-GUT-03",
+      "CAS-GUT-04",
+      "CAS-LIV-01",
+      "CAS-LIV-02",
+      "CAS-LIV-03",
+      "CAS-MITO-01",
+      "CAS-MITO-05"
+    ]
+  },
+  {
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Magnesium glycinate — 200-300mg [CAS-MICRO-03]\nGlycine — 2-3g [CAS-AMINO-01]",
+    "notes": "Sleep anchor. If insomnia worsens, reduce newest daytime additions before changing bedtime anchor.",
+    "source_ids": "CAS-MICRO-03, CAS-AMINO-01",
+    "canonical_id": "DAILY_MVP-015",
+    "referenced_ids": [
+      "CAS-AMINO-01",
+      "CAS-MICRO-03"
+    ]
+  },
+  {
+    "time_block": "MVP Practices",
+    "what_to_do_take": "Hydration Baseline — Daily — On waking + throughout day [COP-23]\nSleep Optimization Practices — Daily — Evening [COP-14]\nDiaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]\nPelvic Mobility Drills — Daily — AM or PM [COP-04]\nReverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]\nNasal PBM — 3–7x/week — Evening or morning [COP-06]\nOlfactory Training Protocol — Daily — Any [COP-19]",
+    "notes": "MVP practice set (keep it short). Rule: no daily Angion (if used; Phase 2+).",
+    "source_ids": "COP-23, COP-14, COP-12, COP-04, COP-01, COP-06, COP-19",
+    "canonical_id": "DAILY_MVP-016",
+    "referenced_ids": [
+      "COP-01",
+      "COP-04",
+      "COP-06",
+      "COP-12",
+      "COP-14",
+      "COP-19",
+      "COP-23"
+    ]
+  },
+  {
+    "time_block": "Support add-ons (optional)",
+    "what_to_do_take": "Beet extract — per label [CAS-VAS-08]\nVitamin C — 1g [CAS-ANTIOX-01]\nZinc — 20-30mg [CAS-MICRO-01]\nSelenium — 100-200mcg [CAS-MICRO-02]\nTUDCA — 250mg [CAS-LIV-04]\nALCAR — 500mg [CAS-MITO-06]\nCalcium D-Glucarate — 500mg [CAS-GUT-02]\nAspirin — 81mg [CAS-INF-01]\nVitamin K2 — MK7 100-200mcg [CAS-MICRO-04]\nOmega-3 — 500mg [CAS-LIP-01]\nALA — 100-200mg [CAS-MITO-07]\nDHM — 100-300mg [CAS-NEURO-10]",
+    "notes": "Support add-ons (optional): add only when needed/tolerated; prefer 1 change at a time; de-escalate last-added first.",
+    "source_ids": "CAS-VAS-08, CAS-ANTIOX-01, CAS-MICRO-01, CAS-MICRO-02, CAS-LIV-04, CAS-MITO-06, CAS-GUT-02, CAS-INF-01, CAS-MICRO-04, CAS-LIP-01, CAS-MITO-07, CAS-NEURO-10",
+    "canonical_id": "DAILY_MVP-017",
+    "referenced_ids": [
+      "CAS-ANTIOX-01",
+      "CAS-GUT-02",
+      "CAS-INF-01",
+      "CAS-LIP-01",
+      "CAS-LIV-04",
+      "CAS-MICRO-01",
+      "CAS-MICRO-02",
+      "CAS-MICRO-04",
+      "CAS-MITO-06",
+      "CAS-MITO-07",
+      "CAS-NEURO-10",
+      "CAS-VAS-08"
+    ]
+  },
+  {
+    "time_block": "Experimental / cycled (optional)",
+    "what_to_do_take": "Glutathione (oral, generic) — 250–500mg [CAS-DET-01]\nNAC — 600mg [CAS-BIO-02]\nSulforaphane (Broccoli Sprout Extract) — per label (e.g. 20–40mg) [CAS-INF-02]\nMethylene Blue (low-dose) — 0.5–1mg/kg [CAS-MITO-15]",
+    "notes": "Experimental/cycled: keep to 1–2 active experiments at once; stop first if insomnia/wiredness/anxiety increases.",
+    "source_ids": "CAS-DET-01, CAS-BIO-02, CAS-INF-02, CAS-MITO-15",
+    "canonical_id": "DAILY_MVP-018",
+    "referenced_ids": [
+      "CAS-BIO-02",
+      "CAS-DET-01",
+      "CAS-INF-02",
+      "CAS-MITO-15"
+    ]
+  },
+  {
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Constipation → hold binder ramp / hold antifungal escalation.\nNausea/bile reflux/RUQ pain → hold bile-flow agents.\nInsomnia/wired → remove newest stimulatory adds first.\nLow BP/dizziness → reduce nitrates/vasodilators first.",
+    "notes": "De-escalate last-added first; do not 'push through' constipation, nausea, insomnia, or bile reflux.",
+    "source_ids": "CPO",
+    "canonical_id": "DAILY_MVP-019",
+    "referenced_ids": []
+  },
+  {
+    "time_block": "Phase 2.0 — MVP Daily Spine (minimal dosing events)",
+    "what_to_do_take": null,
+    "notes": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_MVP-021",
+    "referenced_ids": []
+  },
+  {
+    "time_block": "On waking",
+    "what_to_do_take": "Hydration Baseline [COP-23]\nOptional: Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "notes": "Default: 300–500 mL water on waking. Keep binder window clean; avoid taking other supplements immediately before psyllium.",
+    "source_ids": "COP-23, CAS-FOOD-03",
+    "canonical_id": "DAILY_MVP-022",
+    "referenced_ids": [
+      "CAS-FOOD-03",
+      "COP-23"
+    ]
+  },
+  {
+    "time_block": "Binder window (fasted)",
+    "what_to_do_take": "Psyllium — 5–10 g in water [CAS-GUT-01]\nCarrot salad [CAS-FOOD-01]",
+    "notes": "Fasted. Take psyllium with a full glass; wait 20–30 min before carrot salad. Keep other supplements/meds away from this window when possible.",
+    "source_ids": "CAS-GUT-01, CAS-FOOD-01",
+    "canonical_id": "DAILY_MVP-023",
+    "referenced_ids": [
+      "CAS-FOOD-01",
+      "CAS-GUT-01"
+    ]
+  },
+  {
+    "time_block": "First meal (post-binder)",
+    "what_to_do_take": "Taurine — 1g [CAS-LIV-01]\nMSM — 750mg [CAS-LIV-02]\nMolybdenum — 100-200mcg [CAS-LIV-03]\nPHGG — 1-2g [CAS-GUT-03]\nMegaSporeBiotic — 0.5→1 cap [CAS-GUT-04]\nBenfotiamine — 150-300mg [CAS-MITO-05]\nTongkat Ali — 200-400mg [CAS-ANDRO-01]\nCistanche — 500-1500mg [CAS-ANDRO-02]\nBoron — 6–9mg [CAS-MIN-01]\nTTFD (Thiamine Tetrahydrofurfuryl Disulfide) — 50–200mg [CAS-MITO-06]\nPregnenolone — 5-10mg [CAS-STERO-01]\nDHEA — 5mg [CAS-STERO-02]\nCreatine — 5g [CAS-MITO-01]\nLCLT — 1-2g [CAS-MITO-02]\nLactobacillus reuteri — 1–2B CFU [CAS-PRO-02]\nNiacinamide — 250–500mg [CAS-B-01]\nTributyrin — 300–600mg [CAS-GUT-07]\nUndecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "notes": "Take with first post-binder meal. Keep ≥60–90 min after psyllium when practical. Undecylenic acid is 'with meals'—split across meals if dosing >1 cap/day.",
+    "source_ids": "CAS-LIV-01, CAS-LIV-02, CAS-LIV-03, CAS-GUT-03, CAS-GUT-04, CAS-MITO-05, CAS-ANDRO-01, CAS-ANDRO-02, CAS-MIN-01, CAS-MITO-06, CAS-STERO-01, CAS-STERO-02, CAS-MITO-01, CAS-MITO-02, CAS-PRO-02, CAS-B-01, CAS-GUT-07, CAS-FUNG-01",
+    "canonical_id": "DAILY_MVP-024",
+    "referenced_ids": [
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-B-01",
+      "CAS-FUNG-01",
+      "CAS-GUT-03",
+      "CAS-GUT-04",
+      "CAS-GUT-07",
+      "CAS-LIV-01",
+      "CAS-LIV-02",
+      "CAS-LIV-03",
+      "CAS-MIN-01",
+      "CAS-MITO-01",
+      "CAS-MITO-02",
+      "CAS-MITO-05",
+      "CAS-MITO-06",
+      "CAS-PRO-02",
+      "CAS-STERO-01",
+      "CAS-STERO-02"
+    ]
+  },
+  {
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Magnesium glycinate — 200-300mg [CAS-MICRO-03]\nGlycine — 2-3g [CAS-AMINO-01]",
+    "notes": "Sleep anchor. If insomnia worsens, reduce newest daytime additions before changing bedtime anchor.",
+    "source_ids": "CAS-MICRO-03, CAS-AMINO-01",
+    "canonical_id": "DAILY_MVP-025",
+    "referenced_ids": [
+      "CAS-AMINO-01",
+      "CAS-MICRO-03"
+    ]
+  },
+  {
+    "time_block": "MVP Practices",
+    "what_to_do_take": "Hydration Baseline — Daily — On waking + throughout day [COP-23]\nSleep Optimization Practices — Daily — Evening [COP-14]\nDiaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]\nPelvic Mobility Drills — Daily — AM or PM [COP-04]\nReverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]\nNasal PBM — 3–7x/week — Evening or morning [COP-06]\nOlfactory Training Protocol — Daily — Any [COP-19]\nAngion v2 Microvascular Training — 2–3x/week — Pre- or post-vascular stack [COP-10]\nSensate Focus Mapping — 2–4x/week — Private time [COP-08]",
+    "notes": "MVP practice set (keep it short). Rule: no daily Angion (if used; Phase 2+).",
+    "source_ids": "COP-23, COP-14, COP-12, COP-04, COP-01, COP-06, COP-19, COP-10, COP-08",
+    "canonical_id": "DAILY_MVP-026",
+    "referenced_ids": [
+      "COP-01",
+      "COP-04",
+      "COP-06",
+      "COP-08",
+      "COP-10",
+      "COP-12",
+      "COP-14",
+      "COP-19",
+      "COP-23"
+    ]
+  },
+  {
+    "time_block": "Support add-ons (optional)",
+    "what_to_do_take": "Endotelon (grape seed OPC) — 150–300mg/day (often 150mg BID) [CAS-VAS-15]\nSAM-e — 200mg [CAS-MET-01]\nCitrulline — 6g [CAS-VAS-01]\nIcariin — 150-200mg [CAS-VAS-02]\nBeet nitrate — 300-600mg [CAS-VAS-08]\nPycnogenol — 50-100mg [CAS-VAS-05]\nHesperidin — 250mg [CAS-VAS-04]\nHistidine — 500-1000mg [CAS-VAS-03]",
+    "notes": "Support add-ons (optional): add only when needed/tolerated; prefer 1 change at a time; de-escalate last-added first.",
+    "source_ids": "CAS-VAS-15, CAS-MET-01, CAS-VAS-01, CAS-VAS-02, CAS-VAS-08, CAS-VAS-05, CAS-VAS-04, CAS-VAS-03",
+    "canonical_id": "DAILY_MVP-027",
+    "referenced_ids": [
+      "CAS-MET-01",
+      "CAS-VAS-01",
+      "CAS-VAS-02",
+      "CAS-VAS-03",
+      "CAS-VAS-04",
+      "CAS-VAS-05",
+      "CAS-VAS-08",
+      "CAS-VAS-15"
+    ]
+  },
+  {
+    "time_block": "Experimental / cycled (optional)",
+    "what_to_do_take": "7,8-Dihydroxyflavone (7,8-DHF) — 10–40mg [CAS-NEURO-05]\nUridine Monophosphate — 50–150mg [CAS-NEURO-08]\nPiracetam — 1200–2400mg [CAS-NOOT-01]\nSulbuthiamine — 200–400mg [CAS-NEURO-09]\nSemax — 0.1–0.3mg IN [CAS-PEPT-02]\nMucuna Pruriens — 100–200mg [CAS-NEURO-10]\nReduced Glutathione (liposomal) — 250–500mg [CAS-DET-02]",
+    "notes": "Experimental/cycled: keep to 1–2 active experiments at once; stop first if insomnia/wiredness/anxiety increases.",
+    "source_ids": "CAS-NEURO-05, CAS-NEURO-08, CAS-NOOT-01, CAS-NEURO-09, CAS-PEPT-02, CAS-NEURO-10, CAS-DET-02",
+    "canonical_id": "DAILY_MVP-028",
+    "referenced_ids": [
+      "CAS-DET-02",
+      "CAS-NEURO-05",
+      "CAS-NEURO-08",
+      "CAS-NEURO-09",
+      "CAS-NEURO-10",
+      "CAS-NOOT-01",
+      "CAS-PEPT-02"
+    ]
+  },
+  {
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Constipation → hold binder ramp / hold antifungal escalation.\nNausea/bile reflux/RUQ pain → hold bile-flow agents.\nInsomnia/wired → remove newest stimulatory adds first.\nLow BP/dizziness → reduce nitrates/vasodilators first.",
+    "notes": "De-escalate last-added first; do not 'push through' constipation, nausea, insomnia, or bile reflux.",
+    "source_ids": "CPO",
+    "canonical_id": "DAILY_MVP-029",
+    "referenced_ids": []
+  },
+  {
+    "time_block": "Phase 3.0 — MVP Daily Spine (minimal dosing events)",
+    "what_to_do_take": null,
+    "notes": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_MVP-031",
+    "referenced_ids": []
+  },
+  {
+    "time_block": "On waking",
+    "what_to_do_take": "Hydration Baseline [COP-23]\nOptional: Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "notes": "Default: 300–500 mL water on waking. Keep binder window clean; avoid taking other supplements immediately before psyllium.",
+    "source_ids": "COP-23, CAS-FOOD-03",
+    "canonical_id": "DAILY_MVP-032",
+    "referenced_ids": [
+      "CAS-FOOD-03",
+      "COP-23"
+    ]
+  },
+  {
+    "time_block": "Binder window (fasted)",
+    "what_to_do_take": "Psyllium — 5–10 g in water [CAS-GUT-01]\nCarrot salad [CAS-FOOD-01]",
+    "notes": "Fasted. Take psyllium with a full glass; wait 20–30 min before carrot salad. Keep other supplements/meds away from this window when possible.",
+    "source_ids": "CAS-GUT-01, CAS-FOOD-01",
+    "canonical_id": "DAILY_MVP-033",
+    "referenced_ids": [
+      "CAS-FOOD-01",
+      "CAS-GUT-01"
+    ]
+  },
+  {
+    "time_block": "First meal (post-binder)",
+    "what_to_do_take": "Taurine — 1g [CAS-LIV-01]\nMSM — 750mg [CAS-LIV-02]\nMolybdenum — 100-200mcg [CAS-LIV-03]\nPHGG — 1-2g [CAS-GUT-03]\nMegaSporeBiotic — 0.5→1 cap [CAS-GUT-04]\nBenfotiamine — 150-300mg [CAS-MITO-05]\nBoron — 6–9mg [CAS-MIN-01]\nTTFD (Thiamine Tetrahydrofurfuryl Disulfide) — 50–200mg [CAS-MITO-06]\nTongkat Ali — 400-600mg [CAS-ANDRO-01]\nCistanche — 1000-2000mg [CAS-ANDRO-02]\nPregnenolone — 10-20mg [CAS-STERO-01]\nDHEA — 5-15mg [CAS-STERO-02]\nCreatine — 5g [CAS-MITO-01]\nLCLT — 2g [CAS-MITO-02]\nLactobacillus reuteri — 1–2B CFU [CAS-PRO-02]\nNiacinamide — 250–500mg [CAS-B-01]\nTributyrin — 300–600mg [CAS-GUT-07]\nUndecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "notes": "Take with first post-binder meal. Keep ≥60–90 min after psyllium when practical. Undecylenic acid is 'with meals'—split across meals if dosing >1 cap/day.",
+    "source_ids": "CAS-LIV-01, CAS-LIV-02, CAS-LIV-03, CAS-GUT-03, CAS-GUT-04, CAS-MITO-05, CAS-MIN-01, CAS-MITO-06, CAS-ANDRO-01, CAS-ANDRO-02, CAS-STERO-01, CAS-STERO-02, CAS-MITO-01, CAS-MITO-02, CAS-PRO-02, CAS-B-01, CAS-GUT-07, CAS-FUNG-01",
+    "canonical_id": "DAILY_MVP-034",
+    "referenced_ids": [
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-B-01",
+      "CAS-FUNG-01",
+      "CAS-GUT-03",
+      "CAS-GUT-04",
+      "CAS-GUT-07",
+      "CAS-LIV-01",
+      "CAS-LIV-02",
+      "CAS-LIV-03",
+      "CAS-MIN-01",
+      "CAS-MITO-01",
+      "CAS-MITO-02",
+      "CAS-MITO-05",
+      "CAS-MITO-06",
+      "CAS-PRO-02",
+      "CAS-STERO-01",
+      "CAS-STERO-02"
+    ]
+  },
+  {
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Magnesium glycinate — 200-300mg [CAS-MICRO-03]\nGlycine — 2-3g [CAS-AMINO-01]",
+    "notes": "Sleep anchor. If insomnia worsens, reduce newest daytime additions before changing bedtime anchor.",
+    "source_ids": "CAS-MICRO-03, CAS-AMINO-01",
+    "canonical_id": "DAILY_MVP-035",
+    "referenced_ids": [
+      "CAS-AMINO-01",
+      "CAS-MICRO-03"
+    ]
+  },
+  {
+    "time_block": "MVP Practices",
+    "what_to_do_take": "Hydration Baseline — Daily — On waking + throughout day [COP-23]\nSleep Optimization Practices — Daily — Evening [COP-14]\nDiaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]\nPelvic Mobility Drills — Daily — AM or PM [COP-04]\nReverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]\nNasal PBM — 3–7x/week — Evening or morning [COP-06]\nOlfactory Training Protocol — Daily — Any [COP-19]\nAngion v2 Microvascular Training — 2–3x/week — Pre- or post-vascular stack [COP-10]\nSensate Focus Mapping — 2–4x/week — Private time [COP-08]",
+    "notes": "MVP practice set (keep it short). Rule: no daily Angion (if used; Phase 2+).",
+    "source_ids": "COP-23, COP-14, COP-12, COP-04, COP-01, COP-06, COP-19, COP-10, COP-08",
+    "canonical_id": "DAILY_MVP-036",
+    "referenced_ids": [
+      "COP-01",
+      "COP-04",
+      "COP-06",
+      "COP-08",
+      "COP-10",
+      "COP-12",
+      "COP-14",
+      "COP-19",
+      "COP-23"
+    ]
+  },
+  {
+    "time_block": "Support add-ons (optional)",
+    "what_to_do_take": "Agmatine — 500-1000mg [CAS-VAS-07]\nBerberine — 150-300mg [CAS-MET-03]\nL-Arginine — 1-3g [CAS-VAS-12]\nHMB — 1.5-3g [CAS-MITO-03]\nNattokinase — 100-200mg [CAS-VAS-11]\nRetinol — 5000IU [CAS-VIT-01]\nNiacin (flush) — 50-100mg [CAS-MET-07]",
+    "notes": "Support add-ons (optional): add only when needed/tolerated; prefer 1 change at a time; de-escalate last-added first.",
+    "source_ids": "CAS-VAS-07, CAS-MET-03, CAS-VAS-12, CAS-MITO-03, CAS-VAS-11, CAS-VIT-01, CAS-MET-07",
+    "canonical_id": "DAILY_MVP-037",
+    "referenced_ids": [
+      "CAS-MET-03",
+      "CAS-MET-07",
+      "CAS-MITO-03",
+      "CAS-VAS-07",
+      "CAS-VAS-11",
+      "CAS-VAS-12",
+      "CAS-VIT-01"
+    ]
+  },
+  {
+    "time_block": "Experimental / cycled (optional)",
+    "what_to_do_take": "Proviron — 12.5mg [CAS-ANDRO-10]\nBPC-157 — 250-500mcg [CAS-PEPT-01]\n4'-DMA-7,8-DHF — Experimental microdose [CAS-NEURO-06]\nPhenylpiracetam — 50–100mg [CAS-NOOT-02]\nNattokinase — 100-200mg [CAS-VAS-11]\nNiacin (flush) — 50-100mg [CAS-MET-07]\nRetinol — 5000IU [CAS-VIT-01]",
+    "notes": "Experimental/cycled: keep to 1–2 active experiments at once; stop first if insomnia/wiredness/anxiety increases.",
+    "source_ids": "CAS-ANDRO-10, CAS-PEPT-01, CAS-NEURO-06, CAS-NOOT-02, CAS-VAS-11, CAS-MET-07, CAS-VIT-01",
+    "canonical_id": "DAILY_MVP-038",
+    "referenced_ids": [
+      "CAS-ANDRO-10",
+      "CAS-MET-07",
+      "CAS-NEURO-06",
+      "CAS-NOOT-02",
+      "CAS-PEPT-01",
+      "CAS-VAS-11",
+      "CAS-VIT-01"
+    ]
+  },
+  {
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Constipation → hold binder ramp / hold antifungal escalation.\nNausea/bile reflux/RUQ pain → hold bile-flow agents.\nInsomnia/wired → remove newest stimulatory adds first.\nLow BP/dizziness → reduce nitrates/vasodilators first.",
+    "notes": "De-escalate last-added first; do not 'push through' constipation, nausea, insomnia, or bile reflux.",
+    "source_ids": "CPO",
+    "canonical_id": "DAILY_MVP-039",
+    "referenced_ids": []
+  }
+]

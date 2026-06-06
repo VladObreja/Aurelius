@@ -1,0 +1,61 @@
+[
+  {
+    "product_id": "PROD-001",
+    "name": "HCGenerate ES (Extra Strength)",
+    "brand": "NeedToBuildMuscle (historical)",
+    "format": "Capsules",
+    "ingredients": "Fadogia agrestis, Bulbine natalensis, Urtica dioica, Fenugreek extract, Maca extract, Zinc, Vitamin E, Mucuna pruriens (L-DOPA)",
+    "mapped_cas_ids": "CAS-ANDRO-04, CAS-ANDRO-05, CAS-ANDRO-03, CAS-ANDRO-06, CAS-ANDRO-07, CAS-MIN-01, CAS-ANTIOX-01, CAS-NEURO-07",
+    "quality_rating": "Medium-high (strong anecdotal support, product discontinued)",
+    "status": "Not sourceable",
+    "notes": "Previously used by Captain with strong libido/drive recovery; no longer available so deconstructed into CAS components.",
+    "canonical_id": "PROD-001",
+    "referenced_ids": [
+      "CAS-ANDRO-03",
+      "CAS-ANDRO-04",
+      "CAS-ANDRO-05",
+      "CAS-ANDRO-06",
+      "CAS-ANDRO-07",
+      "CAS-ANTIOX-01",
+      "CAS-MIN-01",
+      "CAS-NEURO-07",
+      "PROD-001"
+    ]
+  },
+  {
+    "product_id": "PROD-002",
+    "name": "Edovis",
+    "brand": "ArcaPharma",
+    "format": "Sachets",
+    "ingredients": "L-Citrulline, Maca Andina, Muira puama, Damiana, Tribulus terrestris",
+    "mapped_cas_ids": "CAS-VAS-01, CAS-ANDRO-07, CAS-ANDRO-08, CAS-ANDRO-09, CAS-ANDRO-10",
+    "quality_rating": "Medium",
+    "status": "Sourceable",
+    "notes": "Blend overlapping with existing CAS agents; may be used occasionally but individual compounds preferred for control.",
+    "canonical_id": "PROD-002",
+    "referenced_ids": [
+      "CAS-ANDRO-07",
+      "CAS-ANDRO-08",
+      "CAS-ANDRO-09",
+      "CAS-ANDRO-10",
+      "CAS-VAS-01",
+      "PROD-002"
+    ]
+  },
+  {
+    "product_id": "PROD-003",
+    "name": "Endotelon 150 mg (procyanidolic oligomers)",
+    "brand": "Cheplapharm (varies by market)",
+    "format": "Gastro-resistant tablets",
+    "ingredients": "Procyanidolic oligomers (standardized grape seed extract)",
+    "mapped_cas_ids": "CAS-VAS-15",
+    "quality_rating": "High (standardized Rx/OTC venotonic; clinical use in CVI)",
+    "status": "To source",
+    "notes": "Typical dosing reported: 1 tab AM + 1 tab PM (20 days/month) for venous symptoms; consider 150–300 mg/day. Monitor bruising if combined with aspirin/omega-3.",
+    "canonical_id": "PROD-003",
+    "referenced_ids": [
+      "CAS-VAS-15",
+      "PROD-003"
+    ]
+  }
+]

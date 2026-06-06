@@ -1,0 +1,430 @@
+[
+  {
+    "axis_id": 1,
+    "axis_name": "Androgen Axis",
+    "desired_biomarkers": "Total T high-normal, free T high; DHT robust; SHBG mid-range; estradiol balanced.",
+    "phenotype_expression": "Strong morning wood, fast arousal, aggressive drive when needed, stable confidence and muscle retention.",
+    "cas_support": "CAS-ANDRO-01, CAS-ANDRO-02, CAS-ANDRO-10, CAS-STERO-02, CAS-MICRO-01",
+    "cop_support": "COP-01, COP-02, COP-03, COP-13, COP-17",
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": null,
+    "canonical_id": "HFMP-1",
+    "cas_support_list": [
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-ANDRO-10",
+      "CAS-STERO-02",
+      "CAS-MICRO-01"
+    ],
+    "cop_support_list": [
+      "COP-01",
+      "COP-02",
+      "COP-03",
+      "COP-13",
+      "COP-17"
+    ],
+    "phases_expressed_list": [],
+    "referenced_ids": [
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-02",
+      "CAS-ANDRO-10",
+      "CAS-MICRO-01",
+      "CAS-STERO-02",
+      "COP-01",
+      "COP-02",
+      "COP-03",
+      "COP-13",
+      "COP-17",
+      "HFMP-1"
+    ]
+  },
+  {
+    "axis_id": 2,
+    "axis_name": "Dopamine Axis",
+    "desired_biomarkers": "Healthy prolactin (low-normal), adequate tyrosine availability, good sleep architecture.",
+    "phenotype_expression": "Intrinsic motivation, curiosity, pursuit behavior, stable focus, no anhedonia.",
+    "cas_support": "CAS-MET-01, CAS-MITO-05, CAS-MITO-01, CAS-NEURO-10, CAS-ANTIOX-01",
+    "cop_support": "COP-06, COP-11, COP-14, COP-18",
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": null,
+    "canonical_id": "HFMP-2",
+    "cas_support_list": [
+      "CAS-MET-01",
+      "CAS-MITO-05",
+      "CAS-MITO-01",
+      "CAS-NEURO-10",
+      "CAS-ANTIOX-01"
+    ],
+    "cop_support_list": [
+      "COP-06",
+      "COP-11",
+      "COP-14",
+      "COP-18"
+    ],
+    "phases_expressed_list": [],
+    "referenced_ids": [
+      "CAS-ANTIOX-01",
+      "CAS-MET-01",
+      "CAS-MITO-01",
+      "CAS-MITO-05",
+      "CAS-NEURO-10",
+      "COP-06",
+      "COP-11",
+      "COP-14",
+      "COP-18",
+      "HFMP-2"
+    ]
+  },
+  {
+    "axis_id": 3,
+    "axis_name": "Thyroid Axis (T3 Dominant)",
+    "desired_biomarkers": "TSH ~0.5–1.5 mIU/L, FT3 upper half of range, FT4 midrange, low rT3.",
+    "phenotype_expression": "Warm hands and feet, easy fat loss, high output capacity without crashing.",
+    "cas_support": "CAS-MITO-05, CAS-MICRO-02, CAS-INF-01, CAS-LIP-01",
+    "cop_support": "COP-11, COP-14, COP-18, COP-20",
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": null,
+    "canonical_id": "HFMP-3",
+    "cas_support_list": [
+      "CAS-MITO-05",
+      "CAS-MICRO-02",
+      "CAS-INF-01",
+      "CAS-LIP-01"
+    ],
+    "cop_support_list": [
+      "COP-11",
+      "COP-14",
+      "COP-18",
+      "COP-20"
+    ],
+    "phases_expressed_list": [],
+    "referenced_ids": [
+      "CAS-INF-01",
+      "CAS-LIP-01",
+      "CAS-MICRO-02",
+      "CAS-MITO-05",
+      "COP-11",
+      "COP-14",
+      "COP-18",
+      "COP-20",
+      "HFMP-3"
+    ]
+  },
+  {
+    "axis_id": 4,
+    "axis_name": "Prolactin Axis (Suppressed)",
+    "desired_biomarkers": "Prolactin low-normal (~4–9 ng/mL).",
+    "phenotype_expression": "Fast recovery between sexual sessions, absence of post-orgasm dysphoria, sustained libido.",
+    "cas_support": "CAS-ANDRO-01, CAS-ANDRO-10, CAS-MET-01",
+    "cop_support": "COP-08, COP-09, COP-21",
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": null,
+    "canonical_id": "HFMP-4",
+    "cas_support_list": [
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-10",
+      "CAS-MET-01"
+    ],
+    "cop_support_list": [
+      "COP-08",
+      "COP-09",
+      "COP-21"
+    ],
+    "phases_expressed_list": [],
+    "referenced_ids": [
+      "CAS-ANDRO-01",
+      "CAS-ANDRO-10",
+      "CAS-MET-01",
+      "COP-08",
+      "COP-09",
+      "COP-21",
+      "HFMP-4"
+    ]
+  },
+  {
+    "axis_id": 5,
+    "axis_name": "Histamine/VEGF Axis",
+    "desired_biomarkers": "Histamine not pathologically high (no chronic allergy), VEGF adaptable, good microcirculation.",
+    "phenotype_expression": "High arousal capacity, sensitive but not overloaded, strong 'alive' feeling in tissues.",
+    "cas_support": "CAS-VAS-03, CAS-VAS-01, CAS-VAS-02, CAS-VAS-04, CAS-VAS-05",
+    "cop_support": "COP-10, COP-11, COP-18",
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": null,
+    "canonical_id": "HFMP-5",
+    "cas_support_list": [
+      "CAS-VAS-03",
+      "CAS-VAS-01",
+      "CAS-VAS-02",
+      "CAS-VAS-04",
+      "CAS-VAS-05"
+    ],
+    "cop_support_list": [
+      "COP-10",
+      "COP-11",
+      "COP-18"
+    ],
+    "phases_expressed_list": [],
+    "referenced_ids": [
+      "CAS-VAS-01",
+      "CAS-VAS-02",
+      "CAS-VAS-03",
+      "CAS-VAS-04",
+      "CAS-VAS-05",
+      "COP-10",
+      "COP-11",
+      "COP-18",
+      "HFMP-5"
+    ]
+  },
+  {
+    "axis_id": 6,
+    "axis_name": "Mitochondrial Axis",
+    "desired_biomarkers": "Normal lactate, good fasting glucose/insulin, no chronic fatigue markers.",
+    "phenotype_expression": "High endurance, ability to do work repeatedly, low DOMS, fast recovery.",
+    "cas_support": "CAS-MITO-01, CAS-MITO-02, CAS-MITO-03, CAS-MITO-05, CAS-MITO-06, CAS-MITO-07",
+    "cop_support": "COP-11, COP-18, COP-20",
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": null,
+    "canonical_id": "HFMP-6",
+    "cas_support_list": [
+      "CAS-MITO-01",
+      "CAS-MITO-02",
+      "CAS-MITO-03",
+      "CAS-MITO-05",
+      "CAS-MITO-06",
+      "CAS-MITO-07"
+    ],
+    "cop_support_list": [
+      "COP-11",
+      "COP-18",
+      "COP-20"
+    ],
+    "phases_expressed_list": [],
+    "referenced_ids": [
+      "CAS-MITO-01",
+      "CAS-MITO-02",
+      "CAS-MITO-03",
+      "CAS-MITO-05",
+      "CAS-MITO-06",
+      "CAS-MITO-07",
+      "COP-11",
+      "COP-18",
+      "COP-20",
+      "HFMP-6"
+    ]
+  },
+  {
+    "axis_id": 7,
+    "axis_name": "Endothelial / Vascular Axis",
+    "desired_biomarkers": "Healthy blood pressure, good NO response, low triglycerides, good HDL.",
+    "phenotype_expression": "Strong, fast erections; pump in the gym; warm extremities; no cold penis/glans.",
+    "cas_support": "CAS-VAS-01, CAS-VAS-02, CAS-VAS-03, CAS-VAS-04, CAS-VAS-05, CAS-VAS-06, CAS-VAS-07, CAS-VAS-08, CAS-LIP-01, CAS-INF-01, CAS-VAS-11",
+    "cop_support": "COP-05, COP-10, COP-11, COP-18",
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": null,
+    "canonical_id": "HFMP-7",
+    "cas_support_list": [
+      "CAS-VAS-01",
+      "CAS-VAS-02",
+      "CAS-VAS-03",
+      "CAS-VAS-04",
+      "CAS-VAS-05",
+      "CAS-VAS-06",
+      "CAS-VAS-07",
+      "CAS-VAS-08",
+      "CAS-LIP-01",
+      "CAS-INF-01",
+      "CAS-VAS-11"
+    ],
+    "cop_support_list": [
+      "COP-05",
+      "COP-10",
+      "COP-11",
+      "COP-18"
+    ],
+    "phases_expressed_list": [],
+    "referenced_ids": [
+      "CAS-INF-01",
+      "CAS-LIP-01",
+      "CAS-VAS-01",
+      "CAS-VAS-02",
+      "CAS-VAS-03",
+      "CAS-VAS-04",
+      "CAS-VAS-05",
+      "CAS-VAS-06",
+      "CAS-VAS-07",
+      "CAS-VAS-08",
+      "CAS-VAS-11",
+      "COP-05",
+      "COP-10",
+      "COP-11",
+      "COP-18",
+      "HFMP-7"
+    ]
+  },
+  {
+    "axis_id": 8,
+    "axis_name": "Gut–Liver Axis",
+    "desired_biomarkers": "Normal liver enzymes, good bile flow, no dysbiosis markers, low endotoxin.",
+    "phenotype_expression": "Stable energy after meals, no bloat, consistent stools, no skin flare after foods.",
+    "cas_support": "CAS-LIV-01, CAS-LIV-02, CAS-LIV-03, CAS-GUT-01, CAS-GUT-02, CAS-GUT-03, CAS-GUT-04, CAS-GUT-05, CAS-GUT-06, CAS-ANTIOX-01",
+    "cop_support": "COP-11, COP-14, COP-15",
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": null,
+    "canonical_id": "HFMP-8",
+    "cas_support_list": [
+      "CAS-LIV-01",
+      "CAS-LIV-02",
+      "CAS-LIV-03",
+      "CAS-GUT-01",
+      "CAS-GUT-02",
+      "CAS-GUT-03",
+      "CAS-GUT-04",
+      "CAS-GUT-05",
+      "CAS-GUT-06",
+      "CAS-ANTIOX-01"
+    ],
+    "cop_support_list": [
+      "COP-11",
+      "COP-14",
+      "COP-15"
+    ],
+    "phases_expressed_list": [],
+    "referenced_ids": [
+      "CAS-ANTIOX-01",
+      "CAS-GUT-01",
+      "CAS-GUT-02",
+      "CAS-GUT-03",
+      "CAS-GUT-04",
+      "CAS-GUT-05",
+      "CAS-GUT-06",
+      "CAS-LIV-01",
+      "CAS-LIV-02",
+      "CAS-LIV-03",
+      "COP-11",
+      "COP-14",
+      "COP-15",
+      "HFMP-8"
+    ]
+  },
+  {
+    "axis_id": 9,
+    "axis_name": "Neurosteroid Axis",
+    "desired_biomarkers": "Healthy pregnenolone and DHEA, cortisol not chronically high, good sleep.",
+    "phenotype_expression": "Rich emotional palette, strong pleasure from touch and sex, resilience to stress.",
+    "cas_support": "CAS-STERO-01, CAS-STERO-02, CAS-VIT-01",
+    "cop_support": "COP-14, COP-19",
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": null,
+    "canonical_id": "HFMP-9",
+    "cas_support_list": [
+      "CAS-STERO-01",
+      "CAS-STERO-02",
+      "CAS-VIT-01"
+    ],
+    "cop_support_list": [
+      "COP-14",
+      "COP-19"
+    ],
+    "phases_expressed_list": [],
+    "referenced_ids": [
+      "CAS-STERO-01",
+      "CAS-STERO-02",
+      "CAS-VIT-01",
+      "COP-14",
+      "COP-19",
+      "HFMP-9"
+    ]
+  },
+  {
+    "axis_id": 10,
+    "axis_name": "Fascia / Connective Tissue Axis",
+    "desired_biomarkers": "Normal collagen status, no chronic inflammation markers; micronutrients adequate.",
+    "phenotype_expression": "Elastic, springy body, no chronic stiffness, strong posture, powerful hips/pelvis.",
+    "cas_support": "CAS-MITO-03, CAS-MITO-01, CAS-ANTIOX-01, CAS-MICRO-03",
+    "cop_support": "COP-01, COP-02, COP-03, COP-04, COP-13, COP-17",
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": null,
+    "canonical_id": "HFMP-10",
+    "cas_support_list": [
+      "CAS-MITO-03",
+      "CAS-MITO-01",
+      "CAS-ANTIOX-01",
+      "CAS-MICRO-03"
+    ],
+    "cop_support_list": [
+      "COP-01",
+      "COP-02",
+      "COP-03",
+      "COP-04",
+      "COP-13",
+      "COP-17"
+    ],
+    "phases_expressed_list": [],
+    "referenced_ids": [
+      "CAS-ANTIOX-01",
+      "CAS-MICRO-03",
+      "CAS-MITO-01",
+      "CAS-MITO-03",
+      "COP-01",
+      "COP-02",
+      "COP-03",
+      "COP-04",
+      "COP-13",
+      "COP-17",
+      "HFMP-10"
+    ]
+  },
+  {
+    "axis_id": 11,
+    "axis_name": "BH4 / NOS Coupling (Pterin Axis)",
+    "desired_biomarkers": "Homocysteine in-range; neopterin/biopterin (if available); BP stable; CRP-hs low; subjective: less brain fog & headache, improved heat tolerance.",
+    "phenotype_expression": "Warm extremities, clearer cognition, better exercise tolerance and vascular tone; fewer pressure headaches; stable arousal without overstimulation.",
+    "cas_support": "CAS-BH4-01, CAS-BH4-02, CAS-BH4-03, CAS-MET-08",
+    "cop_support": null,
+    "cas_drivers": null,
+    "cop_drivers": null,
+    "cfs_dependencies": null,
+    "phases_expressed": "1.5,2,3",
+    "canonical_id": "HFMP-11",
+    "cas_support_list": [
+      "CAS-BH4-01",
+      "CAS-BH4-02",
+      "CAS-BH4-03",
+      "CAS-MET-08"
+    ],
+    "cop_support_list": [],
+    "phases_expressed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-BH4-01",
+      "CAS-BH4-02",
+      "CAS-BH4-03",
+      "CAS-MET-08",
+      "HFMP-11"
+    ]
+  }
+]

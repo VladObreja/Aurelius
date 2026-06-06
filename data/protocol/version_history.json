@@ -1,0 +1,210 @@
+[
+  {
+    "version": 1,
+    "date": "2025-01-10",
+    "changes": "Initial structured file",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-001",
+    "referenced_ids": []
+  },
+  {
+    "version": 1.1,
+    "date": "2025-12-09",
+    "changes": "Populated CAS, COP, CFS, HFMP, CLAB with detailed entries.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-002",
+    "referenced_ids": []
+  },
+  {
+    "version": 1.2,
+    "date": "2025-12-09",
+    "changes": "CAS massively expanded with all referenced agents; CPO IDs wired to CAS-*/COP-*.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-003",
+    "referenced_ids": []
+  },
+  {
+    "version": 1.3,
+    "date": "2025-12-09",
+    "changes": "CAS extended with additional referenced agents (Mitolipin, Succinate, OAA, LL-37, Actovegin, Boron, Pancreatic enzymes).",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-004",
+    "referenced_ids": []
+  },
+  {
+    "version": 1.4,
+    "date": "2025-12-09",
+    "changes": "Maximal CAS expansion per user list: added BHB, Fisetin, Jiaogulan, Mahkota Dewa, Ononis spinosa, Ginkgo, Lithium microdose, Enclomiphene, hCG, Testosterone (exogenous), Choline/Lecithin/Ox bile (negative), Fermented foods, Black Coffee, Kefir microbiota, generic SBOs, Acacia fiber, Sulforaphane, Angion v2, and related items.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-005",
+    "referenced_ids": []
+  },
+  {
+    "version": 1.5,
+    "date": "2025-12-09",
+    "changes": "Upgraded CPO with COP/CFS/HFMP crosslinks, operator ritual, contraindications and progression criteria. Added schema crosslink columns to CAS, COP, CFS, HFMP.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-006",
+    "referenced_ids": []
+  },
+  {
+    "version": 1.7,
+    "date": "2025-12-09",
+    "changes": "Added Foundation_Framework sheet; expanded CAS with glutathione (oral + liposomal), medical ozone, 7,8-DHF, 4'-DMA-7,8-DHF, Mucuna/L-DOPA, Maca, Fadogia, Bulbine, Muira, Damiana, Tribulus; updated CPO Phases 1.5/2/3 with optional redox/neuroplasticity tools; created Product_Table with HCGenerate ES and Edovis mapped to CAS.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-007",
+    "referenced_ids": []
+  },
+  {
+    "version": 1.8,
+    "date": "2025-12-09",
+    "changes": "Integrated TTFD, Uridine, Sulbuthiamine, Methylated B-complex, Boron, Piracetam and Phenylpiracetam into CAS and CPO per phase mapping.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-008",
+    "referenced_ids": []
+  },
+  {
+    "version": 1.9,
+    "date": "2025-12-09",
+    "changes": "Reconstructed Expansionist B: Added NAC, Tributyrin, L. reuteri, Semax, Mucuna, Ecklonia Cava to CPO; updated CAS accordingly.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-009",
+    "referenced_ids": []
+  },
+  {
+    "version": 1.1,
+    "date": "2025-12-09",
+    "changes": "Added Role column in CAS (psyllium tagged as Binder) and Binder_Window column in CPO for explicit AM fasted binder timing.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-010",
+    "referenced_ids": []
+  },
+  {
+    "version": 1.11,
+    "date": "2025-12-10",
+    "changes": "Deduplicated Tributyrin CAS entries; added CAS-NEURO-13 (Magnesium β-Hydroxybutyrate, MHB) and wired it into CPO Phase 2 and 3 as optional neurosexual module.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-011",
+    "referenced_ids": [
+      "CAS-NEURO-13"
+    ]
+  },
+  {
+    "version": 1.12,
+    "date": "2025-12-10",
+    "changes": "Added HMB (CAS-NEURO-14) to CAS; added HMB to CPO Phase 2 & 3 as neurosexual/androgenic module.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-012",
+    "referenced_ids": [
+      "CAS-NEURO-14"
+    ]
+  },
+  {
+    "version": 1.13,
+    "date": "2025-12-10",
+    "changes": "CAS audit expansion: added MB, Urolithin A, Niacinamide, Riboflavin, Cabergoline, Bromocriptine, T2, NDT, T3, Lugol's, KI, flush niacin, DAO, PS, cocoa flavanols, pentoxifylline, artichoke extract, milk thistle, hyaluronic acid, orthosilicic acid, microdose lithium.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-013",
+    "referenced_ids": []
+  },
+  {
+    "version": "1.17",
+    "date": "2025-12-12",
+    "changes": "CAS metadata normalization: Agmatine updated to Agmatine sulfate + filled CFS/HFMP/role/phase-dosage fields; Berberine entry enriched (kill-phase/metabolic role) + filled CFS/HFMP/role/phase-dosage fields.",
+    "who": "AI",
+    "canonical_id": "VERSION_HISTORY-014",
+    "referenced_ids": []
+  },
+  {
+    "version": "1.18",
+    "date": "2025-12-12",
+    "changes": "Removed Ecklonia cava from CPO (kept in CAS; removed pre-sex/Angion entry; replaced pre-workout row with Endotelon). Added Endotelon (standardized grape seed OPC) to CAS + Product Table; updated Phase 2 vascular stack accordingly.",
+    "who": "ChatGPT",
+    "canonical_id": "VERSION_HISTORY-015",
+    "referenced_ids": []
+  },
+  {
+    "version": "1.20",
+    "date": "2025-12-14",
+    "changes": "Zip-level fix: removed invalid formula in 00_Project_Overview (A6) causing Excel repair; appended overview instructions safely. Added COP-23 Hydration Baseline (append-only). Added new sheet 12_Daily_By_Phase (self-contained daily checklist per phase).",
+    "who": "ChatGPT",
+    "canonical_id": "VERSION_HISTORY-016",
+    "referenced_ids": [
+      "COP-23"
+    ]
+  },
+  {
+    "version": "1.22",
+    "date": "2025-12-14",
+    "changes": "Extended 12_Daily_By_Phase with Phase 3.0 self-contained daily checklist; added Phase 3 watch-for guidance (bleeding/stimulant/vasodilator stacking).",
+    "who": "ChatGPT",
+    "canonical_id": "VERSION_HISTORY-017",
+    "referenced_ids": []
+  },
+  {
+    "version": "v1.23",
+    "date": "2025-12-14",
+    "changes": "Added Tier column to 01_CPO (CORE/SUPPORT/EXPERIMENT); added 13_Daily_MVP_By_Phase (Minimum Viable daily spine per phase); updated overview instructions.",
+    "who": "GPT",
+    "canonical_id": "VERSION_HISTORY-018",
+    "referenced_ids": []
+  },
+  {
+    "version": "v1.24",
+    "date": "2025-12-14",
+    "changes": "Rebuilt 12_Daily_By_Phase into a timing-sorted, itemized list per phase (one item per row) with inline Optional flag and interaction notes; preserves self-contained 'what to do today' view without changing CPO/CAS/COP.",
+    "who": "GPT",
+    "canonical_id": "VERSION_HISTORY-019",
+    "referenced_ids": []
+  },
+  {
+    "version": "v1.25",
+    "date": "2025-12-14",
+    "changes": "Rebuilt 12_Daily_By_Phase from CPO/COP so each phase is cumulative (includes all prior applicable items) and phase-appropriate (COP Phase Allowed enforced). Added 14_Print_View sheet for one-page-per-phase print-style listing with optionals inline.",
+    "who": "GPT",
+    "canonical_id": "VERSION_HISTORY-020",
+    "referenced_ids": []
+  },
+  {
+    "version": "v1.26",
+    "date": "2025-12-14",
+    "changes": "Added continuation metadata columns to 01_CPO (CarryForward/Stop-Taper/Maintenance). Updated 12_Daily_By_Phase + 14_Print_View to display stop/taper + maintenance guidance inline per item.",
+    "who": "GPT",
+    "canonical_id": "VERSION_HISTORY-021",
+    "referenced_ids": []
+  },
+  {
+    "version": "v1.27",
+    "date": "2026-01-06",
+    "changes": "Added BH4/Pterin axis (HFMP-11); added CAS items: TMG, Royal Jelly, Sepiapterin, Sapropterin, and RESET-only Hops (8-PN); added CLAB: serum bile acids + homocysteine; created separate RESET track sheet with governance.",
+    "who": "GPT",
+    "canonical_id": "VERSION_HISTORY-022",
+    "referenced_ids": [
+      "HFMP-11"
+    ]
+  },
+  {
+    "version": "v1.28",
+    "date": "2026-01-06",
+    "changes": "CPO audit: fixed NAC & Niacin (flush) ID refs; added BH4/NOS module items (Royal Jelly, Sepiapterin, Sapropterin); added TMG methyl-buffer rail; added cocoa flavanols + artichoke/milk thistle options; added lab gates (serum bile acids, homocysteine) to progression; reinforced RESET separation note.",
+    "who": "GPT",
+    "canonical_id": "VERSION_HISTORY-023",
+    "referenced_ids": []
+  },
+  {
+    "version": "v1.29",
+    "date": "2026-01-06",
+    "changes": "Added 16_TEMP_PHASE_STACK: per-phase maximal menu (CPO + full CAS + COP) with heuristic Strength/Safety ranks (1–3) and MAIN vs RESET separation for temporary protocol regeneration.",
+    "who": "GPT",
+    "canonical_id": "VERSION_HISTORY-024",
+    "referenced_ids": []
+  },
+  {
+    "version": "v1.30",
+    "date": "2026-01-07",
+    "changes": "Integrated Turnbuckle-inspired modules (stem cell renewal + mitochondrial dynamics) into COP and daily practices: added Prolonged Water Fasting (Autophagy/Renewal), HBOT Cycle, and Mitochondrial Dynamics Training module; surfaced in Phase 2.0/3.0 Practices and TEMP phase menu. (Sources: Gemini Deep Research / Radical Architectures).",
+    "who": "GPT",
+    "canonical_id": "VERSION_HISTORY-025",
+    "referenced_ids": []
+  }
+]

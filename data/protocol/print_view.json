@@ -1,0 +1,1792 @@
+[
+  [
+    "PRINT VIEW — Generated from 12_Daily_By_Phase (self-contained per phase; optionals inline; includes stop/taper + maintenance)",
+    null,
+    null
+  ],
+  [
+    "Phase 1.0",
+    null,
+    null
+  ],
+  [
+    "On waking",
+    null,
+    null
+  ],
+  [
+    null,
+    "Hydration Baseline [COP-23]",
+    "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly; avoid overdrinking plain water."
+  ],
+  [
+    null,
+    "Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "Core tool in Phase 1 bile-dump strategy."
+  ],
+  [
+    "Binder window (fasted, mid-morning)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Psyllium — 5-10g [CAS-GUT-01]",
+    "AM fasted, 5–10g in water, 20–30 min before carrot salad and supplements; Binder\nCarry: Yes | Maint: 2–4×/week or PRN | Stop/Taper: Taper to PRN once stools stable 10–14d; reduce first if constipation."
+  ],
+  [
+    "Binder window (after psyllium)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Carrot salad [CAS-FOOD-01]",
+    "Endotoxin binding\nCarry: Yes | Maint: 3–5×/week or PRN | Stop/Taper: Maintenance once GI/skin stable 10–14d."
+  ],
+  [
+    "Post-binder meal (first meal)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Taurine — 1g [CAS-LIV-01]",
+    "Bile flow\nCarry: Yes | Maint: Daily or 3–5×/week | Stop/Taper: Reduce frequency once bile/GI stable 10–14d."
+  ],
+  [
+    null,
+    "MSM — 750mg [CAS-LIV-02]",
+    "Sulfur support\nCarry: Yes | Maint: 3–5×/week → discontinue | Stop/Taper: Taper off once skin/gut stable 14d; stop if sulfur intolerance/wired."
+  ],
+  [
+    null,
+    "Molybdenum — 100-200mcg [CAS-LIV-03]",
+    "Sulfur cofactor\nCarry: Yes | Maint: Daily with MSM; optional otherwise | Stop/Taper: Keep while MSM used; optional after MSM stopped."
+  ],
+  [
+    null,
+    "Beet extract — per label [CAS-VAS-08]",
+    "NO/liver\nCarry: PRN | Maint: PRN (training/sex days) | Stop/Taper: Use PRN; stop if low BP/dizziness."
+  ],
+  [
+    null,
+    "Vitamin C — 1g [CAS-ANTIOX-01]",
+    "Antioxidant\nCarry: Yes | Maint: Daily or PRN with vascular block | Stop/Taper: Optional long-term; reduce if GI irritation."
+  ],
+  [
+    null,
+    "Zinc — 20-30mg [CAS-MICRO-01]",
+    "Hormonal support\nCarry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 6–8 weeks; avoid long-term high-dose without monitoring."
+  ],
+  [
+    null,
+    "Selenium — 100-200mcg [CAS-MICRO-02]",
+    "Thyroid support\nCarry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 8–12 weeks."
+  ],
+  [
+    "With meals (split across meals)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Undecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "Primary antifungal; target Candida/yeast load and acetaldehyde. Start low; maintain binders and 1–2+ BMs/day.\nCarry: Course | Maint: Course; PRN pulses | Stop/Taper: Finite course: taper off after fungal/SD stable 14d; PRN pulses for relapse."
+  ],
+  [
+    "Lunch (with food)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Creatine — 5g [CAS-MITO-01]",
+    "ATP support\nCarry: Yes | Maint: Daily | Stop/Taper: Long-term OK."
+  ],
+  [
+    "Dinner (with food)",
+    null,
+    null
+  ],
+  [
+    null,
+    "TUDCA — 250mg — Daily (from Week 2) [CAS-LIV-04]",
+    "Take away from key fat-soluble vitamins by ~2 hours where possible.; Bile acid support in cholestasis; increases bile flow and protects cholangiocytes.\nCarry: Yes | Maint: 2–4×/week maintenance | Stop/Taper: Taper once motility + bile symptoms stable 10–14d; hold if bile reflux/RUQ pain."
+  ],
+  [
+    "Bedtime (PM)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Magnesium glycinate — 200-300mg [CAS-MICRO-03]",
+    "Sleep/relaxation\nCarry: Yes | Maint: Daily | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Glycine — 2-3g [CAS-AMINO-01]",
+    "Sleep/liver\nCarry: Yes | Maint: Daily or PRN | Stop/Taper: Optional long-term; reduce if daytime sedation."
+  ],
+  [
+    "Practices (today)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Reverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]",
+    "Short sets throughout day; avoid straining"
+  ],
+  [
+    null,
+    "Psoas Release — 3–7x/week — Evening or off days [COP-02]",
+    null
+  ],
+  [
+    null,
+    "Adductor & Hamstring Lengthening — 3–5x/week — Post-walk or training [COP-03]",
+    null
+  ],
+  [
+    null,
+    "Pelvic Mobility Drills — Daily — AM or PM [COP-04]",
+    null
+  ],
+  [
+    null,
+    "Nasal PBM — 3–7x/week — Evening or morning [COP-06]",
+    null
+  ],
+  [
+    null,
+    "Diaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]",
+    null
+  ],
+  [
+    null,
+    "Glute Activation Sequences — 3–5x/week — Pre-walk or training [COP-13]",
+    null
+  ],
+  [
+    null,
+    "Sleep Optimization Practices — Daily — Evening [COP-14]",
+    null
+  ],
+  [
+    null,
+    "Liver Pumping / Thoracic Mobilization — 3–7x/week — Evening [COP-15]",
+    null
+  ],
+  [
+    null,
+    "Vagal Reset Maneuvers — PRN + daily micro-practices — Any [COP-16]",
+    null
+  ],
+  [
+    null,
+    "Hydration Baseline — Daily — On waking + throughout day [COP-23]",
+    "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly. Avoid overdrinking plain water."
+  ],
+  [
+    "Watch-for / STOP-ADJUST",
+    null,
+    null
+  ],
+  [
+    null,
+    "Avoid choline, lecithin, ox bile, DIM, I3C, high-dose vitamin D, aggressive training.",
+    null
+  ],
+  [
+    null,
+    "Avoid starting at very high dose",
+    null
+  ],
+  [
+    null,
+    "caution if severe herx or constipation.",
+    null
+  ],
+  [
+    null,
+    "Avoid if severe diarrhea, strong bile reflux sensations, or new right-upper-quadrant pain.",
+    null
+  ],
+  [
+    "Advance when",
+    null,
+    null
+  ],
+  [
+    null,
+    "Stools more regular, nausea absent, energy modestly improved, SD beginning to ease, no worsening of symptoms.",
+    null
+  ],
+  [
+    "Phase 1.5",
+    null,
+    null
+  ],
+  [
+    "On waking",
+    null,
+    null
+  ],
+  [
+    null,
+    "Hydration Baseline [COP-23]",
+    "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly; avoid overdrinking plain water."
+  ],
+  [
+    null,
+    "Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "Core tool in Phase 1 bile-dump strategy."
+  ],
+  [
+    "Binder window (fasted, mid-morning)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Psyllium — 5-10g [CAS-GUT-01]",
+    "AM fasted, 5–10g in water, 20–30 min before carrot salad and supplements; Binder\nCarry: Yes | Maint: 2–4×/week or PRN | Stop/Taper: Taper to PRN once stools stable 10–14d; reduce first if constipation."
+  ],
+  [
+    "Binder window (after psyllium)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Carrot salad [CAS-FOOD-01]",
+    "Endotoxin binding\nCarry: Yes | Maint: 3–5×/week or PRN | Stop/Taper: Maintenance once GI/skin stable 10–14d."
+  ],
+  [
+    "Post-binder meal (first meal)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Taurine — 1g [CAS-LIV-01]",
+    "Bile flow\nCarry: Yes | Maint: Daily or 3–5×/week | Stop/Taper: Reduce frequency once bile/GI stable 10–14d."
+  ],
+  [
+    null,
+    "MSM — 750mg [CAS-LIV-02]",
+    "Sulfur support\nCarry: Yes | Maint: 3–5×/week → discontinue | Stop/Taper: Taper off once skin/gut stable 14d; stop if sulfur intolerance/wired."
+  ],
+  [
+    null,
+    "Molybdenum — 100-200mcg [CAS-LIV-03]",
+    "Sulfur cofactor\nCarry: Yes | Maint: Daily with MSM; optional otherwise | Stop/Taper: Keep while MSM used; optional after MSM stopped."
+  ],
+  [
+    null,
+    "Beet extract — per label [CAS-VAS-08]",
+    "NO/liver\nCarry: PRN | Maint: PRN (training/sex days) | Stop/Taper: Use PRN; stop if low BP/dizziness."
+  ],
+  [
+    null,
+    "Vitamin C — 1g [CAS-ANTIOX-01]",
+    "Antioxidant\nCarry: Yes | Maint: Daily or PRN with vascular block | Stop/Taper: Optional long-term; reduce if GI irritation."
+  ],
+  [
+    null,
+    "Zinc — 20-30mg [CAS-MICRO-01]",
+    "Hormonal support\nCarry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 6–8 weeks; avoid long-term high-dose without monitoring."
+  ],
+  [
+    null,
+    "Selenium — 100-200mcg [CAS-MICRO-02]",
+    "Thyroid support\nCarry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 8–12 weeks."
+  ],
+  [
+    null,
+    "Benfotiamine — 150-300mg [CAS-MITO-05]",
+    "Metabolic ignition\nCarry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once energy stable 14d."
+  ],
+  [
+    null,
+    "ALCAR — 500mg [CAS-MITO-06]",
+    "Neuro/mito\nCarry: PRN | Maint: PRN (training/drive days) | Stop/Taper: Use PRN; stop if insomnia/wired."
+  ],
+  [
+    null,
+    "Calcium D-Glucarate — 500mg [CAS-GUT-02]",
+    "Estrogen clearance\nCarry: PRN | Maint: 2–4×/week or PRN | Stop/Taper: Use during mobilization; taper when stable 14d."
+  ],
+  [
+    null,
+    "PHGG — 1-2g [CAS-GUT-03]",
+    "Prebiotic\nCarry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once stools stable 10–14d."
+  ],
+  [
+    null,
+    "MegaSporeBiotic — 0.5→1 cap [CAS-GUT-04]",
+    "Microbiome\nCarry: Course | Maint: Stop after course | Stop/Taper: Course 8–12 weeks then stop and reassess."
+  ],
+  [
+    null,
+    "Glutathione (oral, generic) — 250–500mg — Daily (optional) [CAS-DET-01]",
+    "Optional gentle GSH support once Phase 1 digestion is stable; avoid if nausea/bloating persist.\nCarry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks if tolerated."
+  ],
+  [
+    null,
+    "NAC — 600mg [CAS-BIO-02]",
+    "Optional detox and neuroinflammation reduction.\nCarry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks; stop if wired/insomnia."
+  ],
+  [
+    null,
+    "Sulforaphane (Broccoli Sprout Extract) — per label (e.g. 20–40mg) — 3–5×/week [CAS-INF-02]",
+    "Nrf2 activator; upregulates detox enzymes including ALDH, supports antioxidant defenses.\nCarry: PRN | Maint: 3–5×/week cycles | Stop/Taper: Optional/cycled; reduce frequency if headache/insomnia."
+  ],
+  [
+    null,
+    "Methylene Blue (low-dose) — 0.5–1mg/kg — 3–5×/week [CAS-MITO-15]",
+    "Low-dose mitochondrial and dopaminergic accelerator; improves ETC efficiency and may enhance mood/drive.\nCarry: PRN | Maint: 3–5×/week cycles (never continuous) | Stop/Taper: Cycled only; stop if insomnia/wired."
+  ],
+  [
+    "With meals (split across meals)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Undecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "Primary antifungal; target Candida/yeast load and acetaldehyde. Start low; maintain binders and 1–2+ BMs/day.\nCarry: Course | Maint: Course; PRN pulses | Stop/Taper: Finite course: taper off after fungal/SD stable 14d; PRN pulses for relapse."
+  ],
+  [
+    null,
+    "Niacinamide — 250–500mg [CAS-B-01]",
+    "Supports NAD+ pool, ALDH function, and lowers FFA; stabilizes metabolism.\nCarry: Yes | Maint: Daily with food or 3–5×/week | Stop/Taper: Reduce if over-sedation or GI effects."
+  ],
+  [
+    "Lunch (with food)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Creatine — 5g [CAS-MITO-01]",
+    "ATP support\nCarry: Yes | Maint: Daily | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Aspirin — 81mg — EOD [CAS-INF-01]",
+    "Anti-inflammatory\nCarry: Course | Maint: EOD course then reassess | Stop/Taper: Course; taper off once inflammation stable; stop if bruising/GI issues."
+  ],
+  [
+    null,
+    "Vitamin K2 — MK7 100-200mcg [CAS-MICRO-04]",
+    "Aspirin support\nCarry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Omega-3 — 500mg [CAS-LIP-01]",
+    "Anti-inflammatory\nCarry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK."
+  ],
+  [
+    "Dinner (with food)",
+    null,
+    null
+  ],
+  [
+    null,
+    "TUDCA — 250mg — Daily (from Week 2) [CAS-LIV-04]",
+    "Take away from key fat-soluble vitamins by ~2 hours where possible.; Bile acid support in cholestasis; increases bile flow and protects cholangiocytes.\nCarry: Yes | Maint: 2–4×/week maintenance | Stop/Taper: Taper once motility + bile symptoms stable 10–14d; hold if bile reflux/RUQ pain."
+  ],
+  [
+    "Bedtime (PM)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Magnesium glycinate — 200-300mg [CAS-MICRO-03]",
+    "Sleep/relaxation\nCarry: Yes | Maint: Daily | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Glycine — 2-3g [CAS-AMINO-01]",
+    "Sleep/liver\nCarry: Yes | Maint: Daily or PRN | Stop/Taper: Optional long-term; reduce if daytime sedation."
+  ],
+  [
+    null,
+    "ALA — 100-200mg [CAS-MITO-07]",
+    "Antioxidant\nCarry: PRN | Maint: 2–4×/week or cycles | Stop/Taper: Optional/cycled; stop if insomnia/wired."
+  ],
+  [
+    null,
+    "DHM — 100-300mg [CAS-NEURO-10]",
+    "GABA/liver\nCarry: PRN | Maint: PRN (evening) | Stop/Taper: PRN for aldehyde load; stop if daytime sedation."
+  ],
+  [
+    "Practices (today)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Reverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]",
+    "Short sets throughout day; avoid straining"
+  ],
+  [
+    null,
+    "Psoas Release — 3–7x/week — Evening or off days [COP-02]",
+    null
+  ],
+  [
+    null,
+    "Adductor & Hamstring Lengthening — 3–5x/week — Post-walk or training [COP-03]",
+    null
+  ],
+  [
+    null,
+    "Pelvic Mobility Drills — Daily — AM or PM [COP-04]",
+    null
+  ],
+  [
+    null,
+    "Nasal PBM — 3–7x/week — Evening or morning [COP-06]",
+    null
+  ],
+  [
+    null,
+    "Fascia & Pelvic Floor Neuro-Mechanics — 3–5x/week — Any [COP-07]",
+    null
+  ],
+  [
+    null,
+    "Sauna / Cold Contrast — 1–4x/week — Evening [COP-11]",
+    null
+  ],
+  [
+    null,
+    "Diaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]",
+    null
+  ],
+  [
+    null,
+    "Glute Activation Sequences — 3–5x/week — Pre-walk or training [COP-13]",
+    null
+  ],
+  [
+    null,
+    "Sleep Optimization Practices — Daily — Evening [COP-14]",
+    null
+  ],
+  [
+    null,
+    "Liver Pumping / Thoracic Mobilization — 3–7x/week — Evening [COP-15]",
+    null
+  ],
+  [
+    null,
+    "Vagal Reset Maneuvers — PRN + daily micro-practices — Any [COP-16]",
+    null
+  ],
+  [
+    null,
+    "Foot–Core Activation Chain — 3–5x/week — Pre-walk/training [COP-17]",
+    null
+  ],
+  [
+    null,
+    "Olfactory Training Protocol — Daily — Any [COP-19]",
+    null
+  ],
+  [
+    null,
+    "CO₂ Tolerance Breathwork — 3–5x/week — Any [COP-20]",
+    null
+  ],
+  [
+    null,
+    "Hydration Baseline — Daily — On waking + throughout day [COP-23]",
+    "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly. Avoid overdrinking plain water."
+  ],
+  [
+    "Watch-for / STOP-ADJUST",
+    null,
+    null
+  ],
+  [
+    null,
+    "Avoid choline, lecithin, ox bile, DIM, I3C, high-dose vitamin D, aggressive training.",
+    null
+  ],
+  [
+    null,
+    "Avoid starting at very high dose",
+    null
+  ],
+  [
+    null,
+    "caution if severe herx or constipation.",
+    null
+  ],
+  [
+    null,
+    "Avoid if severe diarrhea, strong bile reflux sensations, or new right-upper-quadrant pain.",
+    null
+  ],
+  [
+    null,
+    "Avoid stacking new stimulants",
+    null
+  ],
+  [
+    null,
+    "continue to avoid choline, ox bile and aggressive DIM/I3C usage.",
+    null
+  ],
+  [
+    null,
+    "Caution in severe liver disease",
+    null
+  ],
+  [
+    null,
+    "watch for unusual fatigue or paradoxical agitation.",
+    null
+  ],
+  [
+    null,
+    "May provoke mild detox/headache in sensitive individuals",
+    null
+  ],
+  [
+    null,
+    "start at lower frequency if needed.",
+    null
+  ],
+  [
+    null,
+    "Avoid with serotonergic drugs (SSRIs, MAOIs)",
+    null
+  ],
+  [
+    null,
+    "caution in G6PD deficiency",
+    null
+  ],
+  [
+    null,
+    "may discolor urine/teeth.",
+    null
+  ],
+  [
+    "Advance when",
+    null,
+    null
+  ],
+  [
+    null,
+    "Bloating and gut reactivity reduced, sleep stable, baseline libido flickers returning, stress tolerance better.",
+    null
+  ],
+  [
+    "Phase 2.0",
+    null,
+    null
+  ],
+  [
+    "On waking",
+    null,
+    null
+  ],
+  [
+    null,
+    "Hydration Baseline [COP-23]",
+    "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly; avoid overdrinking plain water."
+  ],
+  [
+    null,
+    "Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "Core tool in Phase 1 bile-dump strategy."
+  ],
+  [
+    "Binder window (fasted, mid-morning)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Psyllium — 5-10g [CAS-GUT-01]",
+    "AM fasted, 5–10g in water, 20–30 min before carrot salad and supplements; Binder\nCarry: Yes | Maint: 2–4×/week or PRN | Stop/Taper: Taper to PRN once stools stable 10–14d; reduce first if constipation."
+  ],
+  [
+    "Binder window (after psyllium)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Carrot salad [CAS-FOOD-01]",
+    "Endotoxin binding\nCarry: Yes | Maint: 3–5×/week or PRN | Stop/Taper: Maintenance once GI/skin stable 10–14d."
+  ],
+  [
+    "Post-binder meal (first meal)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Taurine — 1g [CAS-LIV-01]",
+    "Bile flow\nCarry: Yes | Maint: Daily or 3–5×/week | Stop/Taper: Reduce frequency once bile/GI stable 10–14d."
+  ],
+  [
+    null,
+    "MSM — 750mg [CAS-LIV-02]",
+    "Sulfur support\nCarry: Yes | Maint: 3–5×/week → discontinue | Stop/Taper: Taper off once skin/gut stable 14d; stop if sulfur intolerance/wired."
+  ],
+  [
+    null,
+    "Molybdenum — 100-200mcg [CAS-LIV-03]",
+    "Sulfur cofactor\nCarry: Yes | Maint: Daily with MSM; optional otherwise | Stop/Taper: Keep while MSM used; optional after MSM stopped."
+  ],
+  [
+    null,
+    "Zinc — 20-30mg [CAS-MICRO-01]",
+    "Hormonal support\nCarry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 6–8 weeks; avoid long-term high-dose without monitoring."
+  ],
+  [
+    null,
+    "Selenium — 100-200mcg [CAS-MICRO-02]",
+    "Thyroid support\nCarry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 8–12 weeks."
+  ],
+  [
+    null,
+    "Benfotiamine — 150-300mg [CAS-MITO-05]",
+    "Metabolic ignition\nCarry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once energy stable 14d."
+  ],
+  [
+    null,
+    "Calcium D-Glucarate — 500mg [CAS-GUT-02]",
+    "Estrogen clearance\nCarry: PRN | Maint: 2–4×/week or PRN | Stop/Taper: Use during mobilization; taper when stable 14d."
+  ],
+  [
+    null,
+    "PHGG — 1-2g [CAS-GUT-03]",
+    "Prebiotic\nCarry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once stools stable 10–14d."
+  ],
+  [
+    null,
+    "MegaSporeBiotic — 0.5→1 cap [CAS-GUT-04]",
+    "Microbiome\nCarry: Course | Maint: Stop after course | Stop/Taper: Course 8–12 weeks then stop and reassess."
+  ],
+  [
+    null,
+    "Glutathione (oral, generic) — 250–500mg — Daily (optional) [CAS-DET-01]",
+    "Optional gentle GSH support once Phase 1 digestion is stable; avoid if nausea/bloating persist.\nCarry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks if tolerated."
+  ],
+  [
+    null,
+    "NAC — 600mg [CAS-BIO-02]",
+    "Optional detox and neuroinflammation reduction.\nCarry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks; stop if wired/insomnia."
+  ],
+  [
+    null,
+    "Sulforaphane (Broccoli Sprout Extract) — per label (e.g. 20–40mg) — 3–5×/week [CAS-INF-02]",
+    "Nrf2 activator; upregulates detox enzymes including ALDH, supports antioxidant defenses.\nCarry: PRN | Maint: 3–5×/week cycles | Stop/Taper: Optional/cycled; reduce frequency if headache/insomnia."
+  ],
+  [
+    null,
+    "Methylene Blue (low-dose) — 0.5–1mg/kg — 3–5×/week [CAS-MITO-15]",
+    "Low-dose mitochondrial and dopaminergic accelerator; improves ETC efficiency and may enhance mood/drive.\nCarry: PRN | Maint: 3–5×/week cycles (never continuous) | Stop/Taper: Cycled only; stop if insomnia/wired."
+  ],
+  [
+    null,
+    "Tongkat Ali — 200-400mg [CAS-ANDRO-01]",
+    "Androgen\nCarry: Yes | Maint: 5 on / 2 off or blocks | Stop/Taper: Cycle to avoid tolerance; stop if irritability/insomnia."
+  ],
+  [
+    null,
+    "Cistanche — 500-1500mg [CAS-ANDRO-02]",
+    "Androgen\nCarry: Yes | Maint: 5 on / 2 off or blocks | Stop/Taper: Cycle to avoid tolerance; stop if irritability/insomnia."
+  ],
+  [
+    null,
+    "Pregnenolone — 5-10mg [CAS-STERO-01]",
+    "Neurosteroid\nCarry: Yes | Maint: Daily or 5 on / 2 off | Stop/Taper: Reassess with symptoms/labs; stop if insomnia/anxiety."
+  ],
+  [
+    null,
+    "DHEA — 5mg [CAS-STERO-02]",
+    "Neurosteroid\nCarry: Yes | Maint: Daily or 5 on / 2 off | Stop/Taper: Reassess with symptoms/labs; stop if acne/irritability/insomnia."
+  ],
+  [
+    null,
+    "SAM-e — 200mg [CAS-MET-01]",
+    "Methylation/dopamine\nCarry: PRN | Maint: 3–5×/week or PRN | Stop/Taper: Optional; stop if agitation/insomnia."
+  ],
+  [
+    null,
+    "7,8-Dihydroxyflavone (7,8-DHF) — 10–40mg — Daily (10 days on / 10 days off) – optional [CAS-NEURO-05]",
+    "TrkB agonist neuroplasticity cycle for olfactory/sexual circuits; do not combine with other strong neurotrophics in same window.\nCarry: PRN | Maint: 10 on / 10 off | Stop/Taper: Optional/cycled; stop if insomnia/anxiety."
+  ],
+  [
+    null,
+    "TTFD (Thiamine Tetrahydrofurfuryl Disulfide) — 50–200mg [CAS-MITO-06]",
+    "Metabolic ignition & dopamine support; stack with mitochondrial core once gut/liver stable.\nCarry: PRN | Maint: PRN (training/drive days) | Stop/Taper: Use PRN; stop if insomnia/wired."
+  ],
+  [
+    null,
+    "Boron — 6–9mg [CAS-MIN-01]",
+    "SHBG modulation and steroid hormone optimization; supports androgen axis. Suggested cycle: 2 weeks on / 1 week off.\nCarry: Yes | Maint: 2 weeks on / 1 off | Stop/Taper: As written: cycle."
+  ],
+  [
+    null,
+    "Uridine Monophosphate — 50–150mg [CAS-NEURO-08]",
+    "Synaptic and dopaminergic support; combine with DHA, avoid choline loading.\nCarry: PRN | Maint: Cycles only | Stop/Taper: Optional/cycled."
+  ],
+  [
+    null,
+    "Piracetam — 1200–2400mg [CAS-NOOT-01]",
+    "Racetam nootropic; supports sensory integration and possibly olfactory recovery.\nCarry: PRN | Maint: Cycles only | Stop/Taper: Optional/cycled."
+  ],
+  [
+    null,
+    "Sulbuthiamine — 200–400mg — 5 days on / 2 off [CAS-NEURO-09]",
+    "Dopamine/libido ignition; short cycles once Phase 2 terrain is clearly tolerated.\nCarry: PRN | Maint: 5 on / 2 off | Stop/Taper: Cycled only (as written)."
+  ],
+  [
+    null,
+    "Methylated B-Complex — Label-equivalent [CAS-VIT-05]",
+    "Methyl donors for neurotransmitter and energy metabolism once histamine/sleep are stable.\nCarry: Yes | Maint: 3–5×/week or daily | Stop/Taper: Optional long-term; reduce if overstimulation."
+  ],
+  [
+    null,
+    "Semax — 0.1–0.3mg IN — 5 days on / 2 off [CAS-PEPT-02]",
+    "BDNF, olfactory + motivational support.\nCarry: PRN | Maint: 5 on / 2 off | Stop/Taper: Cycled only; stop if agitation/insomnia."
+  ],
+  [
+    null,
+    "Mucuna Pruriens — 100–200mg — 10 on / 20 off [CAS-NEURO-10]",
+    "Dopaminergic ignition microcycles.\nCarry: PRN | Maint: PRN (evening) | Stop/Taper: PRN for aldehyde load; stop if daytime sedation."
+  ],
+  [
+    null,
+    "HMB (β-Hydroxy β-Methylbutyrate) — 1.5 g/day [CAS-NEURO-14]",
+    "Libido enhancement, improved drive, supports androgen receptor density.\nCarry: PRN | Maint: Training/sex days or blocks | Stop/Taper: Use with food; choose one HMB lane; stop if GI upset."
+  ],
+  [
+    "With meals (split across meals)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Undecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "Primary antifungal; target Candida/yeast load and acetaldehyde. Start low; maintain binders and 1–2+ BMs/day.\nCarry: Course | Maint: Course; PRN pulses | Stop/Taper: Finite course: taper off after fungal/SD stable 14d; PRN pulses for relapse."
+  ],
+  [
+    null,
+    "Niacinamide — 250–500mg [CAS-B-01]",
+    "Supports NAD+ pool, ALDH function, and lowers FFA; stabilizes metabolism.\nCarry: Yes | Maint: Daily with food or 3–5×/week | Stop/Taper: Reduce if over-sedation or GI effects."
+  ],
+  [
+    null,
+    "Endotelon (grape seed OPC) — 150–300mg/day (often 150mg BID) [CAS-VAS-15]",
+    "Venotonic/vasculoprotective; microcirculation & endothelial support\nCarry: Course | Maint: Block 8–12 w | Stop/Taper: Block 8–12 weeks then reassess; avoid stacking with aspirin/polyphenols if bruising."
+  ],
+  [
+    null,
+    "Tributyrin — 300–600mg [CAS-GUT-07]",
+    "Gut-brain axis enhancement; SCFA support.\nCarry: Yes | Maint: 3–5×/week | Stop/Taper: Taper once stools stable 14d."
+  ],
+  [
+    null,
+    "Lactobacillus reuteri — 1–2B CFU [CAS-PRO-02]",
+    "Oxytocin + libido enhancement; HFMP alignment.\nCarry: Course | Maint: Stop after course or cycle | Stop/Taper: Course 8–12 weeks then reassess."
+  ],
+  [
+    "Lunch (with food)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Creatine — 5g [CAS-MITO-01]",
+    "ATP support\nCarry: Yes | Maint: Daily | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Aspirin — 81mg — EOD [CAS-INF-01]",
+    "Anti-inflammatory\nCarry: Course | Maint: EOD course then reassess | Stop/Taper: Course; taper off once inflammation stable; stop if bruising/GI issues."
+  ],
+  [
+    null,
+    "Vitamin K2 — MK7 100-200mcg [CAS-MICRO-04]",
+    "Aspirin support\nCarry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Omega-3 — 500mg [CAS-LIP-01]",
+    "Anti-inflammatory\nCarry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "LCLT — 1-2g [CAS-MITO-02]",
+    "Androgen receptor\nCarry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK; stop if fishy odor or GI intolerance."
+  ],
+  [
+    null,
+    "Reduced Glutathione (liposomal) — 250–500mg — Daily (optional) [CAS-DET-02]",
+    "Liposomal GSH layered after terrain stabilization to support mitochondrial redox; optional accelerator.\nCarry: PRN | Maint: 2–4×/week or blocks | Stop/Taper: Optional mitochondrial/antioxidant support; use in short blocks if tolerated."
+  ],
+  [
+    "Dinner (with food)",
+    null,
+    null
+  ],
+  [
+    null,
+    "TUDCA — 250mg — Daily (from Week 2) [CAS-LIV-04]",
+    "Take away from key fat-soluble vitamins by ~2 hours where possible.; Bile acid support in cholestasis; increases bile flow and protects cholangiocytes.\nCarry: Yes | Maint: 2–4×/week maintenance | Stop/Taper: Taper once motility + bile symptoms stable 10–14d; hold if bile reflux/RUQ pain."
+  ],
+  [
+    "Pre-workout / pre-sex (acute signaling)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Citrulline — 6g [CAS-VAS-01]",
+    "NO precursor\nCarry: PRN | Maint: Training/sex days only | Stop/Taper: Acute tool for training/sex days."
+  ],
+  [
+    null,
+    "Icariin — 150-200mg [CAS-VAS-02]",
+    "PDE5 mild\nCarry: PRN | Maint: Training/sex days only | Stop/Taper: Acute tool for training/sex days."
+  ],
+  [
+    null,
+    "Histidine — 500-1000mg [CAS-VAS-03]",
+    "VEGF modulation\nCarry: PRN | Maint: PRN | Stop/Taper: Optional acute adjunct; stop if histamine symptoms."
+  ],
+  [
+    null,
+    "Hesperidin — 250mg [CAS-VAS-04]",
+    "Vascular\nCarry: PRN | Maint: PRN | Stop/Taper: Optional adjunct; low priority if low BP."
+  ],
+  [
+    null,
+    "Pycnogenol — 50-100mg [CAS-VAS-05]",
+    "Vascular\nCarry: PRN | Maint: PRN or blocks | Stop/Taper: Prefer as block (8–12 w) if used chronically; watch bleeding with aspirin."
+  ],
+  [
+    null,
+    "Vitamin C — 500-1000mg [CAS-ANTIOX-01]",
+    "Antioxidant\nCarry: Yes | Maint: Daily or PRN with vascular block | Stop/Taper: Optional long-term; reduce if GI irritation."
+  ],
+  [
+    null,
+    "Beet nitrate — 300-600mg [CAS-VAS-08]",
+    "NO\nCarry: PRN | Maint: PRN (training/sex days) | Stop/Taper: Use PRN; stop if low BP/dizziness."
+  ],
+  [
+    "Bedtime (PM)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Magnesium glycinate — 200-300mg [CAS-MICRO-03]",
+    "Sleep/relaxation\nCarry: Yes | Maint: Daily | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Glycine — 2-3g [CAS-AMINO-01]",
+    "Sleep/liver\nCarry: Yes | Maint: Daily or PRN | Stop/Taper: Optional long-term; reduce if daytime sedation."
+  ],
+  [
+    null,
+    "ALA — 100-200mg [CAS-MITO-07]",
+    "Antioxidant\nCarry: PRN | Maint: 2–4×/week or cycles | Stop/Taper: Optional/cycled; stop if insomnia/wired."
+  ],
+  [
+    null,
+    "Magnesium β-Hydroxybutyrate (MHB) — 500–1500mg — 3x/week [CAS-NEURO-13]",
+    "Optional neurosexual module; take with food in late afternoon or evening; aim for mild relaxation, not sedation.\nCarry: PRN | Maint: 2–4×/week cycles | Stop/Taper: Cycled only; stop if oversedation/dizziness."
+  ],
+  [
+    "Practices (today)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Reverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]",
+    "Short sets throughout day; avoid straining"
+  ],
+  [
+    null,
+    "Psoas Release — 3–7x/week — Evening or off days [COP-02]",
+    null
+  ],
+  [
+    null,
+    "Adductor & Hamstring Lengthening — 3–5x/week — Post-walk or training [COP-03]",
+    null
+  ],
+  [
+    null,
+    "Pelvic Mobility Drills — Daily — AM or PM [COP-04]",
+    null
+  ],
+  [
+    null,
+    "Perineal PBM (red/IR light) — 3–7x/week — Evening [COP-05]",
+    "5–10 minutes/session, avoid overheating"
+  ],
+  [
+    null,
+    "Nasal PBM — 3–7x/week — Evening or morning [COP-06]",
+    null
+  ],
+  [
+    null,
+    "Fascia & Pelvic Floor Neuro-Mechanics — 3–5x/week — Any [COP-07]",
+    null
+  ],
+  [
+    null,
+    "Sensate Focus Mapping — 2–4x/week — Private time [COP-08]",
+    null
+  ],
+  [
+    null,
+    "Feather-Touch Neuroerotic Training — 2–4x/week — Private time [COP-09]",
+    null
+  ],
+  [
+    null,
+    "Angion v2 Microvascular Training — 2–3x/week — Pre- or post-vascular stack [COP-10]",
+    "Avoid overuse; skip if pain or neuropathy flare"
+  ],
+  [
+    null,
+    "Sauna / Cold Contrast — 1–4x/week — Evening [COP-11]",
+    null
+  ],
+  [
+    null,
+    "Diaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]",
+    null
+  ],
+  [
+    null,
+    "Glute Activation Sequences — 3–5x/week — Pre-walk or training [COP-13]",
+    null
+  ],
+  [
+    null,
+    "Sleep Optimization Practices — Daily — Evening [COP-14]",
+    null
+  ],
+  [
+    null,
+    "Liver Pumping / Thoracic Mobilization — 3–7x/week — Evening [COP-15]",
+    null
+  ],
+  [
+    null,
+    "Vagal Reset Maneuvers — PRN + daily micro-practices — Any [COP-16]",
+    null
+  ],
+  [
+    null,
+    "Foot–Core Activation Chain — 3–5x/week — Pre-walk/training [COP-17]",
+    null
+  ],
+  [
+    null,
+    "Infrared Sauna Protocol — 1–3x/week — Evening [COP-18]",
+    null
+  ],
+  [
+    null,
+    "Olfactory Training Protocol — Daily — Any [COP-19]",
+    null
+  ],
+  [
+    null,
+    "CO₂ Tolerance Breathwork — 3–5x/week — Any [COP-20]",
+    null
+  ],
+  [
+    null,
+    "Micro-Arousal Sensory Conditioning — 2–3x/week — Private time [COP-21]",
+    null
+  ],
+  [
+    null,
+    "Glans Sensitivity Reversal Protocol — 2–4x/week — Private time [COP-22]",
+    null
+  ],
+  [
+    null,
+    "Hydration Baseline — Daily — On waking + throughout day [COP-23]",
+    "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly. Avoid overdrinking plain water."
+  ],
+  [
+    "Watch-for / STOP-ADJUST",
+    null,
+    null
+  ],
+  [
+    null,
+    "Avoid choline, lecithin, ox bile, DIM, I3C, high-dose vitamin D, aggressive training.",
+    null
+  ],
+  [
+    null,
+    "No daily Angion",
+    null
+  ],
+  [
+    null,
+    "avoid overtraining",
+    null
+  ],
+  [
+    null,
+    "cycle dopaminergics",
+    null
+  ],
+  [
+    null,
+    "monitor for anxiety, insomnia or excessive sympathetic tone.",
+    null
+  ],
+  [
+    null,
+    "Avoid starting at very high dose",
+    null
+  ],
+  [
+    null,
+    "caution if severe herx or constipation.",
+    null
+  ],
+  [
+    null,
+    "Avoid if severe diarrhea, strong bile reflux sensations, or new right-upper-quadrant pain.",
+    null
+  ],
+  [
+    null,
+    "Avoid stacking new stimulants",
+    null
+  ],
+  [
+    null,
+    "continue to avoid choline, ox bile and aggressive DIM/I3C usage.",
+    null
+  ],
+  [
+    null,
+    "Caution in severe liver disease",
+    null
+  ],
+  [
+    null,
+    "watch for unusual fatigue or paradoxical agitation.",
+    null
+  ],
+  [
+    null,
+    "May provoke mild detox/headache in sensitive individuals",
+    null
+  ],
+  [
+    null,
+    "start at lower frequency if needed.",
+    null
+  ],
+  [
+    null,
+    "Avoid with serotonergic drugs (SSRIs, MAOIs)",
+    null
+  ],
+  [
+    null,
+    "caution in G6PD deficiency",
+    null
+  ],
+  [
+    null,
+    "may discolor urine/teeth.",
+    null
+  ],
+  [
+    null,
+    "Avoid with sedatives, alcohol, or severe hypotension",
+    null
+  ],
+  [
+    null,
+    "discontinue if dizziness or excessive somnolence.",
+    null
+  ],
+  [
+    null,
+    "None significant",
+    null
+  ],
+  [
+    null,
+    "avoid taking fasted.",
+    null
+  ],
+  [
+    "Advance when",
+    null,
+    null
+  ],
+  [
+    null,
+    "Morning erections more consistent, libido clearly improved, workout recovery good, mood and drive significantly higher.",
+    null
+  ],
+  [
+    "Phase 3.0",
+    null,
+    null
+  ],
+  [
+    "On waking",
+    null,
+    null
+  ],
+  [
+    null,
+    "Hydration Baseline [COP-23]",
+    "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly; avoid overdrinking plain water."
+  ],
+  [
+    null,
+    "Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "Core tool in Phase 1 bile-dump strategy."
+  ],
+  [
+    "Binder window (fasted, mid-morning)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Psyllium — 5-10g [CAS-GUT-01]",
+    "AM fasted, 5–10g in water, 20–30 min before carrot salad and supplements; Binder\nCarry: Yes | Maint: 2–4×/week or PRN | Stop/Taper: Taper to PRN once stools stable 10–14d; reduce first if constipation."
+  ],
+  [
+    "Binder window (after psyllium)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Carrot salad [CAS-FOOD-01]",
+    "Endotoxin binding\nCarry: Yes | Maint: 3–5×/week or PRN | Stop/Taper: Maintenance once GI/skin stable 10–14d."
+  ],
+  [
+    "Post-binder meal (first meal)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Taurine — 1g [CAS-LIV-01]",
+    "Bile flow\nCarry: Yes | Maint: Daily or 3–5×/week | Stop/Taper: Reduce frequency once bile/GI stable 10–14d."
+  ],
+  [
+    null,
+    "MSM — 750mg [CAS-LIV-02]",
+    "Sulfur support\nCarry: Yes | Maint: 3–5×/week → discontinue | Stop/Taper: Taper off once skin/gut stable 14d; stop if sulfur intolerance/wired."
+  ],
+  [
+    null,
+    "Molybdenum — 100-200mcg [CAS-LIV-03]",
+    "Sulfur cofactor\nCarry: Yes | Maint: Daily with MSM; optional otherwise | Stop/Taper: Keep while MSM used; optional after MSM stopped."
+  ],
+  [
+    null,
+    "Zinc — 20-30mg [CAS-MICRO-01]",
+    "Hormonal support\nCarry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 6–8 weeks; avoid long-term high-dose without monitoring."
+  ],
+  [
+    null,
+    "Selenium — 100-200mcg [CAS-MICRO-02]",
+    "Thyroid support\nCarry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 8–12 weeks."
+  ],
+  [
+    null,
+    "Benfotiamine — 150-300mg [CAS-MITO-05]",
+    "Metabolic ignition\nCarry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once energy stable 14d."
+  ],
+  [
+    null,
+    "Calcium D-Glucarate — 500mg [CAS-GUT-02]",
+    "Estrogen clearance\nCarry: PRN | Maint: 2–4×/week or PRN | Stop/Taper: Use during mobilization; taper when stable 14d."
+  ],
+  [
+    null,
+    "PHGG — 1-2g [CAS-GUT-03]",
+    "Prebiotic\nCarry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once stools stable 10–14d."
+  ],
+  [
+    null,
+    "MegaSporeBiotic — 0.5→1 cap [CAS-GUT-04]",
+    "Microbiome\nCarry: Course | Maint: Stop after course | Stop/Taper: Course 8–12 weeks then stop and reassess."
+  ],
+  [
+    null,
+    "Glutathione (oral, generic) — 250–500mg — Daily (optional) [CAS-DET-01]",
+    "Optional gentle GSH support once Phase 1 digestion is stable; avoid if nausea/bloating persist.\nCarry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks if tolerated."
+  ],
+  [
+    null,
+    "NAC — 600mg [CAS-BIO-02]",
+    "Optional detox and neuroinflammation reduction.\nCarry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks; stop if wired/insomnia."
+  ],
+  [
+    null,
+    "Sulforaphane (Broccoli Sprout Extract) — per label (e.g. 20–40mg) — 3–5×/week [CAS-INF-02]",
+    "Nrf2 activator; upregulates detox enzymes including ALDH, supports antioxidant defenses.\nCarry: PRN | Maint: 3–5×/week cycles | Stop/Taper: Optional/cycled; reduce frequency if headache/insomnia."
+  ],
+  [
+    null,
+    "Methylene Blue (low-dose) — 0.5–1mg/kg — 3–5×/week [CAS-MITO-15]",
+    "Low-dose mitochondrial and dopaminergic accelerator; improves ETC efficiency and may enhance mood/drive.\nCarry: PRN | Maint: 3–5×/week cycles (never continuous) | Stop/Taper: Cycled only; stop if insomnia/wired."
+  ],
+  [
+    null,
+    "SAM-e — 200mg [CAS-MET-01]",
+    "Methylation/dopamine\nCarry: PRN | Maint: 3–5×/week or PRN | Stop/Taper: Optional; stop if agitation/insomnia."
+  ],
+  [
+    null,
+    "7,8-Dihydroxyflavone (7,8-DHF) — 10–40mg — Daily (10 days on / 10 days off) – optional [CAS-NEURO-05]",
+    "TrkB agonist neuroplasticity cycle for olfactory/sexual circuits; do not combine with other strong neurotrophics in same window.\nCarry: PRN | Maint: 10 on / 10 off | Stop/Taper: Optional/cycled; stop if insomnia/anxiety."
+  ],
+  [
+    null,
+    "TTFD (Thiamine Tetrahydrofurfuryl Disulfide) — 50–200mg [CAS-MITO-06]",
+    "Metabolic ignition & dopamine support; stack with mitochondrial core once gut/liver stable.\nCarry: PRN | Maint: PRN (training/drive days) | Stop/Taper: Use PRN; stop if insomnia/wired."
+  ],
+  [
+    null,
+    "Boron — 6–9mg [CAS-MIN-01]",
+    "SHBG modulation and steroid hormone optimization; supports androgen axis. Suggested cycle: 2 weeks on / 1 week off.\nCarry: Yes | Maint: 2 weeks on / 1 off | Stop/Taper: As written: cycle."
+  ],
+  [
+    null,
+    "Uridine Monophosphate — 50–150mg [CAS-NEURO-08]",
+    "Synaptic and dopaminergic support; combine with DHA, avoid choline loading.\nCarry: PRN | Maint: Cycles only | Stop/Taper: Optional/cycled."
+  ],
+  [
+    null,
+    "Piracetam — 1200–2400mg [CAS-NOOT-01]",
+    "Racetam nootropic; supports sensory integration and possibly olfactory recovery.\nCarry: PRN | Maint: Cycles only | Stop/Taper: Optional/cycled."
+  ],
+  [
+    null,
+    "Sulbuthiamine — 200–400mg — 5 days on / 2 off [CAS-NEURO-09]",
+    "Dopamine/libido ignition; short cycles once Phase 2 terrain is clearly tolerated.\nCarry: PRN | Maint: 5 on / 2 off | Stop/Taper: Cycled only (as written)."
+  ],
+  [
+    null,
+    "Methylated B-Complex — Label-equivalent [CAS-VIT-05]",
+    "Methyl donors for neurotransmitter and energy metabolism once histamine/sleep are stable.\nCarry: Yes | Maint: 3–5×/week or daily | Stop/Taper: Optional long-term; reduce if overstimulation."
+  ],
+  [
+    null,
+    "Semax — 0.1–0.3mg IN — 5 days on / 2 off [CAS-PEPT-02]",
+    "BDNF, olfactory + motivational support.\nCarry: PRN | Maint: 5 on / 2 off | Stop/Taper: Cycled only; stop if agitation/insomnia."
+  ],
+  [
+    null,
+    "Mucuna Pruriens — 100–200mg — 10 on / 20 off [CAS-NEURO-10]",
+    "Dopaminergic ignition microcycles.\nCarry: PRN | Maint: PRN (evening) | Stop/Taper: PRN for aldehyde load; stop if daytime sedation."
+  ],
+  [
+    null,
+    "Tongkat Ali — 400-600mg [CAS-ANDRO-01]",
+    "Androgen boosted\nCarry: Yes | Maint: 5 on / 2 off or blocks | Stop/Taper: Cycle to avoid tolerance; stop if irritability/insomnia."
+  ],
+  [
+    null,
+    "Cistanche — 1000-2000mg [CAS-ANDRO-02]",
+    "Androgen boosted\nCarry: Yes | Maint: 5 on / 2 off or blocks | Stop/Taper: Cycle to avoid tolerance; stop if irritability/insomnia."
+  ],
+  [
+    null,
+    "Proviron — 12.5mg [CAS-ANDRO-10]",
+    "Androgenic potent\nCarry: No | Maint: No (trial only) | Stop/Taper: Late-game trial only; requires monitoring; stop if adverse androgenic/prostate effects."
+  ],
+  [
+    null,
+    "Pregnenolone — 10-20mg [CAS-STERO-01]",
+    "Neurosteroid\nCarry: Yes | Maint: Daily or 5 on / 2 off | Stop/Taper: Reassess with symptoms/labs; stop if insomnia/anxiety."
+  ],
+  [
+    null,
+    "DHEA — 5-15mg [CAS-STERO-02]",
+    "Neurosteroid\nCarry: Yes | Maint: Daily or 5 on / 2 off | Stop/Taper: Reassess with symptoms/labs; stop if acne/irritability/insomnia."
+  ],
+  [
+    null,
+    "HMB — 1.5-3g [CAS-MITO-03]",
+    "Muscle/fascia\nCarry: PRN | Maint: Training/sex days or blocks | Stop/Taper: Choose one HMB lane; use with food; stop if GI upset."
+  ],
+  [
+    null,
+    "BPC-157 — 250-500mcg — Cycle [CAS-PEPT-01]",
+    "Regeneration\nCarry: PRN | Maint: Short cycles | Stop/Taper: Cycled only (injury/recovery blocks)."
+  ],
+  [
+    null,
+    "Niacin (flush) — 50-100mg [CAS-MET-07]",
+    "Vascular/dopamine\nCarry: PRN | Maint: PRN or low-frequency | Stop/Taper: Flush niacin: optional; stop if hypotension/flush intolerance."
+  ],
+  [
+    null,
+    "4'-DMA-7,8-DHF — Experimental microdose — Short microcycle (5–10 days max, optional) [CAS-NEURO-06]",
+    "Deep experimental TrkB agonist analog; only if Phase 2 success is clear and other variables are stable.\nCarry: No | Maint: No (microcycle) | Stop/Taper: Experimental microcycle only (max 5–10 days)."
+  ],
+  [
+    null,
+    "Phenylpiracetam — 50–100mg — 2–4×/week [CAS-NOOT-02]",
+    "High-octane dopaminergic racetam; use as performance amplifier in HFMP expression phase.\nCarry: PRN | Maint: 2–4×/week cycles | Stop/Taper: 2–4×/week only; stop if insomnia/anxiety."
+  ],
+  [
+    null,
+    "HMB (β-Hydroxy β-Methylbutyrate) — 2–3 g/day — Daily or pre-performance [CAS-NEURO-14]",
+    "Peak androgenic expression; synergizes strongly with Tongkat, LCLT, MHB.\nCarry: PRN | Maint: Training/sex days or blocks | Stop/Taper: Use with food; choose one HMB lane; stop if GI upset."
+  ],
+  [
+    "With meals (split across meals)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Undecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "Primary antifungal; target Candida/yeast load and acetaldehyde. Start low; maintain binders and 1–2+ BMs/day.\nCarry: Course | Maint: Course; PRN pulses | Stop/Taper: Finite course: taper off after fungal/SD stable 14d; PRN pulses for relapse."
+  ],
+  [
+    null,
+    "Niacinamide — 250–500mg [CAS-B-01]",
+    "Supports NAD+ pool, ALDH function, and lowers FFA; stabilizes metabolism.\nCarry: Yes | Maint: Daily with food or 3–5×/week | Stop/Taper: Reduce if over-sedation or GI effects."
+  ],
+  [
+    null,
+    "Endotelon (grape seed OPC) — 150–300mg/day (often 150mg BID) [CAS-VAS-15]",
+    "Venotonic/vasculoprotective; microcirculation & endothelial support\nCarry: Course | Maint: Block 8–12 w | Stop/Taper: Block 8–12 weeks then reassess; avoid stacking with aspirin/polyphenols if bruising."
+  ],
+  [
+    null,
+    "Tributyrin — 300–600mg [CAS-GUT-07]",
+    "Gut-brain axis enhancement; SCFA support.\nCarry: Yes | Maint: 3–5×/week | Stop/Taper: Taper once stools stable 14d."
+  ],
+  [
+    null,
+    "Lactobacillus reuteri — 1–2B CFU [CAS-PRO-02]",
+    "Oxytocin + libido enhancement; HFMP alignment.\nCarry: Course | Maint: Stop after course or cycle | Stop/Taper: Course 8–12 weeks then reassess."
+  ],
+  [
+    "Lunch (with food)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Creatine — 5g [CAS-MITO-01]",
+    "ATP support\nCarry: Yes | Maint: Daily | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Aspirin — 81mg — EOD [CAS-INF-01]",
+    "Anti-inflammatory\nCarry: Course | Maint: EOD course then reassess | Stop/Taper: Course; taper off once inflammation stable; stop if bruising/GI issues."
+  ],
+  [
+    null,
+    "Vitamin K2 — MK7 100-200mcg [CAS-MICRO-04]",
+    "Aspirin support\nCarry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Omega-3 — 500mg [CAS-LIP-01]",
+    "Anti-inflammatory\nCarry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Reduced Glutathione (liposomal) — 250–500mg — Daily (optional) [CAS-DET-02]",
+    "Liposomal GSH layered after terrain stabilization to support mitochondrial redox; optional accelerator.\nCarry: PRN | Maint: 2–4×/week or blocks | Stop/Taper: Optional mitochondrial/antioxidant support; use in short blocks if tolerated."
+  ],
+  [
+    null,
+    "LCLT — 2g [CAS-MITO-02]",
+    "AR sensitivity\nCarry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK; stop if fishy odor or GI intolerance."
+  ],
+  [
+    "Dinner (with food)",
+    null,
+    null
+  ],
+  [
+    null,
+    "TUDCA — 250mg — Daily (from Week 2) [CAS-LIV-04]",
+    "Take away from key fat-soluble vitamins by ~2 hours where possible.; Bile acid support in cholestasis; increases bile flow and protects cholangiocytes.\nCarry: Yes | Maint: 2–4×/week maintenance | Stop/Taper: Taper once motility + bile symptoms stable 10–14d; hold if bile reflux/RUQ pain."
+  ],
+  [
+    "Pre-workout / pre-sex (acute signaling)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Citrulline — 6g [CAS-VAS-01]",
+    "NO precursor\nCarry: PRN | Maint: Training/sex days only | Stop/Taper: Acute tool for training/sex days."
+  ],
+  [
+    null,
+    "Icariin — 150-200mg [CAS-VAS-02]",
+    "PDE5 mild\nCarry: PRN | Maint: Training/sex days only | Stop/Taper: Acute tool for training/sex days."
+  ],
+  [
+    null,
+    "Histidine — 500-1000mg [CAS-VAS-03]",
+    "VEGF modulation\nCarry: PRN | Maint: PRN | Stop/Taper: Optional acute adjunct; stop if histamine symptoms."
+  ],
+  [
+    null,
+    "Hesperidin — 250mg [CAS-VAS-04]",
+    "Vascular\nCarry: PRN | Maint: PRN | Stop/Taper: Optional adjunct; low priority if low BP."
+  ],
+  [
+    null,
+    "Pycnogenol — 50-100mg [CAS-VAS-05]",
+    "Vascular\nCarry: PRN | Maint: PRN or blocks | Stop/Taper: Prefer as block (8–12 w) if used chronically; watch bleeding with aspirin."
+  ],
+  [
+    null,
+    "Vitamin C — 500-1000mg [CAS-ANTIOX-01]",
+    "Antioxidant\nCarry: Yes | Maint: Daily or PRN with vascular block | Stop/Taper: Optional long-term; reduce if GI irritation."
+  ],
+  [
+    null,
+    "Beet nitrate — 300-600mg [CAS-VAS-08]",
+    "NO\nCarry: PRN | Maint: PRN (training/sex days) | Stop/Taper: Use PRN; stop if low BP/dizziness."
+  ],
+  [
+    null,
+    "Agmatine — 500-1000mg [CAS-VAS-07]",
+    "NOS enhancer\nCarry: PRN | Maint: Training/sex days only | Stop/Taper: Acute adjunct; stop if low BP."
+  ],
+  [
+    null,
+    "Berberine — 150-300mg [CAS-MET-03]",
+    "Endothelial\nCarry: PRN | Maint: PRN or short blocks | Stop/Taper: Use with meals or training days; stop if GI upset/hypoglycemia."
+  ],
+  [
+    null,
+    "L-Arginine — 1-3g [CAS-VAS-12]",
+    "NO optional\nCarry: PRN | Maint: Training/sex days only | Stop/Taper: Acute tool; reduce first if low BP/headache."
+  ],
+  [
+    "Bedtime (PM)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Magnesium glycinate — 200-300mg [CAS-MICRO-03]",
+    "Sleep/relaxation\nCarry: Yes | Maint: Daily | Stop/Taper: Long-term OK."
+  ],
+  [
+    null,
+    "Glycine — 2-3g [CAS-AMINO-01]",
+    "Sleep/liver\nCarry: Yes | Maint: Daily or PRN | Stop/Taper: Optional long-term; reduce if daytime sedation."
+  ],
+  [
+    null,
+    "ALA — 100-200mg [CAS-MITO-07]",
+    "Antioxidant\nCarry: PRN | Maint: 2–4×/week or cycles | Stop/Taper: Optional/cycled; stop if insomnia/wired."
+  ],
+  [
+    null,
+    "Nattokinase — 100-200mg [CAS-VAS-11]",
+    "Fibrinolytic\nCarry: No | Maint: No (trial only) | Stop/Taper: Avoid stacking with aspirin; trial only; stop if bruising/bleeding."
+  ],
+  [
+    null,
+    "Retinol — 5000IU — 2–3×/week [CAS-VIT-01]",
+    "Steroidogenesis\nCarry: PRN | Maint: 2–3×/week | Stop/Taper: 2–3×/week only; stop if headaches/dryness."
+  ],
+  [
+    null,
+    "Magnesium β-Hydroxybutyrate (MHB) — 500–1500mg — 2–4x/week [CAS-NEURO-13]",
+    "Phase 3 performance module; can be paired with full neurovascular and androgen stack; maintain conservative dosing.\nCarry: PRN | Maint: 2–4×/week cycles | Stop/Taper: Cycled only; stop if oversedation/dizziness."
+  ],
+  [
+    "Practices (today)",
+    null,
+    null
+  ],
+  [
+    null,
+    "Reverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]",
+    "Short sets throughout day; avoid straining"
+  ],
+  [
+    null,
+    "Psoas Release — 3–7x/week — Evening or off days [COP-02]",
+    null
+  ],
+  [
+    null,
+    "Adductor & Hamstring Lengthening — 3–5x/week — Post-walk or training [COP-03]",
+    null
+  ],
+  [
+    null,
+    "Pelvic Mobility Drills — Daily — AM or PM [COP-04]",
+    null
+  ],
+  [
+    null,
+    "Perineal PBM (red/IR light) — 3–7x/week — Evening [COP-05]",
+    "5–10 minutes/session, avoid overheating"
+  ],
+  [
+    null,
+    "Nasal PBM — 3–7x/week — Evening or morning [COP-06]",
+    null
+  ],
+  [
+    null,
+    "Fascia & Pelvic Floor Neuro-Mechanics — 3–5x/week — Any [COP-07]",
+    null
+  ],
+  [
+    null,
+    "Sensate Focus Mapping — 2–4x/week — Private time [COP-08]",
+    null
+  ],
+  [
+    null,
+    "Feather-Touch Neuroerotic Training — 2–4x/week — Private time [COP-09]",
+    null
+  ],
+  [
+    null,
+    "Angion v2 Microvascular Training — 2–3x/week — Pre- or post-vascular stack [COP-10]",
+    "Avoid overuse; skip if pain or neuropathy flare"
+  ],
+  [
+    null,
+    "Sauna / Cold Contrast — 1–4x/week — Evening [COP-11]",
+    null
+  ],
+  [
+    null,
+    "Diaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]",
+    null
+  ],
+  [
+    null,
+    "Glute Activation Sequences — 3–5x/week — Pre-walk or training [COP-13]",
+    null
+  ],
+  [
+    null,
+    "Sleep Optimization Practices — Daily — Evening [COP-14]",
+    null
+  ],
+  [
+    null,
+    "Liver Pumping / Thoracic Mobilization — 3–7x/week — Evening [COP-15]",
+    null
+  ],
+  [
+    null,
+    "Vagal Reset Maneuvers — PRN + daily micro-practices — Any [COP-16]",
+    null
+  ],
+  [
+    null,
+    "Foot–Core Activation Chain — 3–5x/week — Pre-walk/training [COP-17]",
+    null
+  ],
+  [
+    null,
+    "Infrared Sauna Protocol — 1–3x/week — Evening [COP-18]",
+    null
+  ],
+  [
+    null,
+    "Olfactory Training Protocol — Daily — Any [COP-19]",
+    null
+  ],
+  [
+    null,
+    "CO₂ Tolerance Breathwork — 3–5x/week — Any [COP-20]",
+    null
+  ],
+  [
+    null,
+    "Micro-Arousal Sensory Conditioning — 2–3x/week — Private time [COP-21]",
+    null
+  ],
+  [
+    null,
+    "Glans Sensitivity Reversal Protocol — 2–4x/week — Private time [COP-22]",
+    null
+  ],
+  [
+    null,
+    "Hydration Baseline — Daily — On waking + throughout day [COP-23]",
+    "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly. Avoid overdrinking plain water."
+  ],
+  [
+    "Watch-for / STOP-ADJUST",
+    null,
+    null
+  ],
+  [
+    null,
+    "Avoid choline, lecithin, ox bile, DIM, I3C, high-dose vitamin D, aggressive training.",
+    null
+  ],
+  [
+    null,
+    "No daily Angion",
+    null
+  ],
+  [
+    null,
+    "avoid overtraining",
+    null
+  ],
+  [
+    null,
+    "cycle dopaminergics",
+    null
+  ],
+  [
+    null,
+    "monitor for anxiety, insomnia or excessive sympathetic tone.",
+    null
+  ],
+  [
+    null,
+    "Avoid starting at very high dose",
+    null
+  ],
+  [
+    null,
+    "caution if severe herx or constipation.",
+    null
+  ],
+  [
+    null,
+    "Avoid if severe diarrhea, strong bile reflux sensations, or new right-upper-quadrant pain.",
+    null
+  ],
+  [
+    null,
+    "Avoid stacking new stimulants",
+    null
+  ],
+  [
+    null,
+    "continue to avoid choline, ox bile and aggressive DIM/I3C usage.",
+    null
+  ],
+  [
+    null,
+    "Caution in severe liver disease",
+    null
+  ],
+  [
+    null,
+    "watch for unusual fatigue or paradoxical agitation.",
+    null
+  ],
+  [
+    null,
+    "May provoke mild detox/headache in sensitive individuals",
+    null
+  ],
+  [
+    null,
+    "start at lower frequency if needed.",
+    null
+  ],
+  [
+    null,
+    "Avoid with serotonergic drugs (SSRIs, MAOIs)",
+    null
+  ],
+  [
+    null,
+    "caution in G6PD deficiency",
+    null
+  ],
+  [
+    null,
+    "may discolor urine/teeth.",
+    null
+  ],
+  [
+    null,
+    "Avoid stacking too many stimulants or vasodilators",
+    null
+  ],
+  [
+    null,
+    "cap Angion at 3×/week",
+    null
+  ],
+  [
+    null,
+    "ensure deload weeks.",
+    null
+  ],
+  [
+    null,
+    "Avoid with sedatives, alcohol, or severe hypotension",
+    null
+  ],
+  [
+    null,
+    "discontinue if dizziness or excessive somnolence.",
+    null
+  ],
+  [
+    null,
+    "None significant",
+    null
+  ],
+  [
+    null,
+    "avoid taking fasted.",
+    null
+  ],
+  [
+    "Advance when",
+    null,
+    null
+  ],
+  [
+    null,
+    "Sustained high libido and EQ, robust energy, low crash frequency, stable mood and sleep even under stress.",
+    null
+  ]
+]

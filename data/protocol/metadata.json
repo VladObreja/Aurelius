@@ -1,0 +1,171 @@
+{
+  "source_workbook": "AURELIUS_CXO_v1.30.xlsx",
+  "extracted_at": "2026-06-06T19:42:30",
+  "sheets": [
+    {
+      "name": "00_INTRO",
+      "rows": 15,
+      "columns": 1
+    },
+    {
+      "name": "00_Foundation_Framework",
+      "rows": 27,
+      "columns": 1
+    },
+    {
+      "name": "00_Project_Overview",
+      "rows": 30,
+      "columns": 1
+    },
+    {
+      "name": "01_CPO",
+      "rows": 84,
+      "columns": 18
+    },
+    {
+      "name": "02_CAS",
+      "rows": 182,
+      "columns": 12
+    },
+    {
+      "name": "03_COP",
+      "rows": 27,
+      "columns": 10
+    },
+    {
+      "name": "04_CFS",
+      "rows": 13,
+      "columns": 11
+    },
+    {
+      "name": "05_HFMP",
+      "rows": 12,
+      "columns": 10
+    },
+    {
+      "name": "06_CLAB",
+      "rows": 22,
+      "columns": 7
+    },
+    {
+      "name": "07_Daily_Tracker",
+      "rows": 1,
+      "columns": 11
+    },
+    {
+      "name": "08_Lab_Tracking",
+      "rows": 1,
+      "columns": 7
+    },
+    {
+      "name": "09_Events_Log",
+      "rows": 1,
+      "columns": 6
+    },
+    {
+      "name": "10_Version_History",
+      "rows": 26,
+      "columns": 4
+    },
+    {
+      "name": "11_Product_Table",
+      "rows": 4,
+      "columns": 9
+    },
+    {
+      "name": "12_Daily_By_Phase",
+      "rows": 314,
+      "columns": 7
+    },
+    {
+      "name": "13_Daily_MVP_By_Phase",
+      "rows": 41,
+      "columns": 4
+    },
+    {
+      "name": "14_Print_View",
+      "rows": 407,
+      "columns": 3
+    },
+    {
+      "name": "15_RESET_TRACK",
+      "rows": 9,
+      "columns": 7
+    },
+    {
+      "name": "16_TEMP_PHASE_STACK",
+      "rows": 532,
+      "columns": 19
+    }
+  ],
+  "text_sections": {
+    "intro": [
+      "AURELIUS / CXO — Biological Optimization Engine (BOE) v2.0",
+      "Current version: v1.30 — 2026-01-07",
+      "Purpose",
+      "Operator-facing XLSX workspace for Captain Vlad’s AURELIUS protocol system (CAS/CPO/CLAB/HFMP/etc.). Designed to be LLM-compatible while remaining usable in Excel.",
+      "Canonical rules",
+      "1) XLSX is the editable workspace.\n2) JSONL export is the RAG/agent ingestion format (row-level items).\n3) Stable IDs are sacred: never reuse an ID for a different meaning.\n4) After edits, bump version and regenerate JSONL.\n5) Avoid complex formulas/macros; prefer values/text to prevent Excel repair.",
+      "RAG / Agent ingestion (JSONL)",
+      "Each JSONL line corresponds to one row item from a sheet, with:\n• sheet/tab, row index\n• id (if present)\n• data (column→value map)\n• text (compact concatenation for embeddings)\nUse filters like tab/sheet, phase, timing, tags, track (MAIN vs RESET).",
+      "Regeneration note",
+      "If chat output conflicts with the workbook, the workbook wins. After edits, regenerate JSONL so machines see the same canonical state.",
+      "New: 16_TEMP_PHASE_STACK provides a phase-wise 'maximal menu' (CAS+CPO+COP) ranked by Strength/Safety for temporary protocol regeneration."
+    ],
+    "foundation_framework": [
+      "Framework",
+      "AURELIUS / HFMP FOUNDATION & FRAMEWORK",
+      "1. PROJECT CHARTER & ETHOS",
+      "- Primary Operator: Captain Vlad (\"the Captain\").",
+      "- Responsibility: authority may be delegated, final responsibility remains with the Captain.",
+      "- Orientation: results-first, mechanistic, non-allopathic constrained by common sense safety.",
+      "2. OPERATING PARADIGM",
+      "- Core influences: Ray Peat, Georgi Dinkov, Danny Roddy, Longecity/Turnbuckle, Alex Kikel, Mark Hyman, Anthony Jay.",
+      "- Priorities: gut–liver axis, bile flow, endotoxin control, mitochondrial function, thyroid, dopamine, androgens, vascular/endothelial health.",
+      "3. HFMP MODEL (High-Functioning Male Phenotype)",
+      "- 10 axes describe target phenotype (androgen axis, dopamine axis, thyroid axis, prolactin axis, histamine/VEGF axis, mitochondrial axis, endothelial axis, gut–liver axis, neurosteroid axis, fascia/connective tissue axis).",
+      "- See 05_HFMP for full breakdown.",
+      "4. CANONICAL OBJECTS",
+      "- CPO: Canonical Protocol Object (phase-timeline of what to do and when).",
+      "- CAS: Canonical Agent/Supplement library (all compounds and their properties).",
+      "- COP: Canonical Operator Practices (exercises, Angion, pelvic work, PBM, etc.).",
+      "- CFS: Canonical Functional Systems (mechanistic subsystems).",
+      "- HFMP: Target phenotype axes.",
+      "- CLAB: Labwork grid and interpretation.",
+      "5. ANTI-DRIFT RULE",
+      "- All stable changes must be encoded in this workbook.",
+      "- Regenerated protocols should reference the latest workbook as ground truth rather than memory or prior chat."
+    ],
+    "project_overview": [
+      "Project Description",
+      "AURELIUS Protocol / HFMP Optimization",
+      "Unified database including all canonical objects.",
+      "Follow instructions to update and version this file.",
+      "ALDH & Fungal Terrain Module (v1.15+)",
+      "Working hypothesis: partial ALDH downregulation + fungal overgrowth + cholestasis drive a cluster of symptoms (low libido, anosmia, fatigue, SD).",
+      "Objectives:",
+      "- Lower aldehyde load from gut/fungal sources (acetaldehyde, DOPAL).",
+      "- Support ALDH cofactors (molybdenum, thiamine, zinc, NAD+).",
+      "- Upregulate ALDH expression via Nrf2 (sulforaphane).",
+      "Key tools (wired into CPO):",
+      "- CAS-FUNG-01 Undecylenic Acid – primary antifungal for cholestatic terrain in Phase 1.0–1.5.",
+      "- CAS-LIV-04 TUDCA – low-dose bile acid support introduced in late Phase 1.0 once bowel motility and binders are stable.",
+      "- CAS-B-01 Niacinamide – NAD+ / ALDH support in Phase 1.5.",
+      "- CAS-INF-02 Sulforaphane – Nrf2/ALDH activation in Phase 1.5.",
+      "- CAS-MITO-15 Methylene Blue – optional low-dose mitochondrial/dopaminergic accelerator in Phase 1.5+.",
+      "Optional / library tools (not in base CPO):",
+      "- CAS-FUNG-02 Nystatin – gut-local antifungal (Rx).",
+      "- CAS-BIND-02 Cholestyramine – rescue bile resin for acute bile/toxin events.",
+      "- CAS-NEURO-16 Intranasal Insulin – experimental neuro-metabolic reset for stalled anosmia/libido (Phase 3+ only).",
+      "This module is tightly linked to: CFS-05 (Microglia), CFS-06 (Smell–Libido Axis), CFS-10 (Cholestasis) and HFMP axes 2 (Dopamine), 6 (Mitochondria), 8 (Gut–Liver), 9 (Neurosteroids).",
+      "Canonical Human-Readable Daily View (v1.20+)",
+      "- Sheet: 12_Daily_By_Phase is the self-contained daily checklist per phase.",
+      "- It is canonical: whenever CPO/COP/CAS changes, update 12_Daily_By_Phase to match (avoid chat drift).",
+      "- Each phase repeats prior-phase items and consolidates timing to minimize daily dosing events when practical.",
+      "- Sheet: 13_Daily_MVP_By_Phase is the 'Minimum Viable' self-contained daily spine per phase (compressed dosing events).",
+      "- 01_CPO includes Tier + continuation metadata (CarryForward / Stop-Taper Trigger / Maintenance Frequency) to manage de-bloat and tapering.",
+      "- 12_Daily_By_Phase now displays continuation + maintenance guidance inline per item (so phases stay self-contained without implying 'forever').",
+      "- Rule: When systems stabilize (see stop/taper triggers), shift items from daily → maintenance/PRN as indicated."
+    ]
+  }
+}

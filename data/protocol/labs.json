@@ -1,0 +1,413 @@
+[
+  {
+    "marker": "AST",
+    "sample": "Blood",
+    "range": "Lab-specific; aim low-normal",
+    "high_interpretation": "Hepatocellular injury, muscle breakdown, or mitochondrial stress",
+    "low_interpretation": "Uncommon; could suggest B6 deficiency or low muscle mass",
+    "cfs_link": "CFS-10",
+    "phase": "Baseline,1,2",
+    "canonical_id": "CLAB-AST",
+    "phase_list": [
+      "Baseline",
+      "1",
+      "2"
+    ],
+    "referenced_ids": [
+      "CFS-10",
+      "CLAB-AST"
+    ]
+  },
+  {
+    "marker": "ALT",
+    "sample": "Blood",
+    "range": "Lab-specific; aim low-normal",
+    "high_interpretation": "Hepatocellular injury or NAFLD",
+    "low_interpretation": "Uncommon; sometimes B6 deficiency",
+    "cfs_link": "CFS-10",
+    "phase": "Baseline,1,2",
+    "canonical_id": "CLAB-ALT",
+    "phase_list": [
+      "Baseline",
+      "1",
+      "2"
+    ],
+    "referenced_ids": [
+      "CFS-10",
+      "CLAB-ALT"
+    ]
+  },
+  {
+    "marker": "GGT",
+    "sample": "Blood",
+    "range": "Very low-normal ideal",
+    "high_interpretation": "Cholestasis, oxidative stress, alcohol or xenobiotics burden",
+    "low_interpretation": "Very low values may reflect low glutathione turnover",
+    "cfs_link": "CFS-10",
+    "phase": "Baseline,1,2",
+    "canonical_id": "CLAB-GGT",
+    "phase_list": [
+      "Baseline",
+      "1",
+      "2"
+    ],
+    "referenced_ids": [
+      "CFS-10",
+      "CLAB-GGT"
+    ]
+  },
+  {
+    "marker": "ALP",
+    "sample": "Blood",
+    "range": "Lab-specific",
+    "high_interpretation": "Cholestasis, bile duct issues, bone turnover",
+    "low_interpretation": "Low zinc or malnutrition",
+    "cfs_link": "CFS-10",
+    "phase": "Baseline,1,2",
+    "canonical_id": "CLAB-ALP",
+    "phase_list": [
+      "Baseline",
+      "1",
+      "2"
+    ],
+    "referenced_ids": [
+      "CFS-10",
+      "CLAB-ALP"
+    ]
+  },
+  {
+    "marker": "Total Bilirubin",
+    "sample": "Blood",
+    "range": "Low-normal",
+    "high_interpretation": "Impaired bile flow, hemolysis, or Gilbert’s syndrome",
+    "low_interpretation": "Rare; may suggest impaired heme turnover",
+    "cfs_link": "CFS-10",
+    "phase": "Baseline,1,2",
+    "canonical_id": "CLAB-TOTAL_BILIRUBIN",
+    "phase_list": [
+      "Baseline",
+      "1",
+      "2"
+    ],
+    "referenced_ids": [
+      "CFS-10"
+    ]
+  },
+  {
+    "marker": "Direct Bilirubin",
+    "sample": "Blood",
+    "range": "Near-zero",
+    "high_interpretation": "Cholestasis or obstructive patterns",
+    "low_interpretation": "Usually not clinically significant low",
+    "cfs_link": "CFS-10",
+    "phase": "Baseline,1,2",
+    "canonical_id": "CLAB-DIRECT_BILIRUBIN",
+    "phase_list": [
+      "Baseline",
+      "1",
+      "2"
+    ],
+    "referenced_ids": [
+      "CFS-10"
+    ]
+  },
+  {
+    "marker": "Total Testosterone",
+    "sample": "Blood",
+    "range": "High-normal",
+    "high_interpretation": "If free T also high → may be fine; if SHBG high → ineffective androgens",
+    "low_interpretation": "Low androgen production; primary or secondary hypogonadism",
+    "cfs_link": "CFS-01,CFS-09",
+    "phase": "Baseline,2,3",
+    "canonical_id": "CLAB-TOTAL_TESTOSTERONE",
+    "phase_list": [
+      "Baseline",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-01",
+      "CFS-09"
+    ]
+  },
+  {
+    "marker": "Free Testosterone",
+    "sample": "Blood",
+    "range": "Upper half/third of range",
+    "high_interpretation": "Can associate with acne, aggression, or excessive estradiol if aromatization high",
+    "low_interpretation": "Low libido, poor EQ, low energy",
+    "cfs_link": "CFS-01,CFS-09",
+    "phase": "Baseline,2,3",
+    "canonical_id": "CLAB-FREE_TESTOSTERONE",
+    "phase_list": [
+      "Baseline",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-01",
+      "CFS-09"
+    ]
+  },
+  {
+    "marker": "SHBG",
+    "sample": "Blood",
+    "range": "Mid-range; not too high",
+    "high_interpretation": "Excess binding of androgens, often with high E2 or thyroid flux",
+    "low_interpretation": "Very low SHBG can mean metabolic syndrome or androgen excess",
+    "cfs_link": "CFS-09",
+    "phase": "Baseline,2,3",
+    "canonical_id": "CLAB-SHBG",
+    "phase_list": [
+      "Baseline",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-09",
+      "CLAB-SHBG"
+    ]
+  },
+  {
+    "marker": "Estradiol (sensitive)",
+    "sample": "Blood",
+    "range": "Low-mid range appropriate for androgens",
+    "high_interpretation": "Water retention, breast tissue, emotional volatility; may support libido up to a point",
+    "low_interpretation": "Dry joints, low libido, depressive mood in some",
+    "cfs_link": "CFS-09",
+    "phase": "Baseline,2,3",
+    "canonical_id": "CLAB-ESTRADIOL",
+    "phase_list": [
+      "Baseline",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-09",
+      "CLAB-ESTRADIOL"
+    ]
+  },
+  {
+    "marker": "TSH",
+    "sample": "Blood",
+    "range": "~0.5–1.5 mIU/L ideal",
+    "high_interpretation": "Primary hypothyroidism (if FT4 low), or compensation",
+    "low_interpretation": "Possible hyperthyroid or pituitary suppression",
+    "cfs_link": "CFS-01,CFS-03",
+    "phase": "Baseline,1.5,2,3",
+    "canonical_id": "CLAB-TSH",
+    "phase_list": [
+      "Baseline",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-01",
+      "CFS-03",
+      "CLAB-TSH"
+    ]
+  },
+  {
+    "marker": "Free T3",
+    "sample": "Blood",
+    "range": "Upper half of range",
+    "high_interpretation": "Hypermetabolism, anxiety, catabolism if too high",
+    "low_interpretation": "Hypometabolism, fatigue, low libido, cold",
+    "cfs_link": "CFS-01,CFS-03",
+    "phase": "Baseline,1.5,2,3",
+    "canonical_id": "CLAB-FREE_T3",
+    "phase_list": [
+      "Baseline",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-01",
+      "CFS-03"
+    ]
+  },
+  {
+    "marker": "Free T4",
+    "sample": "Blood",
+    "range": "Mid-range",
+    "high_interpretation": "Overreplacement, conversion issues",
+    "low_interpretation": "Low production or conversion issues",
+    "cfs_link": "CFS-01,CFS-03",
+    "phase": "Baseline,1.5,2,3",
+    "canonical_id": "CLAB-FREE_T4",
+    "phase_list": [
+      "Baseline",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-01",
+      "CFS-03"
+    ]
+  },
+  {
+    "marker": "Reverse T3",
+    "sample": "Blood",
+    "range": "Low-normal",
+    "high_interpretation": "Stress adaptation, low T3 action in tissues",
+    "low_interpretation": "Usually fine if not elevated",
+    "cfs_link": "CFS-01,CFS-03",
+    "phase": "Baseline,1.5,2",
+    "canonical_id": "CLAB-REVERSE_T3",
+    "phase_list": [
+      "Baseline",
+      "1.5",
+      "2"
+    ],
+    "referenced_ids": [
+      "CFS-01",
+      "CFS-03"
+    ]
+  },
+  {
+    "marker": "Prolactin",
+    "sample": "Blood",
+    "range": "Low-normal (~4–9 ng/mL)",
+    "high_interpretation": "Dopamine deficit, pituitary issues, sexual dysfunction, low libido",
+    "low_interpretation": "Very low: high dopaminergic tone or drug effect",
+    "cfs_link": "CFS-01,CFS-03",
+    "phase": "Baseline,2,3",
+    "canonical_id": "CLAB-PROLACTIN",
+    "phase_list": [
+      "Baseline",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-01",
+      "CFS-03",
+      "CLAB-PROLACTIN"
+    ]
+  },
+  {
+    "marker": "CRP-hs",
+    "sample": "Blood",
+    "range": "<1 mg/L ideally",
+    "high_interpretation": "Systemic inflammation, cardiovascular risk",
+    "low_interpretation": "Very low may be fine",
+    "cfs_link": "CFS-05,CFS-08,CFS-12",
+    "phase": "Baseline,1.5,2,3",
+    "canonical_id": "CLAB-CRP_HS",
+    "phase_list": [
+      "Baseline",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-05",
+      "CFS-08",
+      "CFS-12"
+    ]
+  },
+  {
+    "marker": "Fasting Glucose",
+    "sample": "Blood",
+    "range": "~80–90 mg/dL ideal",
+    "high_interpretation": "Insulin resistance/metabolic stress",
+    "low_interpretation": "Reactive hypoglycemia, poor glycogen",
+    "cfs_link": "CFS-02,CFS-06,CFS-06",
+    "phase": "Baseline,1.5,2,3",
+    "canonical_id": "CLAB-FASTING_GLUCOSE",
+    "phase_list": [
+      "Baseline",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-02",
+      "CFS-06"
+    ]
+  },
+  {
+    "marker": "Fasting Insulin",
+    "sample": "Blood",
+    "range": "Low-normal (e.g. 3–7 μIU/mL)",
+    "high_interpretation": "Insulin resistance, metabolic syndrome",
+    "low_interpretation": "Over-restriction or beta-cell issues",
+    "cfs_link": "CFS-02,CFS-06",
+    "phase": "Baseline,1.5,2,3",
+    "canonical_id": "CLAB-FASTING_INSULIN",
+    "phase_list": [
+      "Baseline",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-02",
+      "CFS-06"
+    ]
+  },
+  {
+    "marker": "Lipids (HDL, LDL, TG)",
+    "sample": "Blood",
+    "range": "TG low, HDL good, LDL particle size favorable",
+    "high_interpretation": "Atherogenic pattern, poor endothelial health",
+    "low_interpretation": "Sometimes hyperthyroid or malnutrition",
+    "cfs_link": "CFS-02,CFS-08,CFS-12",
+    "phase": "Baseline,2,3",
+    "canonical_id": "CLAB-LIPIDS",
+    "phase_list": [
+      "Baseline",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-02",
+      "CFS-08",
+      "CFS-12",
+      "CLAB-LIPIDS"
+    ]
+  },
+  {
+    "marker": "Serum bile acids",
+    "sample": "Blood",
+    "range": "Lab reference (trend-based)",
+    "high_interpretation": "May indicate cholestasis / impaired bile flow; consider liver–bile axis drivers and medications/supplements.",
+    "low_interpretation": "May indicate low bile output (fat malabsorption) or low bile signaling; interpret with digestion symptoms.",
+    "cfs_link": "CFS-08,CFS-12",
+    "phase": "Baseline,1.5,2,3",
+    "canonical_id": "CLAB-SERUM_BILE_ACIDS",
+    "phase_list": [
+      "Baseline",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-08",
+      "CFS-12"
+    ]
+  },
+  {
+    "marker": "Homocysteine",
+    "sample": "Blood",
+    "range": "~6–9 μmol/L (context-dependent)",
+    "high_interpretation": "May reflect methylation load, B-vitamin insufficiency (B2/B6/folate/B12), oxidative stress; monitor if using NAD+ pushes.",
+    "low_interpretation": "Can occur with high methyl-donor intake; interpret with symptoms and B-vitamin status.",
+    "cfs_link": "CFS-06,CFS-09",
+    "phase": "Baseline,1.5,2,3",
+    "canonical_id": "CLAB-HOMOCYSTEINE",
+    "phase_list": [
+      "Baseline",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-06",
+      "CFS-09",
+      "CLAB-HOMOCYSTEINE"
+    ]
+  }
+]

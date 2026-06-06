@@ -1,0 +1,918 @@
+[
+  {
+    "cop_id": "COP-01",
+    "name": "Reverse Kegels",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "Daily",
+    "timing": "Any, especially pre/ post-sex",
+    "mechanism": "Trains pelvic floor relaxation, reduces hypertonicity and sympathetic clamp on erections",
+    "notes": "Short sets throughout day; avoid straining",
+    "cfs_modules": "CFS-07, CFS-03",
+    "hfmp_axes": "HFMP-7, HFMP-10",
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-01",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-07",
+      "CFS-03"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-7",
+      "HFMP-10"
+    ],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-03",
+      "CFS-07",
+      "COP-01",
+      "HFMP-10",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cop_id": "COP-02",
+    "name": "Psoas Release",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "3–7x/week",
+    "timing": "Evening or off days",
+    "mechanism": "Reduces hip flexor tension and sympathetic drive, improves pelvic blood flow and posture",
+    "notes": null,
+    "cfs_modules": "CFS-07, CFS-11",
+    "hfmp_axes": "HFMP-7, HFMP-10",
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-02",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-07",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-7",
+      "HFMP-10"
+    ],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-07",
+      "CFS-11",
+      "COP-02",
+      "HFMP-10",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cop_id": "COP-03",
+    "name": "Adductor & Hamstring Lengthening",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "3–5x/week",
+    "timing": "Post-walk or training",
+    "mechanism": "Improves nerve glide, reduces pelvic compression and improves erection angle",
+    "notes": null,
+    "cfs_modules": "CFS-07",
+    "hfmp_axes": "HFMP-7, HFMP-10",
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-03",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-07"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-7",
+      "HFMP-10"
+    ],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-07",
+      "COP-03",
+      "HFMP-10",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cop_id": "COP-04",
+    "name": "Pelvic Mobility Drills",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "Daily",
+    "timing": "AM or PM",
+    "mechanism": "Mobilizes lumbar–pelvic complex, improves blood flow and parasympathetic access",
+    "notes": null,
+    "cfs_modules": "CFS-07, CFS-11",
+    "hfmp_axes": "HFMP-7, HFMP-10",
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-04",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-07",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-7",
+      "HFMP-10"
+    ],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-07",
+      "CFS-11",
+      "COP-04",
+      "HFMP-10",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cop_id": "COP-05",
+    "name": "Perineal PBM (red/IR light)",
+    "phase_allowed": "2,3",
+    "frequency": "3–7x/week",
+    "timing": "Evening",
+    "mechanism": "Photobiomodulation to perineum; increases NO, supports nerve and endothelial repair",
+    "notes": "5–10 minutes/session, avoid overheating",
+    "cfs_modules": "CFS-02, CFS-11",
+    "hfmp_axes": "HFMP-7, HFMP-2",
+    "phases_used": "2,3",
+    "canonical_id": "COP-05",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-7",
+      "HFMP-2"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-02",
+      "CFS-11",
+      "COP-05",
+      "HFMP-2",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cop_id": "COP-06",
+    "name": "Nasal PBM",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "3–7x/week",
+    "timing": "Evening or morning",
+    "mechanism": "Red/IR applied intranasal to improve olfactory recovery, cerebral blood flow and dopamine tone",
+    "notes": null,
+    "cfs_modules": "CFS-06, CFS-05",
+    "hfmp_axes": "HFMP-2, HFMP-5",
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-06",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-06",
+      "CFS-05"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-5"
+    ],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-05",
+      "CFS-06",
+      "COP-06",
+      "HFMP-2",
+      "HFMP-5"
+    ]
+  },
+  {
+    "cop_id": "COP-07",
+    "name": "Fascia & Pelvic Floor Neuro-Mechanics",
+    "phase_allowed": "1.5,2,3",
+    "frequency": "3–5x/week",
+    "timing": "Any",
+    "mechanism": "Combination of soft-tissue work, stretching and breath to normalize pelvic tone",
+    "notes": null,
+    "cfs_modules": "CFS-06, CFS-03",
+    "hfmp_axes": "HFMP-2, HFMP-5",
+    "phases_used": "1.5,2,3",
+    "canonical_id": "COP-07",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-06",
+      "CFS-03"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-5"
+    ],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-03",
+      "CFS-06",
+      "COP-07",
+      "HFMP-2",
+      "HFMP-5"
+    ]
+  },
+  {
+    "cop_id": "COP-08",
+    "name": "Sensate Focus Mapping",
+    "phase_allowed": "2,3",
+    "frequency": "2–4x/week",
+    "timing": "Private time",
+    "mechanism": "Non-goal-oriented body exploration to rebuild cortical sexual maps and reduce performance anxiety",
+    "notes": null,
+    "cfs_modules": "CFS-03, CFS-11",
+    "hfmp_axes": "HFMP-2, HFMP-9",
+    "phases_used": "2,3",
+    "canonical_id": "COP-08",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-03",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-03",
+      "CFS-11",
+      "COP-08",
+      "HFMP-2",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cop_id": "COP-09",
+    "name": "Feather-Touch Neuroerotic Training",
+    "phase_allowed": "2,3",
+    "frequency": "2–4x/week",
+    "timing": "Private time",
+    "mechanism": "Very light touch stimulation to restore fine sensory discrimination and erotic mapping",
+    "notes": null,
+    "cfs_modules": "CFS-03, CFS-11",
+    "hfmp_axes": "HFMP-2, HFMP-9",
+    "phases_used": "2,3",
+    "canonical_id": "COP-09",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-03",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-03",
+      "CFS-11",
+      "COP-09",
+      "HFMP-2",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cop_id": "COP-10",
+    "name": "Angion v2 Microvascular Training",
+    "phase_allowed": "2,3",
+    "frequency": "2–3x/week",
+    "timing": "Pre- or post-vascular stack",
+    "mechanism": "Ischemia/reperfusion sequences to stimulate VEGF, angiogenesis and microvascular remodeling",
+    "notes": "Avoid overuse; skip if pain or neuropathy flare",
+    "cfs_modules": "CFS-02, CFS-08, CFS-11",
+    "hfmp_axes": "HFMP-7, HFMP-1",
+    "phases_used": "2,3",
+    "canonical_id": "COP-10",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02",
+      "CFS-08",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-7",
+      "HFMP-1"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-02",
+      "CFS-08",
+      "CFS-11",
+      "COP-10",
+      "HFMP-1",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cop_id": "COP-11",
+    "name": "Sauna / Cold Contrast",
+    "phase_allowed": "1.5,2,3",
+    "frequency": "1–4x/week",
+    "timing": "Evening",
+    "mechanism": "Improves autonomic flexibility, endothelial function and detoxification",
+    "notes": null,
+    "cfs_modules": "CFS-05, CFS-12",
+    "hfmp_axes": "HFMP-6, HFMP-2",
+    "phases_used": "1.5,2,3",
+    "canonical_id": "COP-11",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-05",
+      "CFS-12"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-6",
+      "HFMP-2"
+    ],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-05",
+      "CFS-12",
+      "COP-11",
+      "HFMP-2",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cop_id": "COP-12",
+    "name": "Diaphragmatic Breathwork",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "Daily",
+    "timing": "Any, especially pre-sleep",
+    "mechanism": "Enhances vagal tone, reduces sympathetic overdrive and improves pelvic blood flow",
+    "notes": null,
+    "cfs_modules": "CFS-05, CFS-11",
+    "hfmp_axes": "HFMP-2, HFMP-6",
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-12",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-05",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-6"
+    ],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-05",
+      "CFS-11",
+      "COP-12",
+      "HFMP-2",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cop_id": "COP-13",
+    "name": "Glute Activation Sequences",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "3–5x/week",
+    "timing": "Pre-walk or training",
+    "mechanism": "Strengthens posterior chain, corrects anterior pelvic tilt and supports erection angle",
+    "notes": null,
+    "cfs_modules": "CFS-07, CFS-11",
+    "hfmp_axes": "HFMP-7, HFMP-10",
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-13",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-07",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-7",
+      "HFMP-10"
+    ],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-07",
+      "CFS-11",
+      "COP-13",
+      "HFMP-10",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cop_id": "COP-14",
+    "name": "Sleep Optimization Practices",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "Daily",
+    "timing": "Evening",
+    "mechanism": "Sleep schedule, light hygiene, temperature and wind-down hygiene to allow hormonal recovery",
+    "notes": null,
+    "cfs_modules": "CFS-05, CFS-12",
+    "hfmp_axes": "HFMP-2, HFMP-6",
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-14",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-05",
+      "CFS-12"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-6"
+    ],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-05",
+      "CFS-12",
+      "COP-14",
+      "HFMP-2",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cop_id": "COP-15",
+    "name": "Liver Pumping / Thoracic Mobilization",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "3–7x/week",
+    "timing": "Evening",
+    "mechanism": "Gentle manual techniques and ribcage mobility drills to improve liver blood flow and bile mechanics",
+    "notes": null,
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-15",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "COP-15"
+    ]
+  },
+  {
+    "cop_id": "COP-16",
+    "name": "Vagal Reset Maneuvers",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "PRN + daily micro-practices",
+    "timing": "Any",
+    "mechanism": "Humming, gargling, eye movements and neck work to reset vagal tone",
+    "notes": null,
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-16",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "COP-16"
+    ]
+  },
+  {
+    "cop_id": "COP-17",
+    "name": "Foot–Core Activation Chain",
+    "phase_allowed": "1.5,2,3",
+    "frequency": "3–5x/week",
+    "timing": "Pre-walk/training",
+    "mechanism": "Improves kinetic chain from feet to pelvis, optimizing gait and circulation",
+    "notes": null,
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": "1.5,2,3",
+    "canonical_id": "COP-17",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "COP-17"
+    ]
+  },
+  {
+    "cop_id": "COP-18",
+    "name": "Infrared Sauna Protocol",
+    "phase_allowed": "2,3",
+    "frequency": "1–3x/week",
+    "timing": "Evening",
+    "mechanism": "Deep tissue heating to promote mitochondrial function, detox and vascular health",
+    "notes": null,
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": "2,3",
+    "canonical_id": "COP-18",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "COP-18"
+    ]
+  },
+  {
+    "cop_id": "COP-19",
+    "name": "Olfactory Training Protocol",
+    "phase_allowed": "1.5,2,3",
+    "frequency": "Daily",
+    "timing": "Any",
+    "mechanism": "Repeated sniffing of 4 distinct scents (floral, fruity, spicy, resinous) to retrain olfactory pathways",
+    "notes": null,
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": "1.5,2,3",
+    "canonical_id": "COP-19",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "COP-19"
+    ]
+  },
+  {
+    "cop_id": "COP-20",
+    "name": "CO₂ Tolerance Breathwork",
+    "phase_allowed": "1.5,2,3",
+    "frequency": "3–5x/week",
+    "timing": "Any",
+    "mechanism": "Slow controlled breathing and breath holds to improve CO₂ tolerance and autonomic resilience",
+    "notes": null,
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": "1.5,2,3",
+    "canonical_id": "COP-20",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "COP-20"
+    ]
+  },
+  {
+    "cop_id": "COP-21",
+    "name": "Micro-Arousal Sensory Conditioning",
+    "phase_allowed": "2,3",
+    "frequency": "2–3x/week",
+    "timing": "Private time",
+    "mechanism": "Short, low-intensity arousal sessions to train nervous system without full ejaculation",
+    "notes": null,
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": "2,3",
+    "canonical_id": "COP-21",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "COP-21"
+    ]
+  },
+  {
+    "cop_id": "COP-22",
+    "name": "Glans Sensitivity Reversal Protocol",
+    "phase_allowed": "2,3",
+    "frequency": "2–4x/week",
+    "timing": "Private time",
+    "mechanism": "Targeted desensitization/ resensitization work to normalize glans sensitivity",
+    "notes": null,
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": "2,3",
+    "canonical_id": "COP-22",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "COP-22"
+    ]
+  },
+  {
+    "cop_id": "COP-23",
+    "name": "Hydration Baseline",
+    "phase_allowed": "1,1.5,2,3",
+    "frequency": "Daily",
+    "timing": "On waking + throughout day",
+    "mechanism": "Supports motility, binder tolerance, and perfusion; reduces constipation risk during antifungal/binder phases.",
+    "notes": "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly. Avoid overdrinking plain water.",
+    "cfs_modules": "CFS-07, CFS-08",
+    "hfmp_axes": "HFMP-5, HFMP-8",
+    "phases_used": "1,1.5,2,3",
+    "canonical_id": "COP-23",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-07",
+      "CFS-08"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-5",
+      "HFMP-8"
+    ],
+    "phases_used_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-07",
+      "CFS-08",
+      "COP-23",
+      "HFMP-5",
+      "HFMP-8"
+    ]
+  },
+  {
+    "cop_id": "COP-24",
+    "name": "Prolonged Water Fasting (Autophagy / Renewal)",
+    "phase_allowed": "2,3",
+    "frequency": "Rare (1–4×/year)",
+    "timing": "Block / supervised",
+    "mechanism": "Deep autophagy; degrades damaged proteins/organelles; may clear senescent cells and reset immune sensitivity.",
+    "notes": "High-stress intervention; consider clinician supervision. Avoid with eating disorder history, underweight, pregnancy, or glucose-lowering meds without medical plan. Stop for severe dizziness, arrhythmia, confusion, or persistent hypotension.",
+    "cfs_modules": "CFS-12, CFS-05",
+    "hfmp_axes": "HFMP-6, HFMP-8",
+    "phases_used": "2,3",
+    "canonical_id": "COP-24",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-12",
+      "CFS-05"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-6",
+      "HFMP-8"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-05",
+      "CFS-12",
+      "COP-24",
+      "HFMP-6",
+      "HFMP-8"
+    ]
+  },
+  {
+    "cop_id": "COP-25",
+    "name": "Hyperbaric Oxygen Therapy (HBOT) Cycle",
+    "phase_allowed": "2,3",
+    "frequency": "10–20 sessions/cycle",
+    "timing": "Any (prefer AM)",
+    "mechanism": "Forces oxygen into plasma; stimulates angiogenesis; reduces inflammation; mobilizes stem cells; addresses tissue hypoxia/fibrosis.",
+    "notes": "Professional setting. Contraindications include untreated pneumothorax; discuss ear/sinus issues and seizure risk with provider.",
+    "cfs_modules": "CFS-02, CFS-11, CFS-12",
+    "hfmp_axes": "HFMP-7, HFMP-2",
+    "phases_used": "2,3",
+    "canonical_id": "COP-25",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02",
+      "CFS-11",
+      "CFS-12"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-7",
+      "HFMP-2"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-02",
+      "CFS-11",
+      "CFS-12",
+      "COP-25",
+      "HFMP-2",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cop_id": "COP-26",
+    "name": "Mitochondrial Dynamics Training (Zone 2 + Strength)",
+    "phase_allowed": "1.5,2,3",
+    "frequency": "Weekly structure",
+    "timing": "Pre-walk/training",
+    "mechanism": "Supports mitochondrial efficiency/biogenesis via low-intensity aerobic base + strength; avoids overtraining stressors.",
+    "notes": "Default: 2× Zone 2 (30–60 min) + 2× strength (30–45 min). Add intervals only if sleep/libido stable. Prioritize recovery.",
+    "cfs_modules": "CFS-11, CFS-07, CFS-12",
+    "hfmp_axes": "HFMP-6, HFMP-7",
+    "phases_used": "1.5,2,3",
+    "canonical_id": "COP-26",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-11",
+      "CFS-07",
+      "CFS-12"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-6",
+      "HFMP-7"
+    ],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CFS-07",
+      "CFS-11",
+      "CFS-12",
+      "COP-26",
+      "HFMP-6",
+      "HFMP-7"
+    ]
+  }
+]

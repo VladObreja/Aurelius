@@ -1,0 +1,15 @@
+{
+  "canonical_id_count": 247,
+  "reference_count": 3094,
+  "missing_reference_count": 2,
+  "missing_references": [
+    {
+      "source": "CFS-05",
+      "missing_reference": "CAS-GUT-05"
+    },
+    {
+      "source": "HFMP-8",
+      "missing_reference": "CAS-GUT-05"
+    }
+  ]
+}

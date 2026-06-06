@@ -1,0 +1,2637 @@
+[
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": "Rules: MAIN vs RESET are separated. RESET rows are Phase 3 only. This sheet is NOT a mandate to run everything.",
+    "canonical_id": "TEMP-001",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": "Phase",
+    "canonical_id": "TEMP-003",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-004",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-005",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-006",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-007",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-008",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-009",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-010",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-011",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-012",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-013",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-014",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-015",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-016",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-017",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-018",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-019",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-020",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-021",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-022",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-023",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-024",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-025",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-026",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-027",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-028",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-029",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-030",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-031",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-032",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-033",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-034",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-035",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-036",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-037",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-038",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-039",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-040",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-041",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-042",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-043",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-044",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-045",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-046",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-047",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-048",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-049",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-050",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-051",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-052",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-053",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-054",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-055",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1,
+    "canonical_id": "TEMP-056",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-057",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-058",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-059",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-060",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-061",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-062",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-063",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-064",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-065",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-066",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-067",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-068",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-069",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-070",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-071",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-072",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-073",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-074",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-075",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-076",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-077",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-078",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-079",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-080",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-081",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-082",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-083",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-084",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-085",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-086",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-087",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-088",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-089",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-090",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-091",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-092",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-093",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-094",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-095",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-096",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-097",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-098",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-099",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-100",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-101",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-102",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-103",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-104",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-105",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-106",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-107",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-108",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-109",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-110",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-111",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-112",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-113",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-114",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-115",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-116",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-117",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-118",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-119",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-120",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-121",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-122",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-123",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-124",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-125",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-126",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-127",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-128",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-129",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-130",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-131",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-132",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-133",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-134",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-135",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-136",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-137",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-138",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-139",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-140",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-141",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-142",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-143",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-144",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-145",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-146",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-147",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-148",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-149",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-150",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-151",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-152",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-153",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-154",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-155",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-156",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-157",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 1.5,
+    "canonical_id": "TEMP-158",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-159",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-160",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-161",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-162",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-163",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-164",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-165",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-166",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-167",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-168",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-169",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-170",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-171",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-172",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-173",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-174",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-175",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-176",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-177",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-178",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-179",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-180",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-181",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-182",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-183",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-184",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-185",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-186",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-187",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-188",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-189",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-190",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-191",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-192",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-193",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-194",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-195",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-196",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-197",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-198",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-199",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-200",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-201",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-202",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-203",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-204",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-205",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-206",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-207",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-208",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-209",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-210",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-211",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-212",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-213",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-214",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-215",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-216",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-217",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-218",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-219",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-220",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-221",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-222",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-223",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-224",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-225",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-226",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-227",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-228",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-229",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-230",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-231",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-232",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-233",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-234",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-235",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-236",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-237",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-238",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-239",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-240",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-241",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-242",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-243",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-244",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-245",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-246",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-247",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-248",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-249",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-250",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-251",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-252",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-253",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-254",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-255",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-256",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-257",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-258",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-259",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-260",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-261",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-262",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-263",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-264",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-265",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-266",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-267",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-268",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-269",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-270",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-271",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-272",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-273",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-274",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-275",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-276",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-277",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-278",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-279",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-280",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-281",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-282",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-283",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-284",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-285",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-286",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-287",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-288",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-289",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-290",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-291",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-292",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-293",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-294",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-295",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-296",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-297",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-298",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-299",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-300",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-301",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-302",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-303",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-304",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-305",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-306",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-307",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-308",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-309",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-310",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-311",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-312",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-313",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-314",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-315",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-316",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-317",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-318",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-319",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-320",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-321",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-322",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-323",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-324",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-325",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-326",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-327",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-328",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-329",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-330",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-331",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-332",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-333",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-334",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 2,
+    "canonical_id": "TEMP-335",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-336",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-337",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-338",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-339",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-340",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-341",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-342",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-343",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-344",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-345",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-346",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-347",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-348",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-349",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-350",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-351",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-352",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-353",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-354",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-355",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-356",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-357",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-358",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-359",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-360",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-361",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-362",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-363",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-364",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-365",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-366",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-367",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-368",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-369",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-370",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-371",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-372",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-373",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-374",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-375",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-376",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-377",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-378",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-379",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-380",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-381",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-382",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-383",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-384",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-385",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-386",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-387",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-388",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-389",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-390",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-391",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-392",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-393",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-394",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-395",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-396",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-397",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-398",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-399",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-400",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-401",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-402",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-403",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-404",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-405",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-406",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-407",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-408",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-409",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-410",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-411",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-412",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-413",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-414",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-415",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-416",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-417",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-418",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-419",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-420",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-421",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-422",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-423",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-424",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-425",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-426",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-427",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-428",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-429",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-430",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-431",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-432",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-433",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-434",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-435",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-436",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-437",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-438",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-439",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-440",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-441",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-442",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-443",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-444",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-445",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-446",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-447",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-448",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-449",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-450",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-451",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-452",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-453",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-454",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-455",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-456",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-457",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-458",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-459",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-460",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-461",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-462",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-463",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-464",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-465",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-466",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-467",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-468",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-469",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-470",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-471",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-472",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-473",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-474",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-475",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-476",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-477",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-478",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-479",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-480",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-481",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-482",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-483",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-484",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-485",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-486",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-487",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-488",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-489",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-490",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-491",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-492",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-493",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-494",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-495",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-496",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-497",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-498",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-499",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-500",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-501",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-502",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-503",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-504",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-505",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-506",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-507",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-508",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-509",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-510",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-511",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-512",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-513",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-514",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-515",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-516",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-517",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-518",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-519",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-520",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-521",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-522",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-523",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-524",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-525",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-526",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-527",
+    "referenced_ids": []
+  },
+  {
+    "safety_rank_heuristic_3_low_risk_2_moderate_volatility_endocrine_mito_no_levers_1_rx_high_volatility_reset_only_systemic_antimicrobials": 3,
+    "canonical_id": "TEMP-528",
+    "referenced_ids": []
+  }
+]

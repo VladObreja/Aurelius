@@ -1,0 +1,4878 @@
+[
+  {
+    "phase": "Phase 1.0",
+    "time_block": "On waking",
+    "what_to_do_take": "Hydration Baseline [COP-23]",
+    "optional": null,
+    "notes": "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly; avoid overdrinking plain water.",
+    "continuation_maintenance": null,
+    "source_ids": "COP-23",
+    "canonical_id": "DAILY_SCHEDULE-001",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-23"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "On waking",
+    "what_to_do_take": "Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "optional": "Optional",
+    "notes": "Core tool in Phase 1 bile-dump strategy.",
+    "continuation_maintenance": null,
+    "source_ids": "CAS-FOOD-03",
+    "canonical_id": "DAILY_SCHEDULE-002",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-FOOD-03"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Binder window (fasted, mid-morning)",
+    "what_to_do_take": "Psyllium — 5-10g [CAS-GUT-01]",
+    "optional": null,
+    "notes": "AM fasted, 5–10g in water, 20–30 min before carrot salad and supplements; Binder",
+    "continuation_maintenance": "Carry: Yes | Maint: 2–4×/week or PRN | Stop/Taper: Taper to PRN once stools stable 10–14d; reduce first if constipation.",
+    "source_ids": "CAS-GUT-01",
+    "canonical_id": "DAILY_SCHEDULE-003",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Binder window (after psyllium)",
+    "what_to_do_take": "Carrot salad [CAS-FOOD-01]",
+    "optional": null,
+    "notes": "Endotoxin binding",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week or PRN | Stop/Taper: Maintenance once GI/skin stable 10–14d.",
+    "source_ids": "CAS-FOOD-01",
+    "canonical_id": "DAILY_SCHEDULE-004",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-FOOD-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Taurine — 1g [CAS-LIV-01]",
+    "optional": null,
+    "notes": "Bile flow",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or 3–5×/week | Stop/Taper: Reduce frequency once bile/GI stable 10–14d.",
+    "source_ids": "CAS-LIV-01",
+    "canonical_id": "DAILY_SCHEDULE-005",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "MSM — 750mg [CAS-LIV-02]",
+    "optional": null,
+    "notes": "Sulfur support",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week → discontinue | Stop/Taper: Taper off once skin/gut stable 14d; stop if sulfur intolerance/wired.",
+    "source_ids": "CAS-LIV-02",
+    "canonical_id": "DAILY_SCHEDULE-006",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-02"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Molybdenum — 100-200mcg [CAS-LIV-03]",
+    "optional": null,
+    "notes": "Sulfur cofactor",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with MSM; optional otherwise | Stop/Taper: Keep while MSM used; optional after MSM stopped.",
+    "source_ids": "CAS-LIV-03",
+    "canonical_id": "DAILY_SCHEDULE-007",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-03"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Beet extract — per label [CAS-VAS-08]",
+    "optional": null,
+    "notes": "NO/liver",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN (training/sex days) | Stop/Taper: Use PRN; stop if low BP/dizziness.",
+    "source_ids": "CAS-VAS-08",
+    "canonical_id": "DAILY_SCHEDULE-008",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-08"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Vitamin C — 1g [CAS-ANTIOX-01]",
+    "optional": null,
+    "notes": "Antioxidant",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or PRN with vascular block | Stop/Taper: Optional long-term; reduce if GI irritation.",
+    "source_ids": "CAS-ANTIOX-01",
+    "canonical_id": "DAILY_SCHEDULE-009",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-ANTIOX-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Zinc — 20-30mg [CAS-MICRO-01]",
+    "optional": null,
+    "notes": "Hormonal support",
+    "continuation_maintenance": "Carry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 6–8 weeks; avoid long-term high-dose without monitoring.",
+    "source_ids": "CAS-MICRO-01",
+    "canonical_id": "DAILY_SCHEDULE-010",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Selenium — 100-200mcg [CAS-MICRO-02]",
+    "optional": null,
+    "notes": "Thyroid support",
+    "continuation_maintenance": "Carry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 8–12 weeks.",
+    "source_ids": "CAS-MICRO-02",
+    "canonical_id": "DAILY_SCHEDULE-011",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-02"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Undecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "optional": null,
+    "notes": "Primary antifungal; target Candida/yeast load and acetaldehyde. Start low; maintain binders and 1–2+ BMs/day.",
+    "continuation_maintenance": "Carry: Course | Maint: Course; PRN pulses | Stop/Taper: Finite course: taper off after fungal/SD stable 14d; PRN pulses for relapse.",
+    "source_ids": "CAS-FUNG-01",
+    "canonical_id": "DAILY_SCHEDULE-012",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-FUNG-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Creatine — 5g [CAS-MITO-01]",
+    "optional": null,
+    "notes": "ATP support",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MITO-01",
+    "canonical_id": "DAILY_SCHEDULE-013",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Dinner (with food)",
+    "what_to_do_take": "TUDCA — 250mg — Daily (from Week 2) [CAS-LIV-04]",
+    "optional": null,
+    "notes": "Take away from key fat-soluble vitamins by ~2 hours where possible.; Bile acid support in cholestasis; increases bile flow and protects cholangiocytes.",
+    "continuation_maintenance": "Carry: Yes | Maint: 2–4×/week maintenance | Stop/Taper: Taper once motility + bile symptoms stable 10–14d; hold if bile reflux/RUQ pain.",
+    "source_ids": "CAS-LIV-04",
+    "canonical_id": "DAILY_SCHEDULE-014",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-04"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Magnesium glycinate — 200-300mg [CAS-MICRO-03]",
+    "optional": null,
+    "notes": "Sleep/relaxation",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MICRO-03",
+    "canonical_id": "DAILY_SCHEDULE-015",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-03"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Glycine — 2-3g [CAS-AMINO-01]",
+    "optional": null,
+    "notes": "Sleep/liver",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or PRN | Stop/Taper: Optional long-term; reduce if daytime sedation.",
+    "source_ids": "CAS-AMINO-01",
+    "canonical_id": "DAILY_SCHEDULE-016",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "CAS-AMINO-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Reverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]",
+    "optional": null,
+    "notes": "Short sets throughout day; avoid straining",
+    "continuation_maintenance": null,
+    "source_ids": "COP-01",
+    "canonical_id": "DAILY_SCHEDULE-017",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Psoas Release — 3–7x/week — Evening or off days [COP-02]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-02",
+    "canonical_id": "DAILY_SCHEDULE-018",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-02"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Adductor & Hamstring Lengthening — 3–5x/week — Post-walk or training [COP-03]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-03",
+    "canonical_id": "DAILY_SCHEDULE-019",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-03"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Pelvic Mobility Drills — Daily — AM or PM [COP-04]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-04",
+    "canonical_id": "DAILY_SCHEDULE-020",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-04"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Nasal PBM — 3–7x/week — Evening or morning [COP-06]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-06",
+    "canonical_id": "DAILY_SCHEDULE-021",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-06"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Diaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-12",
+    "canonical_id": "DAILY_SCHEDULE-022",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-12"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Glute Activation Sequences — 3–5x/week — Pre-walk or training [COP-13]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-13",
+    "canonical_id": "DAILY_SCHEDULE-023",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-13"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Sleep Optimization Practices — Daily — Evening [COP-14]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-14",
+    "canonical_id": "DAILY_SCHEDULE-024",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-14"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Liver Pumping / Thoracic Mobilization — 3–7x/week — Evening [COP-15]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-15",
+    "canonical_id": "DAILY_SCHEDULE-025",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-15"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Vagal Reset Maneuvers — PRN + daily micro-practices — Any [COP-16]",
+    "optional": "Optional",
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-16",
+    "canonical_id": "DAILY_SCHEDULE-026",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-16"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Hydration Baseline — Daily — On waking + throughout day [COP-23]",
+    "optional": null,
+    "notes": "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly. Avoid overdrinking plain water.",
+    "continuation_maintenance": null,
+    "source_ids": "COP-23",
+    "canonical_id": "DAILY_SCHEDULE-027",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": [
+      "COP-23"
+    ]
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid choline, lecithin, ox bile, DIM, I3C, high-dose vitamin D, aggressive training.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-028",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid starting at very high dose",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-029",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "caution if severe herx or constipation.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-030",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid if severe diarrhea, strong bile reflux sensations, or new right-upper-quadrant pain.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-031",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.0",
+    "time_block": "Advance when",
+    "what_to_do_take": "Stools more regular, nausea absent, energy modestly improved, SD beginning to ease, no worsening of symptoms.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-032",
+    "phase_list": [
+      "Phase 1.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "On waking",
+    "what_to_do_take": "Hydration Baseline [COP-23]",
+    "optional": null,
+    "notes": "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly; avoid overdrinking plain water.",
+    "continuation_maintenance": null,
+    "source_ids": "COP-23",
+    "canonical_id": "DAILY_SCHEDULE-033",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-23"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "On waking",
+    "what_to_do_take": "Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "optional": "Optional",
+    "notes": "Core tool in Phase 1 bile-dump strategy.",
+    "continuation_maintenance": null,
+    "source_ids": "CAS-FOOD-03",
+    "canonical_id": "DAILY_SCHEDULE-034",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-FOOD-03"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Binder window (fasted, mid-morning)",
+    "what_to_do_take": "Psyllium — 5-10g [CAS-GUT-01]",
+    "optional": null,
+    "notes": "AM fasted, 5–10g in water, 20–30 min before carrot salad and supplements; Binder",
+    "continuation_maintenance": "Carry: Yes | Maint: 2–4×/week or PRN | Stop/Taper: Taper to PRN once stools stable 10–14d; reduce first if constipation.",
+    "source_ids": "CAS-GUT-01",
+    "canonical_id": "DAILY_SCHEDULE-035",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Binder window (after psyllium)",
+    "what_to_do_take": "Carrot salad [CAS-FOOD-01]",
+    "optional": null,
+    "notes": "Endotoxin binding",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week or PRN | Stop/Taper: Maintenance once GI/skin stable 10–14d.",
+    "source_ids": "CAS-FOOD-01",
+    "canonical_id": "DAILY_SCHEDULE-036",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-FOOD-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Taurine — 1g [CAS-LIV-01]",
+    "optional": null,
+    "notes": "Bile flow",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or 3–5×/week | Stop/Taper: Reduce frequency once bile/GI stable 10–14d.",
+    "source_ids": "CAS-LIV-01",
+    "canonical_id": "DAILY_SCHEDULE-037",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "MSM — 750mg [CAS-LIV-02]",
+    "optional": null,
+    "notes": "Sulfur support",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week → discontinue | Stop/Taper: Taper off once skin/gut stable 14d; stop if sulfur intolerance/wired.",
+    "source_ids": "CAS-LIV-02",
+    "canonical_id": "DAILY_SCHEDULE-038",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-02"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Molybdenum — 100-200mcg [CAS-LIV-03]",
+    "optional": null,
+    "notes": "Sulfur cofactor",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with MSM; optional otherwise | Stop/Taper: Keep while MSM used; optional after MSM stopped.",
+    "source_ids": "CAS-LIV-03",
+    "canonical_id": "DAILY_SCHEDULE-039",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-03"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Beet extract — per label [CAS-VAS-08]",
+    "optional": null,
+    "notes": "NO/liver",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN (training/sex days) | Stop/Taper: Use PRN; stop if low BP/dizziness.",
+    "source_ids": "CAS-VAS-08",
+    "canonical_id": "DAILY_SCHEDULE-040",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-08"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Vitamin C — 1g [CAS-ANTIOX-01]",
+    "optional": null,
+    "notes": "Antioxidant",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or PRN with vascular block | Stop/Taper: Optional long-term; reduce if GI irritation.",
+    "source_ids": "CAS-ANTIOX-01",
+    "canonical_id": "DAILY_SCHEDULE-041",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-ANTIOX-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Zinc — 20-30mg [CAS-MICRO-01]",
+    "optional": null,
+    "notes": "Hormonal support",
+    "continuation_maintenance": "Carry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 6–8 weeks; avoid long-term high-dose without monitoring.",
+    "source_ids": "CAS-MICRO-01",
+    "canonical_id": "DAILY_SCHEDULE-042",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Selenium — 100-200mcg [CAS-MICRO-02]",
+    "optional": null,
+    "notes": "Thyroid support",
+    "continuation_maintenance": "Carry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 8–12 weeks.",
+    "source_ids": "CAS-MICRO-02",
+    "canonical_id": "DAILY_SCHEDULE-043",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-02"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Benfotiamine — 150-300mg [CAS-MITO-05]",
+    "optional": null,
+    "notes": "Metabolic ignition",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once energy stable 14d.",
+    "source_ids": "CAS-MITO-05",
+    "canonical_id": "DAILY_SCHEDULE-044",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-05"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "ALCAR — 500mg [CAS-MITO-06]",
+    "optional": null,
+    "notes": "Neuro/mito",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN (training/drive days) | Stop/Taper: Use PRN; stop if insomnia/wired.",
+    "source_ids": "CAS-MITO-06",
+    "canonical_id": "DAILY_SCHEDULE-045",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-06"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Calcium D-Glucarate — 500mg [CAS-GUT-02]",
+    "optional": null,
+    "notes": "Estrogen clearance",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or PRN | Stop/Taper: Use during mobilization; taper when stable 14d.",
+    "source_ids": "CAS-GUT-02",
+    "canonical_id": "DAILY_SCHEDULE-046",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-02"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "PHGG — 1-2g [CAS-GUT-03]",
+    "optional": null,
+    "notes": "Prebiotic",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once stools stable 10–14d.",
+    "source_ids": "CAS-GUT-03",
+    "canonical_id": "DAILY_SCHEDULE-047",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-03"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "MegaSporeBiotic — 0.5→1 cap [CAS-GUT-04]",
+    "optional": null,
+    "notes": "Microbiome",
+    "continuation_maintenance": "Carry: Course | Maint: Stop after course | Stop/Taper: Course 8–12 weeks then stop and reassess.",
+    "source_ids": "CAS-GUT-04",
+    "canonical_id": "DAILY_SCHEDULE-048",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-04"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Glutathione (oral, generic) — 250–500mg — Daily (optional) [CAS-DET-01]",
+    "optional": "Optional",
+    "notes": "Optional gentle GSH support once Phase 1 digestion is stable; avoid if nausea/bloating persist.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks if tolerated.",
+    "source_ids": "CAS-DET-01",
+    "canonical_id": "DAILY_SCHEDULE-049",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-DET-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "NAC — 600mg [CAS-BIO-02]",
+    "optional": "Optional",
+    "notes": "Optional detox and neuroinflammation reduction.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks; stop if wired/insomnia.",
+    "source_ids": "CAS-BIO-02",
+    "canonical_id": "DAILY_SCHEDULE-050",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-BIO-02"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Sulforaphane (Broccoli Sprout Extract) — per label (e.g. 20–40mg) — 3–5×/week [CAS-INF-02]",
+    "optional": null,
+    "notes": "Nrf2 activator; upregulates detox enzymes including ALDH, supports antioxidant defenses.",
+    "continuation_maintenance": "Carry: PRN | Maint: 3–5×/week cycles | Stop/Taper: Optional/cycled; reduce frequency if headache/insomnia.",
+    "source_ids": "CAS-INF-02",
+    "canonical_id": "DAILY_SCHEDULE-051",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-INF-02"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Methylene Blue (low-dose) — 0.5–1mg/kg — 3–5×/week [CAS-MITO-15]",
+    "optional": null,
+    "notes": "Low-dose mitochondrial and dopaminergic accelerator; improves ETC efficiency and may enhance mood/drive.",
+    "continuation_maintenance": "Carry: PRN | Maint: 3–5×/week cycles (never continuous) | Stop/Taper: Cycled only; stop if insomnia/wired.",
+    "source_ids": "CAS-MITO-15",
+    "canonical_id": "DAILY_SCHEDULE-052",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-15"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Undecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "optional": null,
+    "notes": "Primary antifungal; target Candida/yeast load and acetaldehyde. Start low; maintain binders and 1–2+ BMs/day.",
+    "continuation_maintenance": "Carry: Course | Maint: Course; PRN pulses | Stop/Taper: Finite course: taper off after fungal/SD stable 14d; PRN pulses for relapse.",
+    "source_ids": "CAS-FUNG-01",
+    "canonical_id": "DAILY_SCHEDULE-053",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-FUNG-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Niacinamide — 250–500mg [CAS-B-01]",
+    "optional": null,
+    "notes": "Supports NAD+ pool, ALDH function, and lowers FFA; stabilizes metabolism.",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food or 3–5×/week | Stop/Taper: Reduce if over-sedation or GI effects.",
+    "source_ids": "CAS-B-01",
+    "canonical_id": "DAILY_SCHEDULE-054",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-B-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Creatine — 5g [CAS-MITO-01]",
+    "optional": null,
+    "notes": "ATP support",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MITO-01",
+    "canonical_id": "DAILY_SCHEDULE-055",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Aspirin — 81mg — EOD [CAS-INF-01]",
+    "optional": null,
+    "notes": "Anti-inflammatory",
+    "continuation_maintenance": "Carry: Course | Maint: EOD course then reassess | Stop/Taper: Course; taper off once inflammation stable; stop if bruising/GI issues.",
+    "source_ids": "CAS-INF-01",
+    "canonical_id": "DAILY_SCHEDULE-056",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-INF-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Vitamin K2 — MK7 100-200mcg [CAS-MICRO-04]",
+    "optional": null,
+    "notes": "Aspirin support",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MICRO-04",
+    "canonical_id": "DAILY_SCHEDULE-057",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-04"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Omega-3 — 500mg [CAS-LIP-01]",
+    "optional": null,
+    "notes": "Anti-inflammatory",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-LIP-01",
+    "canonical_id": "DAILY_SCHEDULE-058",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-LIP-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Dinner (with food)",
+    "what_to_do_take": "TUDCA — 250mg — Daily (from Week 2) [CAS-LIV-04]",
+    "optional": null,
+    "notes": "Take away from key fat-soluble vitamins by ~2 hours where possible.; Bile acid support in cholestasis; increases bile flow and protects cholangiocytes.",
+    "continuation_maintenance": "Carry: Yes | Maint: 2–4×/week maintenance | Stop/Taper: Taper once motility + bile symptoms stable 10–14d; hold if bile reflux/RUQ pain.",
+    "source_ids": "CAS-LIV-04",
+    "canonical_id": "DAILY_SCHEDULE-059",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-04"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Magnesium glycinate — 200-300mg [CAS-MICRO-03]",
+    "optional": null,
+    "notes": "Sleep/relaxation",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MICRO-03",
+    "canonical_id": "DAILY_SCHEDULE-060",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-03"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Glycine — 2-3g [CAS-AMINO-01]",
+    "optional": null,
+    "notes": "Sleep/liver",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or PRN | Stop/Taper: Optional long-term; reduce if daytime sedation.",
+    "source_ids": "CAS-AMINO-01",
+    "canonical_id": "DAILY_SCHEDULE-061",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-AMINO-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "ALA — 100-200mg [CAS-MITO-07]",
+    "optional": null,
+    "notes": "Antioxidant",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or cycles | Stop/Taper: Optional/cycled; stop if insomnia/wired.",
+    "source_ids": "CAS-MITO-07",
+    "canonical_id": "DAILY_SCHEDULE-062",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-07"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "DHM — 100-300mg [CAS-NEURO-10]",
+    "optional": null,
+    "notes": "GABA/liver",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN (evening) | Stop/Taper: PRN for aldehyde load; stop if daytime sedation.",
+    "source_ids": "CAS-NEURO-10",
+    "canonical_id": "DAILY_SCHEDULE-063",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-10"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Reverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]",
+    "optional": null,
+    "notes": "Short sets throughout day; avoid straining",
+    "continuation_maintenance": null,
+    "source_ids": "COP-01",
+    "canonical_id": "DAILY_SCHEDULE-064",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-01"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Psoas Release — 3–7x/week — Evening or off days [COP-02]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-02",
+    "canonical_id": "DAILY_SCHEDULE-065",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-02"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Adductor & Hamstring Lengthening — 3–5x/week — Post-walk or training [COP-03]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-03",
+    "canonical_id": "DAILY_SCHEDULE-066",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-03"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Pelvic Mobility Drills — Daily — AM or PM [COP-04]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-04",
+    "canonical_id": "DAILY_SCHEDULE-067",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-04"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Nasal PBM — 3–7x/week — Evening or morning [COP-06]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-06",
+    "canonical_id": "DAILY_SCHEDULE-068",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-06"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Fascia & Pelvic Floor Neuro-Mechanics — 3–5x/week — Any [COP-07]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-07",
+    "canonical_id": "DAILY_SCHEDULE-069",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-07"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Sauna / Cold Contrast — 1–4x/week — Evening [COP-11]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-11",
+    "canonical_id": "DAILY_SCHEDULE-070",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-11"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Diaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-12",
+    "canonical_id": "DAILY_SCHEDULE-071",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-12"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Glute Activation Sequences — 3–5x/week — Pre-walk or training [COP-13]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-13",
+    "canonical_id": "DAILY_SCHEDULE-072",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-13"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Sleep Optimization Practices — Daily — Evening [COP-14]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-14",
+    "canonical_id": "DAILY_SCHEDULE-073",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-14"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Liver Pumping / Thoracic Mobilization — 3–7x/week — Evening [COP-15]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-15",
+    "canonical_id": "DAILY_SCHEDULE-074",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-15"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Vagal Reset Maneuvers — PRN + daily micro-practices — Any [COP-16]",
+    "optional": "Optional",
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-16",
+    "canonical_id": "DAILY_SCHEDULE-075",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-16"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Foot–Core Activation Chain — 3–5x/week — Pre-walk/training [COP-17]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-17",
+    "canonical_id": "DAILY_SCHEDULE-076",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-17"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Olfactory Training Protocol — Daily — Any [COP-19]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-19",
+    "canonical_id": "DAILY_SCHEDULE-077",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-19"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "CO₂ Tolerance Breathwork — 3–5x/week — Any [COP-20]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-20",
+    "canonical_id": "DAILY_SCHEDULE-078",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-20"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Hydration Baseline — Daily — On waking + throughout day [COP-23]",
+    "optional": null,
+    "notes": "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly. Avoid overdrinking plain water.",
+    "continuation_maintenance": null,
+    "source_ids": "COP-23",
+    "canonical_id": "DAILY_SCHEDULE-079",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": [
+      "COP-23"
+    ]
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid choline, lecithin, ox bile, DIM, I3C, high-dose vitamin D, aggressive training.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-080",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid starting at very high dose",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-081",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "caution if severe herx or constipation.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-082",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid if severe diarrhea, strong bile reflux sensations, or new right-upper-quadrant pain.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-083",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid stacking new stimulants",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-084",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "continue to avoid choline, ox bile and aggressive DIM/I3C usage.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-085",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Caution in severe liver disease",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-086",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "watch for unusual fatigue or paradoxical agitation.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-087",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "May provoke mild detox/headache in sensitive individuals",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-088",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "start at lower frequency if needed.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-089",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid with serotonergic drugs (SSRIs, MAOIs)",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-090",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "caution in G6PD deficiency",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-091",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "may discolor urine/teeth.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-092",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 1.5",
+    "time_block": "Advance when",
+    "what_to_do_take": "Bloating and gut reactivity reduced, sleep stable, baseline libido flickers returning, stress tolerance better.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-093",
+    "phase_list": [
+      "Phase 1.5"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "On waking",
+    "what_to_do_take": "Hydration Baseline [COP-23]",
+    "optional": null,
+    "notes": "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly; avoid overdrinking plain water.",
+    "continuation_maintenance": null,
+    "source_ids": "COP-23",
+    "canonical_id": "DAILY_SCHEDULE-094",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-23"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "On waking",
+    "what_to_do_take": "Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "optional": "Optional",
+    "notes": "Core tool in Phase 1 bile-dump strategy.",
+    "continuation_maintenance": null,
+    "source_ids": "CAS-FOOD-03",
+    "canonical_id": "DAILY_SCHEDULE-095",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-FOOD-03"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Binder window (fasted, mid-morning)",
+    "what_to_do_take": "Psyllium — 5-10g [CAS-GUT-01]",
+    "optional": null,
+    "notes": "AM fasted, 5–10g in water, 20–30 min before carrot salad and supplements; Binder",
+    "continuation_maintenance": "Carry: Yes | Maint: 2–4×/week or PRN | Stop/Taper: Taper to PRN once stools stable 10–14d; reduce first if constipation.",
+    "source_ids": "CAS-GUT-01",
+    "canonical_id": "DAILY_SCHEDULE-096",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Binder window (after psyllium)",
+    "what_to_do_take": "Carrot salad [CAS-FOOD-01]",
+    "optional": null,
+    "notes": "Endotoxin binding",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week or PRN | Stop/Taper: Maintenance once GI/skin stable 10–14d.",
+    "source_ids": "CAS-FOOD-01",
+    "canonical_id": "DAILY_SCHEDULE-097",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-FOOD-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Taurine — 1g [CAS-LIV-01]",
+    "optional": null,
+    "notes": "Bile flow",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or 3–5×/week | Stop/Taper: Reduce frequency once bile/GI stable 10–14d.",
+    "source_ids": "CAS-LIV-01",
+    "canonical_id": "DAILY_SCHEDULE-098",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "MSM — 750mg [CAS-LIV-02]",
+    "optional": null,
+    "notes": "Sulfur support",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week → discontinue | Stop/Taper: Taper off once skin/gut stable 14d; stop if sulfur intolerance/wired.",
+    "source_ids": "CAS-LIV-02",
+    "canonical_id": "DAILY_SCHEDULE-099",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Molybdenum — 100-200mcg [CAS-LIV-03]",
+    "optional": null,
+    "notes": "Sulfur cofactor",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with MSM; optional otherwise | Stop/Taper: Keep while MSM used; optional after MSM stopped.",
+    "source_ids": "CAS-LIV-03",
+    "canonical_id": "DAILY_SCHEDULE-100",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-03"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Zinc — 20-30mg [CAS-MICRO-01]",
+    "optional": null,
+    "notes": "Hormonal support",
+    "continuation_maintenance": "Carry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 6–8 weeks; avoid long-term high-dose without monitoring.",
+    "source_ids": "CAS-MICRO-01",
+    "canonical_id": "DAILY_SCHEDULE-101",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Selenium — 100-200mcg [CAS-MICRO-02]",
+    "optional": null,
+    "notes": "Thyroid support",
+    "continuation_maintenance": "Carry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 8–12 weeks.",
+    "source_ids": "CAS-MICRO-02",
+    "canonical_id": "DAILY_SCHEDULE-102",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Benfotiamine — 150-300mg [CAS-MITO-05]",
+    "optional": null,
+    "notes": "Metabolic ignition",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once energy stable 14d.",
+    "source_ids": "CAS-MITO-05",
+    "canonical_id": "DAILY_SCHEDULE-103",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-05"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Calcium D-Glucarate — 500mg [CAS-GUT-02]",
+    "optional": null,
+    "notes": "Estrogen clearance",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or PRN | Stop/Taper: Use during mobilization; taper when stable 14d.",
+    "source_ids": "CAS-GUT-02",
+    "canonical_id": "DAILY_SCHEDULE-104",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "PHGG — 1-2g [CAS-GUT-03]",
+    "optional": null,
+    "notes": "Prebiotic",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once stools stable 10–14d.",
+    "source_ids": "CAS-GUT-03",
+    "canonical_id": "DAILY_SCHEDULE-105",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-03"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "MegaSporeBiotic — 0.5→1 cap [CAS-GUT-04]",
+    "optional": null,
+    "notes": "Microbiome",
+    "continuation_maintenance": "Carry: Course | Maint: Stop after course | Stop/Taper: Course 8–12 weeks then stop and reassess.",
+    "source_ids": "CAS-GUT-04",
+    "canonical_id": "DAILY_SCHEDULE-106",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-04"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Glutathione (oral, generic) — 250–500mg — Daily (optional) [CAS-DET-01]",
+    "optional": "Optional",
+    "notes": "Optional gentle GSH support once Phase 1 digestion is stable; avoid if nausea/bloating persist.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks if tolerated.",
+    "source_ids": "CAS-DET-01",
+    "canonical_id": "DAILY_SCHEDULE-107",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-DET-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "NAC — 600mg [CAS-BIO-02]",
+    "optional": "Optional",
+    "notes": "Optional detox and neuroinflammation reduction.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks; stop if wired/insomnia.",
+    "source_ids": "CAS-BIO-02",
+    "canonical_id": "DAILY_SCHEDULE-108",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-BIO-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Sulforaphane (Broccoli Sprout Extract) — per label (e.g. 20–40mg) — 3–5×/week [CAS-INF-02]",
+    "optional": null,
+    "notes": "Nrf2 activator; upregulates detox enzymes including ALDH, supports antioxidant defenses.",
+    "continuation_maintenance": "Carry: PRN | Maint: 3–5×/week cycles | Stop/Taper: Optional/cycled; reduce frequency if headache/insomnia.",
+    "source_ids": "CAS-INF-02",
+    "canonical_id": "DAILY_SCHEDULE-109",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-INF-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Methylene Blue (low-dose) — 0.5–1mg/kg — 3–5×/week [CAS-MITO-15]",
+    "optional": null,
+    "notes": "Low-dose mitochondrial and dopaminergic accelerator; improves ETC efficiency and may enhance mood/drive.",
+    "continuation_maintenance": "Carry: PRN | Maint: 3–5×/week cycles (never continuous) | Stop/Taper: Cycled only; stop if insomnia/wired.",
+    "source_ids": "CAS-MITO-15",
+    "canonical_id": "DAILY_SCHEDULE-110",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-15"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Tongkat Ali — 200-400mg [CAS-ANDRO-01]",
+    "optional": null,
+    "notes": "Androgen",
+    "continuation_maintenance": "Carry: Yes | Maint: 5 on / 2 off or blocks | Stop/Taper: Cycle to avoid tolerance; stop if irritability/insomnia.",
+    "source_ids": "CAS-ANDRO-01",
+    "canonical_id": "DAILY_SCHEDULE-111",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Cistanche — 500-1500mg [CAS-ANDRO-02]",
+    "optional": null,
+    "notes": "Androgen",
+    "continuation_maintenance": "Carry: Yes | Maint: 5 on / 2 off or blocks | Stop/Taper: Cycle to avoid tolerance; stop if irritability/insomnia.",
+    "source_ids": "CAS-ANDRO-02",
+    "canonical_id": "DAILY_SCHEDULE-112",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Pregnenolone — 5-10mg [CAS-STERO-01]",
+    "optional": null,
+    "notes": "Neurosteroid",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or 5 on / 2 off | Stop/Taper: Reassess with symptoms/labs; stop if insomnia/anxiety.",
+    "source_ids": "CAS-STERO-01",
+    "canonical_id": "DAILY_SCHEDULE-113",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-STERO-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "DHEA — 5mg [CAS-STERO-02]",
+    "optional": null,
+    "notes": "Neurosteroid",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or 5 on / 2 off | Stop/Taper: Reassess with symptoms/labs; stop if acne/irritability/insomnia.",
+    "source_ids": "CAS-STERO-02",
+    "canonical_id": "DAILY_SCHEDULE-114",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-STERO-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "SAM-e — 200mg [CAS-MET-01]",
+    "optional": null,
+    "notes": "Methylation/dopamine",
+    "continuation_maintenance": "Carry: PRN | Maint: 3–5×/week or PRN | Stop/Taper: Optional; stop if agitation/insomnia.",
+    "source_ids": "CAS-MET-01",
+    "canonical_id": "DAILY_SCHEDULE-115",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MET-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "7,8-Dihydroxyflavone (7,8-DHF) — 10–40mg — Daily (10 days on / 10 days off) – optional [CAS-NEURO-05]",
+    "optional": "Optional",
+    "notes": "TrkB agonist neuroplasticity cycle for olfactory/sexual circuits; do not combine with other strong neurotrophics in same window.",
+    "continuation_maintenance": "Carry: PRN | Maint: 10 on / 10 off | Stop/Taper: Optional/cycled; stop if insomnia/anxiety.",
+    "source_ids": "CAS-NEURO-05",
+    "canonical_id": "DAILY_SCHEDULE-116",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-05"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "TTFD (Thiamine Tetrahydrofurfuryl Disulfide) — 50–200mg [CAS-MITO-06]",
+    "optional": null,
+    "notes": "Metabolic ignition & dopamine support; stack with mitochondrial core once gut/liver stable.",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN (training/drive days) | Stop/Taper: Use PRN; stop if insomnia/wired.",
+    "source_ids": "CAS-MITO-06",
+    "canonical_id": "DAILY_SCHEDULE-117",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-06"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Boron — 6–9mg [CAS-MIN-01]",
+    "optional": null,
+    "notes": "SHBG modulation and steroid hormone optimization; supports androgen axis. Suggested cycle: 2 weeks on / 1 week off.",
+    "continuation_maintenance": "Carry: Yes | Maint: 2 weeks on / 1 off | Stop/Taper: As written: cycle.",
+    "source_ids": "CAS-MIN-01",
+    "canonical_id": "DAILY_SCHEDULE-118",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MIN-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Uridine Monophosphate — 50–150mg [CAS-NEURO-08]",
+    "optional": null,
+    "notes": "Synaptic and dopaminergic support; combine with DHA, avoid choline loading.",
+    "continuation_maintenance": "Carry: PRN | Maint: Cycles only | Stop/Taper: Optional/cycled.",
+    "source_ids": "CAS-NEURO-08",
+    "canonical_id": "DAILY_SCHEDULE-119",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-08"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Piracetam — 1200–2400mg [CAS-NOOT-01]",
+    "optional": null,
+    "notes": "Racetam nootropic; supports sensory integration and possibly olfactory recovery.",
+    "continuation_maintenance": "Carry: PRN | Maint: Cycles only | Stop/Taper: Optional/cycled.",
+    "source_ids": "CAS-NOOT-01",
+    "canonical_id": "DAILY_SCHEDULE-120",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-NOOT-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Sulbuthiamine — 200–400mg — 5 days on / 2 off [CAS-NEURO-09]",
+    "optional": null,
+    "notes": "Dopamine/libido ignition; short cycles once Phase 2 terrain is clearly tolerated.",
+    "continuation_maintenance": "Carry: PRN | Maint: 5 on / 2 off | Stop/Taper: Cycled only (as written).",
+    "source_ids": "CAS-NEURO-09",
+    "canonical_id": "DAILY_SCHEDULE-121",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-09"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Methylated B-Complex — Label-equivalent [CAS-VIT-05]",
+    "optional": null,
+    "notes": "Methyl donors for neurotransmitter and energy metabolism once histamine/sleep are stable.",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week or daily | Stop/Taper: Optional long-term; reduce if overstimulation.",
+    "source_ids": "CAS-VIT-05",
+    "canonical_id": "DAILY_SCHEDULE-122",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-VIT-05"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Semax — 0.1–0.3mg IN — 5 days on / 2 off [CAS-PEPT-02]",
+    "optional": null,
+    "notes": "BDNF, olfactory + motivational support.",
+    "continuation_maintenance": "Carry: PRN | Maint: 5 on / 2 off | Stop/Taper: Cycled only; stop if agitation/insomnia.",
+    "source_ids": "CAS-PEPT-02",
+    "canonical_id": "DAILY_SCHEDULE-123",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-PEPT-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Mucuna Pruriens — 100–200mg — 10 on / 20 off [CAS-NEURO-10]",
+    "optional": null,
+    "notes": "Dopaminergic ignition microcycles.",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN (evening) | Stop/Taper: PRN for aldehyde load; stop if daytime sedation.",
+    "source_ids": "CAS-NEURO-10",
+    "canonical_id": "DAILY_SCHEDULE-124",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-10"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "HMB (β-Hydroxy β-Methylbutyrate) — 1.5 g/day [CAS-NEURO-14]",
+    "optional": null,
+    "notes": "Libido enhancement, improved drive, supports androgen receptor density.",
+    "continuation_maintenance": "Carry: PRN | Maint: Training/sex days or blocks | Stop/Taper: Use with food; choose one HMB lane; stop if GI upset.",
+    "source_ids": "CAS-NEURO-14",
+    "canonical_id": "DAILY_SCHEDULE-125",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-14"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Undecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "optional": null,
+    "notes": "Primary antifungal; target Candida/yeast load and acetaldehyde. Start low; maintain binders and 1–2+ BMs/day.",
+    "continuation_maintenance": "Carry: Course | Maint: Course; PRN pulses | Stop/Taper: Finite course: taper off after fungal/SD stable 14d; PRN pulses for relapse.",
+    "source_ids": "CAS-FUNG-01",
+    "canonical_id": "DAILY_SCHEDULE-126",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-FUNG-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Niacinamide — 250–500mg [CAS-B-01]",
+    "optional": null,
+    "notes": "Supports NAD+ pool, ALDH function, and lowers FFA; stabilizes metabolism.",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food or 3–5×/week | Stop/Taper: Reduce if over-sedation or GI effects.",
+    "source_ids": "CAS-B-01",
+    "canonical_id": "DAILY_SCHEDULE-127",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-B-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Endotelon (grape seed OPC) — 150–300mg/day (often 150mg BID) [CAS-VAS-15]",
+    "optional": null,
+    "notes": "Venotonic/vasculoprotective; microcirculation & endothelial support",
+    "continuation_maintenance": "Carry: Course | Maint: Block 8–12 w | Stop/Taper: Block 8–12 weeks then reassess; avoid stacking with aspirin/polyphenols if bruising.",
+    "source_ids": "CAS-VAS-15",
+    "canonical_id": "DAILY_SCHEDULE-128",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-15"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Tributyrin — 300–600mg [CAS-GUT-07]",
+    "optional": null,
+    "notes": "Gut-brain axis enhancement; SCFA support.",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week | Stop/Taper: Taper once stools stable 14d.",
+    "source_ids": "CAS-GUT-07",
+    "canonical_id": "DAILY_SCHEDULE-129",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-07"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Lactobacillus reuteri — 1–2B CFU [CAS-PRO-02]",
+    "optional": null,
+    "notes": "Oxytocin + libido enhancement; HFMP alignment.",
+    "continuation_maintenance": "Carry: Course | Maint: Stop after course or cycle | Stop/Taper: Course 8–12 weeks then reassess.",
+    "source_ids": "CAS-PRO-02",
+    "canonical_id": "DAILY_SCHEDULE-130",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-PRO-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Creatine — 5g [CAS-MITO-01]",
+    "optional": null,
+    "notes": "ATP support",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MITO-01",
+    "canonical_id": "DAILY_SCHEDULE-131",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Aspirin — 81mg — EOD [CAS-INF-01]",
+    "optional": null,
+    "notes": "Anti-inflammatory",
+    "continuation_maintenance": "Carry: Course | Maint: EOD course then reassess | Stop/Taper: Course; taper off once inflammation stable; stop if bruising/GI issues.",
+    "source_ids": "CAS-INF-01",
+    "canonical_id": "DAILY_SCHEDULE-132",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-INF-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Vitamin K2 — MK7 100-200mcg [CAS-MICRO-04]",
+    "optional": null,
+    "notes": "Aspirin support",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MICRO-04",
+    "canonical_id": "DAILY_SCHEDULE-133",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-04"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Omega-3 — 500mg [CAS-LIP-01]",
+    "optional": null,
+    "notes": "Anti-inflammatory",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-LIP-01",
+    "canonical_id": "DAILY_SCHEDULE-134",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIP-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "LCLT — 1-2g [CAS-MITO-02]",
+    "optional": null,
+    "notes": "Androgen receptor",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK; stop if fishy odor or GI intolerance.",
+    "source_ids": "CAS-MITO-02",
+    "canonical_id": "DAILY_SCHEDULE-135",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Reduced Glutathione (liposomal) — 250–500mg — Daily (optional) [CAS-DET-02]",
+    "optional": "Optional",
+    "notes": "Liposomal GSH layered after terrain stabilization to support mitochondrial redox; optional accelerator.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or blocks | Stop/Taper: Optional mitochondrial/antioxidant support; use in short blocks if tolerated.",
+    "source_ids": "CAS-DET-02",
+    "canonical_id": "DAILY_SCHEDULE-136",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-DET-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Dinner (with food)",
+    "what_to_do_take": "TUDCA — 250mg — Daily (from Week 2) [CAS-LIV-04]",
+    "optional": null,
+    "notes": "Take away from key fat-soluble vitamins by ~2 hours where possible.; Bile acid support in cholestasis; increases bile flow and protects cholangiocytes.",
+    "continuation_maintenance": "Carry: Yes | Maint: 2–4×/week maintenance | Stop/Taper: Taper once motility + bile symptoms stable 10–14d; hold if bile reflux/RUQ pain.",
+    "source_ids": "CAS-LIV-04",
+    "canonical_id": "DAILY_SCHEDULE-137",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-04"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Citrulline — 6g [CAS-VAS-01]",
+    "optional": null,
+    "notes": "NO precursor",
+    "continuation_maintenance": "Carry: PRN | Maint: Training/sex days only | Stop/Taper: Acute tool for training/sex days.",
+    "source_ids": "CAS-VAS-01",
+    "canonical_id": "DAILY_SCHEDULE-138",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Icariin — 150-200mg [CAS-VAS-02]",
+    "optional": null,
+    "notes": "PDE5 mild",
+    "continuation_maintenance": "Carry: PRN | Maint: Training/sex days only | Stop/Taper: Acute tool for training/sex days.",
+    "source_ids": "CAS-VAS-02",
+    "canonical_id": "DAILY_SCHEDULE-139",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Histidine — 500-1000mg [CAS-VAS-03]",
+    "optional": null,
+    "notes": "VEGF modulation",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN | Stop/Taper: Optional acute adjunct; stop if histamine symptoms.",
+    "source_ids": "CAS-VAS-03",
+    "canonical_id": "DAILY_SCHEDULE-140",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-03"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Hesperidin — 250mg [CAS-VAS-04]",
+    "optional": null,
+    "notes": "Vascular",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN | Stop/Taper: Optional adjunct; low priority if low BP.",
+    "source_ids": "CAS-VAS-04",
+    "canonical_id": "DAILY_SCHEDULE-141",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-04"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Pycnogenol — 50-100mg [CAS-VAS-05]",
+    "optional": null,
+    "notes": "Vascular",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN or blocks | Stop/Taper: Prefer as block (8–12 w) if used chronically; watch bleeding with aspirin.",
+    "source_ids": "CAS-VAS-05",
+    "canonical_id": "DAILY_SCHEDULE-142",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-05"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Vitamin C — 500-1000mg [CAS-ANTIOX-01]",
+    "optional": null,
+    "notes": "Antioxidant",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or PRN with vascular block | Stop/Taper: Optional long-term; reduce if GI irritation.",
+    "source_ids": "CAS-ANTIOX-01",
+    "canonical_id": "DAILY_SCHEDULE-143",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-ANTIOX-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Beet nitrate — 300-600mg [CAS-VAS-08]",
+    "optional": null,
+    "notes": "NO",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN (training/sex days) | Stop/Taper: Use PRN; stop if low BP/dizziness.",
+    "source_ids": "CAS-VAS-08",
+    "canonical_id": "DAILY_SCHEDULE-144",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-08"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Magnesium glycinate — 200-300mg [CAS-MICRO-03]",
+    "optional": null,
+    "notes": "Sleep/relaxation",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MICRO-03",
+    "canonical_id": "DAILY_SCHEDULE-145",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-03"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Glycine — 2-3g [CAS-AMINO-01]",
+    "optional": null,
+    "notes": "Sleep/liver",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or PRN | Stop/Taper: Optional long-term; reduce if daytime sedation.",
+    "source_ids": "CAS-AMINO-01",
+    "canonical_id": "DAILY_SCHEDULE-146",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-AMINO-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "ALA — 100-200mg [CAS-MITO-07]",
+    "optional": null,
+    "notes": "Antioxidant",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or cycles | Stop/Taper: Optional/cycled; stop if insomnia/wired.",
+    "source_ids": "CAS-MITO-07",
+    "canonical_id": "DAILY_SCHEDULE-147",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-07"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Magnesium β-Hydroxybutyrate (MHB) — 500–1500mg — 3x/week [CAS-NEURO-13]",
+    "optional": "Optional",
+    "notes": "Optional neurosexual module; take with food in late afternoon or evening; aim for mild relaxation, not sedation.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week cycles | Stop/Taper: Cycled only; stop if oversedation/dizziness.",
+    "source_ids": "CAS-NEURO-13",
+    "canonical_id": "DAILY_SCHEDULE-148",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-13"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Reverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]",
+    "optional": null,
+    "notes": "Short sets throughout day; avoid straining",
+    "continuation_maintenance": null,
+    "source_ids": "COP-01",
+    "canonical_id": "DAILY_SCHEDULE-149",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-01"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Psoas Release — 3–7x/week — Evening or off days [COP-02]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-02",
+    "canonical_id": "DAILY_SCHEDULE-150",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-02"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Adductor & Hamstring Lengthening — 3–5x/week — Post-walk or training [COP-03]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-03",
+    "canonical_id": "DAILY_SCHEDULE-151",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-03"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Pelvic Mobility Drills — Daily — AM or PM [COP-04]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-04",
+    "canonical_id": "DAILY_SCHEDULE-152",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-04"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Perineal PBM (red/IR light) — 3–7x/week — Evening [COP-05]",
+    "optional": null,
+    "notes": "5–10 minutes/session, avoid overheating",
+    "continuation_maintenance": null,
+    "source_ids": "COP-05",
+    "canonical_id": "DAILY_SCHEDULE-153",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-05"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Nasal PBM — 3–7x/week — Evening or morning [COP-06]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-06",
+    "canonical_id": "DAILY_SCHEDULE-154",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-06"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Fascia & Pelvic Floor Neuro-Mechanics — 3–5x/week — Any [COP-07]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-07",
+    "canonical_id": "DAILY_SCHEDULE-155",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-07"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Sensate Focus Mapping — 2–4x/week — Private time [COP-08]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-08",
+    "canonical_id": "DAILY_SCHEDULE-156",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-08"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Feather-Touch Neuroerotic Training — 2–4x/week — Private time [COP-09]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-09",
+    "canonical_id": "DAILY_SCHEDULE-157",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-09"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Angion v2 Microvascular Training — 2–3x/week — Pre- or post-vascular stack [COP-10]",
+    "optional": null,
+    "notes": "Avoid overuse; skip if pain or neuropathy flare",
+    "continuation_maintenance": null,
+    "source_ids": "COP-10",
+    "canonical_id": "DAILY_SCHEDULE-158",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-10"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Sauna / Cold Contrast — 1–4x/week — Evening [COP-11]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-11",
+    "canonical_id": "DAILY_SCHEDULE-159",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-11"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Diaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-12",
+    "canonical_id": "DAILY_SCHEDULE-160",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-12"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Glute Activation Sequences — 3–5x/week — Pre-walk or training [COP-13]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-13",
+    "canonical_id": "DAILY_SCHEDULE-161",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-13"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Sleep Optimization Practices — Daily — Evening [COP-14]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-14",
+    "canonical_id": "DAILY_SCHEDULE-162",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-14"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Liver Pumping / Thoracic Mobilization — 3–7x/week — Evening [COP-15]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-15",
+    "canonical_id": "DAILY_SCHEDULE-163",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-15"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Vagal Reset Maneuvers — PRN + daily micro-practices — Any [COP-16]",
+    "optional": "Optional",
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-16",
+    "canonical_id": "DAILY_SCHEDULE-164",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-16"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Foot–Core Activation Chain — 3–5x/week — Pre-walk/training [COP-17]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-17",
+    "canonical_id": "DAILY_SCHEDULE-165",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-17"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Infrared Sauna Protocol — 1–3x/week — Evening [COP-18]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-18",
+    "canonical_id": "DAILY_SCHEDULE-166",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-18"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Olfactory Training Protocol — Daily — Any [COP-19]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-19",
+    "canonical_id": "DAILY_SCHEDULE-167",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-19"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "CO₂ Tolerance Breathwork — 3–5x/week — Any [COP-20]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-20",
+    "canonical_id": "DAILY_SCHEDULE-168",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-20"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Micro-Arousal Sensory Conditioning — 2–3x/week — Private time [COP-21]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-21",
+    "canonical_id": "DAILY_SCHEDULE-169",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-21"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Glans Sensitivity Reversal Protocol — 2–4x/week — Private time [COP-22]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-22",
+    "canonical_id": "DAILY_SCHEDULE-170",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-22"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Hydration Baseline — Daily — On waking + throughout day [COP-23]",
+    "optional": null,
+    "notes": "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly. Avoid overdrinking plain water.",
+    "continuation_maintenance": null,
+    "source_ids": "COP-23",
+    "canonical_id": "DAILY_SCHEDULE-171",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-23"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Mitochondrial Dynamics Training (Zone 2 + Strength) — Weekly structure — Pre-walk/training [COP-26]",
+    "optional": "Recommended baseline (avoid overtraining)",
+    "notes": "Progress only if sleep/libido stable; keep intensity low if wired/tired.",
+    "continuation_maintenance": "Default weekly structure; deload if sleep worsens.",
+    "source_ids": "COP-26",
+    "canonical_id": "DAILY_SCHEDULE-172",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-26"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Hyperbaric Oxygen Therapy (HBOT) Cycle — 10–20 sessions/cycle — Any (prefer AM) [COP-25]",
+    "optional": "Optional (supervised / clinic)",
+    "notes": "Use as a structured cycle; do not add multiple new high-volatility variables simultaneously.",
+    "continuation_maintenance": "Reassess after each cycle; space cycles based on response.",
+    "source_ids": "COP-25",
+    "canonical_id": "DAILY_SCHEDULE-173",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-25"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Prolonged Water Fasting (Autophagy / Renewal) — Rare (1–4×/year) — Block / supervised [COP-24]",
+    "optional": "Optional (advanced; stress test)",
+    "notes": "Only if baseline stable; avoid if underweight / disordered eating / on glucose meds without medical plan.",
+    "continuation_maintenance": "Do not repeat frequently; log response; return to baseline supports afterwards.",
+    "source_ids": "COP-24",
+    "canonical_id": "DAILY_SCHEDULE-174",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": [
+      "COP-24"
+    ]
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid choline, lecithin, ox bile, DIM, I3C, high-dose vitamin D, aggressive training.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-175",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "No daily Angion",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-176",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "avoid overtraining",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-177",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "cycle dopaminergics",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-178",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "monitor for anxiety, insomnia or excessive sympathetic tone.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-179",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid starting at very high dose",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-180",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "caution if severe herx or constipation.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-181",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid if severe diarrhea, strong bile reflux sensations, or new right-upper-quadrant pain.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-182",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid stacking new stimulants",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-183",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "continue to avoid choline, ox bile and aggressive DIM/I3C usage.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-184",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Caution in severe liver disease",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-185",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "watch for unusual fatigue or paradoxical agitation.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-186",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "May provoke mild detox/headache in sensitive individuals",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-187",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "start at lower frequency if needed.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-188",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid with serotonergic drugs (SSRIs, MAOIs)",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-189",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "caution in G6PD deficiency",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-190",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "may discolor urine/teeth.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-191",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid with sedatives, alcohol, or severe hypotension",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-192",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "discontinue if dizziness or excessive somnolence.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-193",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "None significant",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-194",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "avoid taking fasted.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-195",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 2.0",
+    "time_block": "Advance when",
+    "what_to_do_take": "Morning erections more consistent, libido clearly improved, workout recovery good, mood and drive significantly higher.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-196",
+    "phase_list": [
+      "Phase 2.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "On waking",
+    "what_to_do_take": "Hydration Baseline [COP-23]",
+    "optional": null,
+    "notes": "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly; avoid overdrinking plain water.",
+    "continuation_maintenance": null,
+    "source_ids": "COP-23",
+    "canonical_id": "DAILY_SCHEDULE-197",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-23"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "On waking",
+    "what_to_do_take": "Black Coffee — 1–3 cups/day [CAS-FOOD-03]",
+    "optional": "Optional",
+    "notes": "Core tool in Phase 1 bile-dump strategy.",
+    "continuation_maintenance": null,
+    "source_ids": "CAS-FOOD-03",
+    "canonical_id": "DAILY_SCHEDULE-198",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-FOOD-03"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Binder window (fasted, mid-morning)",
+    "what_to_do_take": "Psyllium — 5-10g [CAS-GUT-01]",
+    "optional": null,
+    "notes": "AM fasted, 5–10g in water, 20–30 min before carrot salad and supplements; Binder",
+    "continuation_maintenance": "Carry: Yes | Maint: 2–4×/week or PRN | Stop/Taper: Taper to PRN once stools stable 10–14d; reduce first if constipation.",
+    "source_ids": "CAS-GUT-01",
+    "canonical_id": "DAILY_SCHEDULE-199",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Binder window (after psyllium)",
+    "what_to_do_take": "Carrot salad [CAS-FOOD-01]",
+    "optional": null,
+    "notes": "Endotoxin binding",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week or PRN | Stop/Taper: Maintenance once GI/skin stable 10–14d.",
+    "source_ids": "CAS-FOOD-01",
+    "canonical_id": "DAILY_SCHEDULE-200",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-FOOD-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Taurine — 1g [CAS-LIV-01]",
+    "optional": null,
+    "notes": "Bile flow",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or 3–5×/week | Stop/Taper: Reduce frequency once bile/GI stable 10–14d.",
+    "source_ids": "CAS-LIV-01",
+    "canonical_id": "DAILY_SCHEDULE-201",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "MSM — 750mg [CAS-LIV-02]",
+    "optional": null,
+    "notes": "Sulfur support",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week → discontinue | Stop/Taper: Taper off once skin/gut stable 14d; stop if sulfur intolerance/wired.",
+    "source_ids": "CAS-LIV-02",
+    "canonical_id": "DAILY_SCHEDULE-202",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Molybdenum — 100-200mcg [CAS-LIV-03]",
+    "optional": null,
+    "notes": "Sulfur cofactor",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with MSM; optional otherwise | Stop/Taper: Keep while MSM used; optional after MSM stopped.",
+    "source_ids": "CAS-LIV-03",
+    "canonical_id": "DAILY_SCHEDULE-203",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-03"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Zinc — 20-30mg [CAS-MICRO-01]",
+    "optional": null,
+    "notes": "Hormonal support",
+    "continuation_maintenance": "Carry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 6–8 weeks; avoid long-term high-dose without monitoring.",
+    "source_ids": "CAS-MICRO-01",
+    "canonical_id": "DAILY_SCHEDULE-204",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Selenium — 100-200mcg [CAS-MICRO-02]",
+    "optional": null,
+    "notes": "Thyroid support",
+    "continuation_maintenance": "Carry: Course | Maint: 2–4×/week maintenance or stop | Stop/Taper: Reassess after 8–12 weeks.",
+    "source_ids": "CAS-MICRO-02",
+    "canonical_id": "DAILY_SCHEDULE-205",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Benfotiamine — 150-300mg [CAS-MITO-05]",
+    "optional": null,
+    "notes": "Metabolic ignition",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once energy stable 14d.",
+    "source_ids": "CAS-MITO-05",
+    "canonical_id": "DAILY_SCHEDULE-206",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-05"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Calcium D-Glucarate — 500mg [CAS-GUT-02]",
+    "optional": null,
+    "notes": "Estrogen clearance",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or PRN | Stop/Taper: Use during mobilization; taper when stable 14d.",
+    "source_ids": "CAS-GUT-02",
+    "canonical_id": "DAILY_SCHEDULE-207",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "PHGG — 1-2g [CAS-GUT-03]",
+    "optional": null,
+    "notes": "Prebiotic",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week maintenance | Stop/Taper: Taper once stools stable 10–14d.",
+    "source_ids": "CAS-GUT-03",
+    "canonical_id": "DAILY_SCHEDULE-208",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-03"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "MegaSporeBiotic — 0.5→1 cap [CAS-GUT-04]",
+    "optional": null,
+    "notes": "Microbiome",
+    "continuation_maintenance": "Carry: Course | Maint: Stop after course | Stop/Taper: Course 8–12 weeks then stop and reassess.",
+    "source_ids": "CAS-GUT-04",
+    "canonical_id": "DAILY_SCHEDULE-209",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-04"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Glutathione (oral, generic) — 250–500mg — Daily (optional) [CAS-DET-01]",
+    "optional": "Optional",
+    "notes": "Optional gentle GSH support once Phase 1 digestion is stable; avoid if nausea/bloating persist.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks if tolerated.",
+    "source_ids": "CAS-DET-01",
+    "canonical_id": "DAILY_SCHEDULE-210",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-DET-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "NAC — 600mg [CAS-BIO-02]",
+    "optional": "Optional",
+    "notes": "Optional detox and neuroinflammation reduction.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or short blocks | Stop/Taper: Optional: use in short blocks; stop if wired/insomnia.",
+    "source_ids": "CAS-BIO-02",
+    "canonical_id": "DAILY_SCHEDULE-211",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-BIO-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Sulforaphane (Broccoli Sprout Extract) — per label (e.g. 20–40mg) — 3–5×/week [CAS-INF-02]",
+    "optional": null,
+    "notes": "Nrf2 activator; upregulates detox enzymes including ALDH, supports antioxidant defenses.",
+    "continuation_maintenance": "Carry: PRN | Maint: 3–5×/week cycles | Stop/Taper: Optional/cycled; reduce frequency if headache/insomnia.",
+    "source_ids": "CAS-INF-02",
+    "canonical_id": "DAILY_SCHEDULE-212",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-INF-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Methylene Blue (low-dose) — 0.5–1mg/kg — 3–5×/week [CAS-MITO-15]",
+    "optional": null,
+    "notes": "Low-dose mitochondrial and dopaminergic accelerator; improves ETC efficiency and may enhance mood/drive.",
+    "continuation_maintenance": "Carry: PRN | Maint: 3–5×/week cycles (never continuous) | Stop/Taper: Cycled only; stop if insomnia/wired.",
+    "source_ids": "CAS-MITO-15",
+    "canonical_id": "DAILY_SCHEDULE-213",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-15"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "SAM-e — 200mg [CAS-MET-01]",
+    "optional": null,
+    "notes": "Methylation/dopamine",
+    "continuation_maintenance": "Carry: PRN | Maint: 3–5×/week or PRN | Stop/Taper: Optional; stop if agitation/insomnia.",
+    "source_ids": "CAS-MET-01",
+    "canonical_id": "DAILY_SCHEDULE-214",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MET-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "7,8-Dihydroxyflavone (7,8-DHF) — 10–40mg — Daily (10 days on / 10 days off) – optional [CAS-NEURO-05]",
+    "optional": "Optional",
+    "notes": "TrkB agonist neuroplasticity cycle for olfactory/sexual circuits; do not combine with other strong neurotrophics in same window.",
+    "continuation_maintenance": "Carry: PRN | Maint: 10 on / 10 off | Stop/Taper: Optional/cycled; stop if insomnia/anxiety.",
+    "source_ids": "CAS-NEURO-05",
+    "canonical_id": "DAILY_SCHEDULE-215",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-05"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "TTFD (Thiamine Tetrahydrofurfuryl Disulfide) — 50–200mg [CAS-MITO-06]",
+    "optional": null,
+    "notes": "Metabolic ignition & dopamine support; stack with mitochondrial core once gut/liver stable.",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN (training/drive days) | Stop/Taper: Use PRN; stop if insomnia/wired.",
+    "source_ids": "CAS-MITO-06",
+    "canonical_id": "DAILY_SCHEDULE-216",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-06"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Boron — 6–9mg [CAS-MIN-01]",
+    "optional": null,
+    "notes": "SHBG modulation and steroid hormone optimization; supports androgen axis. Suggested cycle: 2 weeks on / 1 week off.",
+    "continuation_maintenance": "Carry: Yes | Maint: 2 weeks on / 1 off | Stop/Taper: As written: cycle.",
+    "source_ids": "CAS-MIN-01",
+    "canonical_id": "DAILY_SCHEDULE-217",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MIN-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Uridine Monophosphate — 50–150mg [CAS-NEURO-08]",
+    "optional": null,
+    "notes": "Synaptic and dopaminergic support; combine with DHA, avoid choline loading.",
+    "continuation_maintenance": "Carry: PRN | Maint: Cycles only | Stop/Taper: Optional/cycled.",
+    "source_ids": "CAS-NEURO-08",
+    "canonical_id": "DAILY_SCHEDULE-218",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-08"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Piracetam — 1200–2400mg [CAS-NOOT-01]",
+    "optional": null,
+    "notes": "Racetam nootropic; supports sensory integration and possibly olfactory recovery.",
+    "continuation_maintenance": "Carry: PRN | Maint: Cycles only | Stop/Taper: Optional/cycled.",
+    "source_ids": "CAS-NOOT-01",
+    "canonical_id": "DAILY_SCHEDULE-219",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-NOOT-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Sulbuthiamine — 200–400mg — 5 days on / 2 off [CAS-NEURO-09]",
+    "optional": null,
+    "notes": "Dopamine/libido ignition; short cycles once Phase 2 terrain is clearly tolerated.",
+    "continuation_maintenance": "Carry: PRN | Maint: 5 on / 2 off | Stop/Taper: Cycled only (as written).",
+    "source_ids": "CAS-NEURO-09",
+    "canonical_id": "DAILY_SCHEDULE-220",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-09"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Methylated B-Complex — Label-equivalent [CAS-VIT-05]",
+    "optional": null,
+    "notes": "Methyl donors for neurotransmitter and energy metabolism once histamine/sleep are stable.",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week or daily | Stop/Taper: Optional long-term; reduce if overstimulation.",
+    "source_ids": "CAS-VIT-05",
+    "canonical_id": "DAILY_SCHEDULE-221",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VIT-05"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Semax — 0.1–0.3mg IN — 5 days on / 2 off [CAS-PEPT-02]",
+    "optional": null,
+    "notes": "BDNF, olfactory + motivational support.",
+    "continuation_maintenance": "Carry: PRN | Maint: 5 on / 2 off | Stop/Taper: Cycled only; stop if agitation/insomnia.",
+    "source_ids": "CAS-PEPT-02",
+    "canonical_id": "DAILY_SCHEDULE-222",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-PEPT-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Mucuna Pruriens — 100–200mg — 10 on / 20 off [CAS-NEURO-10]",
+    "optional": null,
+    "notes": "Dopaminergic ignition microcycles.",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN (evening) | Stop/Taper: PRN for aldehyde load; stop if daytime sedation.",
+    "source_ids": "CAS-NEURO-10",
+    "canonical_id": "DAILY_SCHEDULE-223",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-10"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Tongkat Ali — 400-600mg [CAS-ANDRO-01]",
+    "optional": null,
+    "notes": "Androgen boosted",
+    "continuation_maintenance": "Carry: Yes | Maint: 5 on / 2 off or blocks | Stop/Taper: Cycle to avoid tolerance; stop if irritability/insomnia.",
+    "source_ids": "CAS-ANDRO-01",
+    "canonical_id": "DAILY_SCHEDULE-224",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Cistanche — 1000-2000mg [CAS-ANDRO-02]",
+    "optional": null,
+    "notes": "Androgen boosted",
+    "continuation_maintenance": "Carry: Yes | Maint: 5 on / 2 off or blocks | Stop/Taper: Cycle to avoid tolerance; stop if irritability/insomnia.",
+    "source_ids": "CAS-ANDRO-02",
+    "canonical_id": "DAILY_SCHEDULE-225",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Proviron — 12.5mg [CAS-ANDRO-10]",
+    "optional": null,
+    "notes": "Androgenic potent",
+    "continuation_maintenance": "Carry: No | Maint: No (trial only) | Stop/Taper: Late-game trial only; requires monitoring; stop if adverse androgenic/prostate effects.",
+    "source_ids": "CAS-ANDRO-10",
+    "canonical_id": "DAILY_SCHEDULE-226",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-10"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Pregnenolone — 10-20mg [CAS-STERO-01]",
+    "optional": null,
+    "notes": "Neurosteroid",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or 5 on / 2 off | Stop/Taper: Reassess with symptoms/labs; stop if insomnia/anxiety.",
+    "source_ids": "CAS-STERO-01",
+    "canonical_id": "DAILY_SCHEDULE-227",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-STERO-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "DHEA — 5-15mg [CAS-STERO-02]",
+    "optional": null,
+    "notes": "Neurosteroid",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or 5 on / 2 off | Stop/Taper: Reassess with symptoms/labs; stop if acne/irritability/insomnia.",
+    "source_ids": "CAS-STERO-02",
+    "canonical_id": "DAILY_SCHEDULE-228",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-STERO-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "HMB — 1.5-3g [CAS-MITO-03]",
+    "optional": null,
+    "notes": "Muscle/fascia",
+    "continuation_maintenance": "Carry: PRN | Maint: Training/sex days or blocks | Stop/Taper: Choose one HMB lane; use with food; stop if GI upset.",
+    "source_ids": "CAS-MITO-03",
+    "canonical_id": "DAILY_SCHEDULE-229",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-03"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "BPC-157 — 250-500mcg — Cycle [CAS-PEPT-01]",
+    "optional": null,
+    "notes": "Regeneration",
+    "continuation_maintenance": "Carry: PRN | Maint: Short cycles | Stop/Taper: Cycled only (injury/recovery blocks).",
+    "source_ids": "CAS-PEPT-01",
+    "canonical_id": "DAILY_SCHEDULE-230",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-PEPT-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Niacin (flush) — 50-100mg [CAS-MET-07]",
+    "optional": null,
+    "notes": "Vascular/dopamine",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN or low-frequency | Stop/Taper: Flush niacin: optional; stop if hypotension/flush intolerance.",
+    "source_ids": "CAS-MET-07",
+    "canonical_id": "DAILY_SCHEDULE-231",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MET-07"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "4'-DMA-7,8-DHF — Experimental microdose — Short microcycle (5–10 days max, optional) [CAS-NEURO-06]",
+    "optional": "Optional",
+    "notes": "Deep experimental TrkB agonist analog; only if Phase 2 success is clear and other variables are stable.",
+    "continuation_maintenance": "Carry: No | Maint: No (microcycle) | Stop/Taper: Experimental microcycle only (max 5–10 days).",
+    "source_ids": "CAS-NEURO-06",
+    "canonical_id": "DAILY_SCHEDULE-232",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-06"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "Phenylpiracetam — 50–100mg — 2–4×/week [CAS-NOOT-02]",
+    "optional": null,
+    "notes": "High-octane dopaminergic racetam; use as performance amplifier in HFMP expression phase.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week cycles | Stop/Taper: 2–4×/week only; stop if insomnia/anxiety.",
+    "source_ids": "CAS-NOOT-02",
+    "canonical_id": "DAILY_SCHEDULE-233",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-NOOT-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Post-binder meal (first meal)",
+    "what_to_do_take": "HMB (β-Hydroxy β-Methylbutyrate) — 2–3 g/day — Daily or pre-performance [CAS-NEURO-14]",
+    "optional": null,
+    "notes": "Peak androgenic expression; synergizes strongly with Tongkat, LCLT, MHB.",
+    "continuation_maintenance": "Carry: PRN | Maint: Training/sex days or blocks | Stop/Taper: Use with food; choose one HMB lane; stop if GI upset.",
+    "source_ids": "CAS-NEURO-14",
+    "canonical_id": "DAILY_SCHEDULE-234",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-14"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Undecylenic Acid — titrate 1→5 caps/day [CAS-FUNG-01]",
+    "optional": null,
+    "notes": "Primary antifungal; target Candida/yeast load and acetaldehyde. Start low; maintain binders and 1–2+ BMs/day.",
+    "continuation_maintenance": "Carry: Course | Maint: Course; PRN pulses | Stop/Taper: Finite course: taper off after fungal/SD stable 14d; PRN pulses for relapse.",
+    "source_ids": "CAS-FUNG-01",
+    "canonical_id": "DAILY_SCHEDULE-235",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-FUNG-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Niacinamide — 250–500mg [CAS-B-01]",
+    "optional": null,
+    "notes": "Supports NAD+ pool, ALDH function, and lowers FFA; stabilizes metabolism.",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food or 3–5×/week | Stop/Taper: Reduce if over-sedation or GI effects.",
+    "source_ids": "CAS-B-01",
+    "canonical_id": "DAILY_SCHEDULE-236",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-B-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Endotelon (grape seed OPC) — 150–300mg/day (often 150mg BID) [CAS-VAS-15]",
+    "optional": null,
+    "notes": "Venotonic/vasculoprotective; microcirculation & endothelial support",
+    "continuation_maintenance": "Carry: Course | Maint: Block 8–12 w | Stop/Taper: Block 8–12 weeks then reassess; avoid stacking with aspirin/polyphenols if bruising.",
+    "source_ids": "CAS-VAS-15",
+    "canonical_id": "DAILY_SCHEDULE-237",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-15"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Tributyrin — 300–600mg [CAS-GUT-07]",
+    "optional": null,
+    "notes": "Gut-brain axis enhancement; SCFA support.",
+    "continuation_maintenance": "Carry: Yes | Maint: 3–5×/week | Stop/Taper: Taper once stools stable 14d.",
+    "source_ids": "CAS-GUT-07",
+    "canonical_id": "DAILY_SCHEDULE-238",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-07"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "With meals (split across meals)",
+    "what_to_do_take": "Lactobacillus reuteri — 1–2B CFU [CAS-PRO-02]",
+    "optional": null,
+    "notes": "Oxytocin + libido enhancement; HFMP alignment.",
+    "continuation_maintenance": "Carry: Course | Maint: Stop after course or cycle | Stop/Taper: Course 8–12 weeks then reassess.",
+    "source_ids": "CAS-PRO-02",
+    "canonical_id": "DAILY_SCHEDULE-239",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-PRO-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Creatine — 5g [CAS-MITO-01]",
+    "optional": null,
+    "notes": "ATP support",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MITO-01",
+    "canonical_id": "DAILY_SCHEDULE-240",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Aspirin — 81mg — EOD [CAS-INF-01]",
+    "optional": null,
+    "notes": "Anti-inflammatory",
+    "continuation_maintenance": "Carry: Course | Maint: EOD course then reassess | Stop/Taper: Course; taper off once inflammation stable; stop if bruising/GI issues.",
+    "source_ids": "CAS-INF-01",
+    "canonical_id": "DAILY_SCHEDULE-241",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-INF-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Vitamin K2 — MK7 100-200mcg [CAS-MICRO-04]",
+    "optional": null,
+    "notes": "Aspirin support",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MICRO-04",
+    "canonical_id": "DAILY_SCHEDULE-242",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-04"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Omega-3 — 500mg [CAS-LIP-01]",
+    "optional": null,
+    "notes": "Anti-inflammatory",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-LIP-01",
+    "canonical_id": "DAILY_SCHEDULE-243",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIP-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "Reduced Glutathione (liposomal) — 250–500mg — Daily (optional) [CAS-DET-02]",
+    "optional": "Optional",
+    "notes": "Liposomal GSH layered after terrain stabilization to support mitochondrial redox; optional accelerator.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or blocks | Stop/Taper: Optional mitochondrial/antioxidant support; use in short blocks if tolerated.",
+    "source_ids": "CAS-DET-02",
+    "canonical_id": "DAILY_SCHEDULE-244",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-DET-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Lunch (with food)",
+    "what_to_do_take": "LCLT — 2g [CAS-MITO-02]",
+    "optional": null,
+    "notes": "AR sensitivity",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily with food | Stop/Taper: Long-term OK; stop if fishy odor or GI intolerance.",
+    "source_ids": "CAS-MITO-02",
+    "canonical_id": "DAILY_SCHEDULE-245",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Dinner (with food)",
+    "what_to_do_take": "TUDCA — 250mg — Daily (from Week 2) [CAS-LIV-04]",
+    "optional": null,
+    "notes": "Take away from key fat-soluble vitamins by ~2 hours where possible.; Bile acid support in cholestasis; increases bile flow and protects cholangiocytes.",
+    "continuation_maintenance": "Carry: Yes | Maint: 2–4×/week maintenance | Stop/Taper: Taper once motility + bile symptoms stable 10–14d; hold if bile reflux/RUQ pain.",
+    "source_ids": "CAS-LIV-04",
+    "canonical_id": "DAILY_SCHEDULE-246",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-04"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Citrulline — 6g [CAS-VAS-01]",
+    "optional": null,
+    "notes": "NO precursor",
+    "continuation_maintenance": "Carry: PRN | Maint: Training/sex days only | Stop/Taper: Acute tool for training/sex days.",
+    "source_ids": "CAS-VAS-01",
+    "canonical_id": "DAILY_SCHEDULE-247",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Icariin — 150-200mg [CAS-VAS-02]",
+    "optional": null,
+    "notes": "PDE5 mild",
+    "continuation_maintenance": "Carry: PRN | Maint: Training/sex days only | Stop/Taper: Acute tool for training/sex days.",
+    "source_ids": "CAS-VAS-02",
+    "canonical_id": "DAILY_SCHEDULE-248",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Histidine — 500-1000mg [CAS-VAS-03]",
+    "optional": null,
+    "notes": "VEGF modulation",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN | Stop/Taper: Optional acute adjunct; stop if histamine symptoms.",
+    "source_ids": "CAS-VAS-03",
+    "canonical_id": "DAILY_SCHEDULE-249",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-03"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Hesperidin — 250mg [CAS-VAS-04]",
+    "optional": null,
+    "notes": "Vascular",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN | Stop/Taper: Optional adjunct; low priority if low BP.",
+    "source_ids": "CAS-VAS-04",
+    "canonical_id": "DAILY_SCHEDULE-250",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-04"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Pycnogenol — 50-100mg [CAS-VAS-05]",
+    "optional": null,
+    "notes": "Vascular",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN or blocks | Stop/Taper: Prefer as block (8–12 w) if used chronically; watch bleeding with aspirin.",
+    "source_ids": "CAS-VAS-05",
+    "canonical_id": "DAILY_SCHEDULE-251",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-05"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Vitamin C — 500-1000mg [CAS-ANTIOX-01]",
+    "optional": null,
+    "notes": "Antioxidant",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or PRN with vascular block | Stop/Taper: Optional long-term; reduce if GI irritation.",
+    "source_ids": "CAS-ANTIOX-01",
+    "canonical_id": "DAILY_SCHEDULE-252",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-ANTIOX-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Beet nitrate — 300-600mg [CAS-VAS-08]",
+    "optional": null,
+    "notes": "NO",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN (training/sex days) | Stop/Taper: Use PRN; stop if low BP/dizziness.",
+    "source_ids": "CAS-VAS-08",
+    "canonical_id": "DAILY_SCHEDULE-253",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-08"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Agmatine — 500-1000mg [CAS-VAS-07]",
+    "optional": null,
+    "notes": "NOS enhancer",
+    "continuation_maintenance": "Carry: PRN | Maint: Training/sex days only | Stop/Taper: Acute adjunct; stop if low BP.",
+    "source_ids": "CAS-VAS-07",
+    "canonical_id": "DAILY_SCHEDULE-254",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-07"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "Berberine — 150-300mg [CAS-MET-03]",
+    "optional": null,
+    "notes": "Endothelial",
+    "continuation_maintenance": "Carry: PRN | Maint: PRN or short blocks | Stop/Taper: Use with meals or training days; stop if GI upset/hypoglycemia.",
+    "source_ids": "CAS-MET-03",
+    "canonical_id": "DAILY_SCHEDULE-255",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MET-03"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Pre-workout / pre-sex (acute signaling)",
+    "what_to_do_take": "L-Arginine — 1-3g [CAS-VAS-12]",
+    "optional": "Optional",
+    "notes": "NO optional",
+    "continuation_maintenance": "Carry: PRN | Maint: Training/sex days only | Stop/Taper: Acute tool; reduce first if low BP/headache.",
+    "source_ids": "CAS-VAS-12",
+    "canonical_id": "DAILY_SCHEDULE-256",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-12"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Magnesium glycinate — 200-300mg [CAS-MICRO-03]",
+    "optional": null,
+    "notes": "Sleep/relaxation",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily | Stop/Taper: Long-term OK.",
+    "source_ids": "CAS-MICRO-03",
+    "canonical_id": "DAILY_SCHEDULE-257",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MICRO-03"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Glycine — 2-3g [CAS-AMINO-01]",
+    "optional": null,
+    "notes": "Sleep/liver",
+    "continuation_maintenance": "Carry: Yes | Maint: Daily or PRN | Stop/Taper: Optional long-term; reduce if daytime sedation.",
+    "source_ids": "CAS-AMINO-01",
+    "canonical_id": "DAILY_SCHEDULE-258",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-AMINO-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "ALA — 100-200mg [CAS-MITO-07]",
+    "optional": null,
+    "notes": "Antioxidant",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week or cycles | Stop/Taper: Optional/cycled; stop if insomnia/wired.",
+    "source_ids": "CAS-MITO-07",
+    "canonical_id": "DAILY_SCHEDULE-259",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-07"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Nattokinase — 100-200mg [CAS-VAS-11]",
+    "optional": null,
+    "notes": "Fibrinolytic",
+    "continuation_maintenance": "Carry: No | Maint: No (trial only) | Stop/Taper: Avoid stacking with aspirin; trial only; stop if bruising/bleeding.",
+    "source_ids": "CAS-VAS-11",
+    "canonical_id": "DAILY_SCHEDULE-260",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-11"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Retinol — 5000IU — 2–3×/week [CAS-VIT-01]",
+    "optional": null,
+    "notes": "Steroidogenesis",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–3×/week | Stop/Taper: 2–3×/week only; stop if headaches/dryness.",
+    "source_ids": "CAS-VIT-01",
+    "canonical_id": "DAILY_SCHEDULE-261",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-VIT-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Bedtime (PM)",
+    "what_to_do_take": "Magnesium β-Hydroxybutyrate (MHB) — 500–1500mg — 2–4x/week [CAS-NEURO-13]",
+    "optional": null,
+    "notes": "Phase 3 performance module; can be paired with full neurovascular and androgen stack; maintain conservative dosing.",
+    "continuation_maintenance": "Carry: PRN | Maint: 2–4×/week cycles | Stop/Taper: Cycled only; stop if oversedation/dizziness.",
+    "source_ids": "CAS-NEURO-13",
+    "canonical_id": "DAILY_SCHEDULE-262",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-13"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Reverse Kegels — Daily — Any, especially pre/ post-sex [COP-01]",
+    "optional": null,
+    "notes": "Short sets throughout day; avoid straining",
+    "continuation_maintenance": null,
+    "source_ids": "COP-01",
+    "canonical_id": "DAILY_SCHEDULE-263",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-01"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Psoas Release — 3–7x/week — Evening or off days [COP-02]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-02",
+    "canonical_id": "DAILY_SCHEDULE-264",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-02"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Adductor & Hamstring Lengthening — 3–5x/week — Post-walk or training [COP-03]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-03",
+    "canonical_id": "DAILY_SCHEDULE-265",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-03"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Pelvic Mobility Drills — Daily — AM or PM [COP-04]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-04",
+    "canonical_id": "DAILY_SCHEDULE-266",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-04"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Perineal PBM (red/IR light) — 3–7x/week — Evening [COP-05]",
+    "optional": null,
+    "notes": "5–10 minutes/session, avoid overheating",
+    "continuation_maintenance": null,
+    "source_ids": "COP-05",
+    "canonical_id": "DAILY_SCHEDULE-267",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-05"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Nasal PBM — 3–7x/week — Evening or morning [COP-06]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-06",
+    "canonical_id": "DAILY_SCHEDULE-268",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-06"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Fascia & Pelvic Floor Neuro-Mechanics — 3–5x/week — Any [COP-07]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-07",
+    "canonical_id": "DAILY_SCHEDULE-269",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-07"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Sensate Focus Mapping — 2–4x/week — Private time [COP-08]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-08",
+    "canonical_id": "DAILY_SCHEDULE-270",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-08"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Feather-Touch Neuroerotic Training — 2–4x/week — Private time [COP-09]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-09",
+    "canonical_id": "DAILY_SCHEDULE-271",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-09"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Angion v2 Microvascular Training — 2–3x/week — Pre- or post-vascular stack [COP-10]",
+    "optional": null,
+    "notes": "Avoid overuse; skip if pain or neuropathy flare",
+    "continuation_maintenance": null,
+    "source_ids": "COP-10",
+    "canonical_id": "DAILY_SCHEDULE-272",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-10"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Sauna / Cold Contrast — 1–4x/week — Evening [COP-11]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-11",
+    "canonical_id": "DAILY_SCHEDULE-273",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-11"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Diaphragmatic Breathwork — Daily — Any, especially pre-sleep [COP-12]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-12",
+    "canonical_id": "DAILY_SCHEDULE-274",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-12"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Glute Activation Sequences — 3–5x/week — Pre-walk or training [COP-13]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-13",
+    "canonical_id": "DAILY_SCHEDULE-275",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-13"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Sleep Optimization Practices — Daily — Evening [COP-14]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-14",
+    "canonical_id": "DAILY_SCHEDULE-276",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-14"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Liver Pumping / Thoracic Mobilization — 3–7x/week — Evening [COP-15]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-15",
+    "canonical_id": "DAILY_SCHEDULE-277",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-15"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Vagal Reset Maneuvers — PRN + daily micro-practices — Any [COP-16]",
+    "optional": "Optional",
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-16",
+    "canonical_id": "DAILY_SCHEDULE-278",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-16"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Foot–Core Activation Chain — 3–5x/week — Pre-walk/training [COP-17]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-17",
+    "canonical_id": "DAILY_SCHEDULE-279",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-17"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Infrared Sauna Protocol — 1–3x/week — Evening [COP-18]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-18",
+    "canonical_id": "DAILY_SCHEDULE-280",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-18"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Olfactory Training Protocol — Daily — Any [COP-19]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-19",
+    "canonical_id": "DAILY_SCHEDULE-281",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-19"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "CO₂ Tolerance Breathwork — 3–5x/week — Any [COP-20]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-20",
+    "canonical_id": "DAILY_SCHEDULE-282",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-20"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Micro-Arousal Sensory Conditioning — 2–3x/week — Private time [COP-21]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-21",
+    "canonical_id": "DAILY_SCHEDULE-283",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-21"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Glans Sensitivity Reversal Protocol — 2–4x/week — Private time [COP-22]",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": "COP-22",
+    "canonical_id": "DAILY_SCHEDULE-284",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-22"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Hydration Baseline — Daily — On waking + throughout day [COP-23]",
+    "optional": null,
+    "notes": "300–500 mL water on waking; psyllium always with a full glass; if stool slows increase fluids modestly. Avoid overdrinking plain water.",
+    "continuation_maintenance": null,
+    "source_ids": "COP-23",
+    "canonical_id": "DAILY_SCHEDULE-285",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-23"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Mitochondrial Dynamics Training (Zone 2 + Strength) — Weekly structure — Pre-walk/training [COP-26]",
+    "optional": "Recommended baseline (avoid overtraining)",
+    "notes": "Increase intensity only if sleep/stamina stable; deload if libido/sleep drops.",
+    "continuation_maintenance": "Default weekly structure; periodic deloads.",
+    "source_ids": "COP-26",
+    "canonical_id": "DAILY_SCHEDULE-286",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-26"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Hyperbaric Oxygen Therapy (HBOT) Cycle — 10–20 sessions/cycle — Any (prefer AM) [COP-25]",
+    "optional": "Optional (supervised / clinic)",
+    "notes": "Useful adjunct for structural recovery; avoid stacking with multiple hormone changes.",
+    "continuation_maintenance": "Cycle-based; reassess after each cycle.",
+    "source_ids": "COP-25",
+    "canonical_id": "DAILY_SCHEDULE-287",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-25"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Practices (today)",
+    "what_to_do_take": "Prolonged Water Fasting (Autophagy / Renewal) — Rare (1–4×/year) — Block / supervised [COP-24]",
+    "optional": "Optional (advanced; stress test)",
+    "notes": "Only if baseline stable and recovery capacity good; stop if adverse signs.",
+    "continuation_maintenance": "Return to baseline supports afterwards; do not repeat frequently.",
+    "source_ids": "COP-24",
+    "canonical_id": "DAILY_SCHEDULE-288",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": [
+      "COP-24"
+    ]
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid choline, lecithin, ox bile, DIM, I3C, high-dose vitamin D, aggressive training.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-289",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "No daily Angion",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-290",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "avoid overtraining",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-291",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "cycle dopaminergics",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-292",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "monitor for anxiety, insomnia or excessive sympathetic tone.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-293",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid starting at very high dose",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-294",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "caution if severe herx or constipation.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-295",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid if severe diarrhea, strong bile reflux sensations, or new right-upper-quadrant pain.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-296",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid stacking new stimulants",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-297",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "continue to avoid choline, ox bile and aggressive DIM/I3C usage.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-298",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Caution in severe liver disease",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-299",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "watch for unusual fatigue or paradoxical agitation.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-300",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "May provoke mild detox/headache in sensitive individuals",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-301",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "start at lower frequency if needed.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-302",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid with serotonergic drugs (SSRIs, MAOIs)",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-303",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "caution in G6PD deficiency",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-304",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "may discolor urine/teeth.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-305",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid stacking too many stimulants or vasodilators",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-306",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "cap Angion at 3×/week",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-307",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "ensure deload weeks.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-308",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "Avoid with sedatives, alcohol, or severe hypotension",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-309",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "discontinue if dizziness or excessive somnolence.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-310",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "None significant",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-311",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Watch-for / STOP-ADJUST",
+    "what_to_do_take": "avoid taking fasted.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-312",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  },
+  {
+    "phase": "Phase 3.0",
+    "time_block": "Advance when",
+    "what_to_do_take": "Sustained high libido and EQ, robust energy, low crash frequency, stable mood and sleep even under stress.",
+    "optional": null,
+    "notes": null,
+    "continuation_maintenance": null,
+    "source_ids": null,
+    "canonical_id": "DAILY_SCHEDULE-313",
+    "phase_list": [
+      "Phase 3.0"
+    ],
+    "referenced_ids": []
+  }
+]

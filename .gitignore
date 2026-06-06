@@ -1,0 +1,12 @@
+# Ignore loose source artifacts left at the workspace root after migration.
+# Canonical preserved copies live under archive/original/ and are tracked.
+/*.txt
+/*.pdf
+/*.xlsx
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*

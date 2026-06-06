@@ -1,0 +1,5148 @@
+[
+  {
+    "cas_id": "CAS-LIV-01",
+    "name": "Taurine",
+    "category": "Liver/Bile",
+    "mechanism": "Conjugates bile acids, supports bile flow, GABAergic calming, membrane stabilization",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "1–1.5 g/day",
+    "notes": "Split AM/PM for tolerability",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-LIV-01",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-LIV-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-LIV-02",
+    "name": "MSM",
+    "category": "Sulfur/Detox",
+    "mechanism": "Sulfur donor, anti-inflammatory, connective tissue support",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "750–1500 mg/day",
+    "notes": "Requires molybdenum",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-LIV-02",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-LIV-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-LIV-03",
+    "name": "Molybdenum",
+    "category": "Micronutrient",
+    "mechanism": "Cofactor for sulfite oxidase, supports sulfur metabolism",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "100–200 mcg/day",
+    "notes": "Avoid very high doses",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-LIV-03",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-LIV-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-01",
+    "name": "Psyllium Husk",
+    "category": "Gut/Binder",
+    "mechanism": "Soluble fiber, binds bile-bound toxins and endotoxin, improves stool form",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "5–10 g/day",
+    "notes": "Separate from meds/supps by 1–2 h",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": "Binder",
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-01",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-02",
+    "name": "Calcium D-Glucarate",
+    "category": "Detox/Estrogen",
+    "mechanism": "Supports glucuronidation and reduces enterohepatic estrogen recirculation",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "500–1000 mg/day",
+    "notes": "Useful for high estrogen or cholestasis tendency",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-02",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-03",
+    "name": "PHGG",
+    "category": "Prebiotic",
+    "mechanism": "Partially hydrolyzed guar gum; feeds beneficial bacteria, improves motility and reduces histamine",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "1–5 g/day",
+    "notes": "Titrate slowly to avoid gas",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-03",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-04",
+    "name": "MegaSporeBiotic",
+    "category": "Probiotic",
+    "mechanism": "Spore-based probiotic to reseed microbiome and improve gut barrier",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "0.5–1 cap/day",
+    "notes": "Start with ½ cap to avoid herx",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-04",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-04"
+    ]
+  },
+  {
+    "cas_id": "CAS-FOOD-01",
+    "name": "Carrot Salad",
+    "category": "Food/Tool",
+    "mechanism": "Raw carrot fiber plus oil and acid; binds endotoxin and bile, antifungal and anti-estrogenic",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "1 serving/day",
+    "notes": "Finely shredded with oil + vinegar/lemon",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-FOOD-01",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-FOOD-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-06",
+    "name": "NAC",
+    "category": "Antioxidant/Biofilm",
+    "mechanism": "Glutathione precursor, mucolytic, disrupts biofilms",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "600–1200 mg/day",
+    "notes": "Take away from metals",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-06",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-06"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-01",
+    "name": "Creatine Monohydrate",
+    "category": "Mitochondrial",
+    "mechanism": "Increases phosphocreatine stores, improves ATP recycling, supports dopamine and strength",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "3–5 g/day",
+    "notes": "With food or anytime",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-01",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-02",
+    "name": "L-Carnitine L-Tartrate",
+    "category": "Mitochondrial/Androgen",
+    "mechanism": "Transports fatty acids into mitochondria, increases androgen receptor density in muscle",
+    "phase_allowed": "2,3",
+    "dose_range": "1–2 g/day",
+    "notes": "Best with meals",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-03",
+    "name": "HMB",
+    "category": "Muscle/ECM",
+    "mechanism": "Metabolite of leucine supporting muscle protein synthesis and reducing breakdown",
+    "phase_allowed": "3",
+    "dose_range": "1.5–3 g/day",
+    "notes": "Useful during high training",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-03",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-05",
+    "name": "Benfotiamine",
+    "category": "Vitamin B1 (fat-soluble)",
+    "mechanism": "Supports PDH activity and carbohydrate metabolism; improves endothelial function",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "150–600 mg/day",
+    "notes": "Baseline metabolic ignition",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-05",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-05"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-06",
+    "name": "ALCAR",
+    "category": "Mitochondrial/Neuro",
+    "mechanism": "Acetyl-L-carnitine; supports mitochondrial function and nerve conduction",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "500–2000 mg/day",
+    "notes": "May be mildly stimulating",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-06",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-06"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-07",
+    "name": "Alpha-Lipoic Acid",
+    "category": "Antioxidant/Mito",
+    "mechanism": "Lipoic acid; regenerates other antioxidants and improves insulin sensitivity",
+    "phase_allowed": "1.5,2",
+    "dose_range": "100–300 mg/day",
+    "notes": "Take with food if sensitive",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-07",
+    "phase_allowed_list": [
+      "1.5",
+      "2"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-07"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANTIOX-01",
+    "name": "Vitamin C",
+    "category": "Antioxidant",
+    "mechanism": "Ascorbate; antioxidant, supports collagen and endothelial health, NO recycling",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "500–2000 mg/day",
+    "notes": "Divide doses if needed",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANTIOX-01",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-ANTIOX-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-MICRO-01",
+    "name": "Zinc",
+    "category": "Micronutrient",
+    "mechanism": "Cofactor for many enzymes, supports testosterone, dopamine and immune function",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "15–30 mg/day",
+    "notes": "Avoid chronic very high doses",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MICRO-01",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MICRO-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-MICRO-02",
+    "name": "Selenium",
+    "category": "Micronutrient",
+    "mechanism": "Essential for thyroid deiodinases and glutathione peroxidase",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "100–200 mcg/day",
+    "notes": "Watch upper limit",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MICRO-02",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MICRO-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-MICRO-03",
+    "name": "Magnesium Glycinate",
+    "category": "Mineral",
+    "mechanism": "Magnesium chelate; supports ATP, relaxation, sleep and insulin sensitivity",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "200–400 mg/day",
+    "notes": "PM preferred",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MICRO-03",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MICRO-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-MICRO-04",
+    "name": "Vitamin K2",
+    "category": "Vitamin",
+    "mechanism": "Directs calcium to bone, protects vasculature; synergistic with vitamin D and aspirin",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "MK-7 100–200 mcg or MK-4 1–5 mg/day",
+    "notes": "Use especially with aspirin",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MICRO-04",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MICRO-04"
+    ]
+  },
+  {
+    "cas_id": "CAS-LIP-01",
+    "name": "Omega-3 (EPA/DHA)",
+    "category": "Lipid",
+    "mechanism": "Anti-inflammatory, resolves neuroinflammation, supports endothelial function",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "500–2000 mg/day",
+    "notes": "Best with food and vitamin E",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-LIP-01",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-LIP-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-INF-01",
+    "name": "Aspirin (low-dose)",
+    "category": "Anti-inflammatory",
+    "mechanism": "Irreversible COX inhibition; lowers inflammation, improves endothelial function, sensitizes thyroid",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "81–162 mg/day or EOD",
+    "notes": "Monitor GI tolerance and bleeding risk",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-INF-01",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-INF-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-11",
+    "name": "Nattokinase",
+    "category": "Enzyme/Vascular",
+    "mechanism": "Fibrinolytic enzyme from natto; improves blood flow and reduces clot burden",
+    "phase_allowed": "3",
+    "dose_range": "100–200 mg/day",
+    "notes": "Avoid with anticoagulants",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-11",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-11"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-01",
+    "name": "L-Citrulline",
+    "category": "NO/Vascular",
+    "mechanism": "Precursor to arginine and NO; improves endothelial function and erection quality",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "3–10 g/day",
+    "notes": "Pre-workout or pre-sex",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-01",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-02",
+    "name": "Icariin",
+    "category": "PDE5/Flavonoid",
+    "mechanism": "Mild PDE5 inhibitor and NO booster from Epimedium; supports erections and vascular health",
+    "phase_allowed": "2,3",
+    "dose_range": "100–300 mg/day",
+    "notes": "Stack with citrulline/pycnogenol",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-03",
+    "name": "Histidine",
+    "category": "Amino acid",
+    "mechanism": "Precursor for histamine; modulates VEGF and angiogenesis, supports endothelial adaptation",
+    "phase_allowed": "2,3",
+    "dose_range": "500–1000 mg/day",
+    "notes": "Pre-vascular training",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-03",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-04",
+    "name": "Hesperidin",
+    "category": "Flavonoid",
+    "mechanism": "Improves capillary tone and venous return, synergistic with citrulline",
+    "phase_allowed": "2,3",
+    "dose_range": "250–500 mg/day",
+    "notes": "Pre Angion/sexual activity",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-04",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-04"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-05",
+    "name": "Pycnogenol",
+    "category": "Flavonoid",
+    "mechanism": "Maritime pine bark; improves NO signaling, reduces oxidative stress in endothelium",
+    "phase_allowed": "2,3",
+    "dose_range": "50–150 mg/day",
+    "notes": "Strong synergy with citrulline",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-05",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-05"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-06",
+    "name": "Ecklonia cava",
+    "category": "Polyphenol",
+    "mechanism": "Long half-life polyphenols; supports NO and microcirculation, mild PDE5 effects",
+    "phase_allowed": "2,3",
+    "dose_range": "50–100 mg/day",
+    "notes": "Pre-performance",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-06",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-06"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-07",
+    "name": "Agmatine sulfate",
+    "category": "NO/Neuromodulator",
+    "mechanism": "Decarboxylated arginine; neuromodulator (imidazoline receptors, NMDA/polyamine pathways) with variable NO/arginase signaling effects; may reduce sympathetic tone and support vascular responsiveness.",
+    "phase_allowed": "2,3",
+    "dose_range": "250–1000 mg PRN (start 250–500 mg)",
+    "notes": "Use PRN (pre-sex/pre-training). Watch for GI upset, headache, lightheadedness/low BP—especially if stacking with citrulline/tadalafil. Trial solo first.",
+    "cfs_modules": "CFS-02; CFS-07; CFS-11",
+    "hfmp_axes": "Axis 2; Axis 7; Axis 10",
+    "phases_used": "Phase 2–3 (PRN)",
+    "role": "PRN EQ/pump + pelvic relaxation; neuromodulatory support.",
+    "phase_dosage": "P2: 250–500 mg PRN; P3: 500–1000 mg PRN",
+    "canonical_id": "CAS-VAS-07",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02; CFS-07; CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "Axis 2; Axis 7; Axis 10"
+    ],
+    "phases_used_list": [
+      "Phase 2–3 (PRN)"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-07",
+      "CFS-02",
+      "CFS-07",
+      "CFS-11"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-08",
+    "name": "Beet Extract / Nitrate",
+    "category": "NO donor",
+    "mechanism": "Nitrate source; increases NO and lowers blood pressure, improves endurance",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "Per label (typically 300–600 mg nitrate equiv.)",
+    "notes": "Pre-exertion",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-08",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-08"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-12",
+    "name": "L-Arginine",
+    "category": "NO precursor",
+    "mechanism": "Direct substrate for NO synthase; may support erections in some",
+    "phase_allowed": "3",
+    "dose_range": "1–6 g/day",
+    "notes": "Pre-workout/sex, less efficient than citrulline",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-12",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-12"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-01",
+    "name": "Tongkat Ali",
+    "category": "Androgenic herb",
+    "mechanism": "Eurycoma longifolia; increases free testosterone, lowers SHBG, may improve libido and mood",
+    "phase_allowed": "2,3",
+    "dose_range": "200–600 mg/day",
+    "notes": "Cycle if needed",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANDRO-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-ANDRO-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-02",
+    "name": "Cistanche",
+    "category": "Androgenic/adaptogen",
+    "mechanism": "Tonic herb that supports androgens, NO and mitochondrial output",
+    "phase_allowed": "2,3",
+    "dose_range": "500–2000 mg/day",
+    "notes": "Titrate based on response",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANDRO-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-ANDRO-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-10",
+    "name": "Proviron (Mesterolone)",
+    "category": "Androgen (oral)",
+    "mechanism": "DHT-like androgen that does not convert to estrogen; increases libido, mood, hardness",
+    "phase_allowed": "3",
+    "dose_range": "6.25–25 mg/day",
+    "notes": "Off-label; monitor lipids and prostate",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANDRO-10",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-ANDRO-10"
+    ]
+  },
+  {
+    "cas_id": "CAS-STERO-01",
+    "name": "Pregnenolone",
+    "category": "Neurosteroid precursor",
+    "mechanism": "Mother steroid; supports neurosteroidogenesis, mood, cognition and libido",
+    "phase_allowed": "2,3",
+    "dose_range": "5–30 mg/day",
+    "notes": "Morning preferred",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-STERO-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-STERO-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-STERO-02",
+    "name": "DHEA",
+    "category": "Steroid precursor",
+    "mechanism": "Adrenal steroid; can convert to androgens and estrogens, supports neurosteroid tone",
+    "phase_allowed": "2,3",
+    "dose_range": "5–25 mg/day",
+    "notes": "Monitor for estrogenic sides",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-STERO-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-STERO-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-MET-01",
+    "name": "SAM-e",
+    "category": "Methyl donor",
+    "mechanism": "Supports methylation, dopamine synthesis and liver function",
+    "phase_allowed": "2,3",
+    "dose_range": "200–800 mg/day",
+    "notes": "Take on empty stomach in AM",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MET-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MET-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-10",
+    "name": "DHM (Dihydromyricetin)",
+    "category": "GABA/Alcohol modulator",
+    "mechanism": "Flavonoid that modulates GABA-A and reduces alcohol toxicity; may support sleep and liver",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "100–300 mg/day",
+    "notes": "Evening use typical",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-10",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-NEURO-10"
+    ]
+  },
+  {
+    "cas_id": "CAS-VIT-01",
+    "name": "Vitamin A (Retinol)",
+    "category": "Fat-soluble vitamin",
+    "mechanism": "Supports steroidogenesis, immune function and mucosal health",
+    "phase_allowed": "3",
+    "dose_range": "2500–10,000 IU/day or TIW",
+    "notes": "Avoid early if PAS/PSSD-prone",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VIT-01",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VIT-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-MET-07",
+    "name": "Niacin (flush)",
+    "category": "B3 vitamin",
+    "mechanism": "Strong vasodilator, increases prostaglandins and may acutely alter dopamine/serotonin tone",
+    "phase_allowed": "3",
+    "dose_range": "50–250 mg/day",
+    "notes": "Monitor flush and liver at higher doses",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MET-07",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MET-07"
+    ]
+  },
+  {
+    "cas_id": "CAS-PEPT-01",
+    "name": "BPC-157",
+    "category": "Peptide",
+    "mechanism": "Pentadecapeptide with tissue-repair, angiogenic and anti-inflammatory properties",
+    "phase_allowed": "2,3",
+    "dose_range": "250–500 mcg/day, cyclic",
+    "notes": "Oral or subQ; cycle 2–4 weeks",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PEPT-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PEPT-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-07",
+    "name": "Calcium D-Glucarate (CDG)",
+    "category": "Detox/Estrogen",
+    "mechanism": "Supports phase II glucuronidation and reduces enterohepatic recirculation of estrogens and toxins",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "500–1000 mg/day",
+    "notes": "Often grouped with CAS-GUT-02; here logged explicitly",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-07",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-02",
+      "CAS-GUT-07"
+    ]
+  },
+  {
+    "cas_id": "CAS-LIV-04",
+    "name": "TUDCA",
+    "category": "Bile acid",
+    "mechanism": "Hydrophilic bile acid that protects hepatocytes and cholangiocytes, supports bile flow and reduces ER stress",
+    "phase_allowed": "1,1.5,2",
+    "dose_range": "250–750 mg/day",
+    "notes": "Use cautiously in suspected obstructive cholestasis",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-LIV-04",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-LIV-04"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-08",
+    "name": "Betaine HCl",
+    "category": "Digestive acid support",
+    "mechanism": "Increases gastric acidity to improve protein digestion and reduce upper GI dysbiosis",
+    "phase_allowed": "1.5,2",
+    "dose_range": "250–1000 mg with meals",
+    "notes": "Titrate based on warmth/comfort; avoid with ulcers",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-08",
+    "phase_allowed_list": [
+      "1.5",
+      "2"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-08"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-09",
+    "name": "Collagen / Gelatin",
+    "category": "Protein/ECM",
+    "mechanism": "Provides glycine and proline for connective tissue, gut lining and liver detox pathways",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "5–20 g/day",
+    "notes": "Often taken in evening for sleep and tissue repair",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-09",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-09"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-08",
+    "name": "NMN",
+    "category": "NAD+ booster",
+    "mechanism": "Nicotinamide mononucleotide; raises NAD+ to support mitochondrial function and sirtuin activity",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "250–500 mg/day",
+    "notes": "Take earlier in day",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-08",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-08"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-09",
+    "name": "NR",
+    "category": "NAD+ booster",
+    "mechanism": "Nicotinamide riboside; alternative NAD+ precursor for mitochondrial support",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "250–500 mg/day",
+    "notes": "Not combined with NMN typically; choose one",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-09",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-09"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-10",
+    "name": "AKG",
+    "category": "TCA cycle",
+    "mechanism": "Alpha-ketoglutarate; supports Krebs cycle flux, ammonia handling and collagen turnover",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "500–2000 mg/day",
+    "notes": "Often taken with vitamin C or protein",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-10",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-10"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-11",
+    "name": "D-Ribose",
+    "category": "ATP precursor",
+    "mechanism": "Pentose sugar used for ATP synthesis and cardiac/mitochondrial recovery",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "2–10 g/day",
+    "notes": "Can lower blood sugar in some users",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-11",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-11"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-12",
+    "name": "CoQ10",
+    "category": "Electron carrier",
+    "mechanism": "Ubiquinone; part of electron transport chain, supports cardiac and endothelial function",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "100–300 mg/day",
+    "notes": "Take with fat-containing meal",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-12",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-12"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-13",
+    "name": "PQQ",
+    "category": "Mitochondrial biogenesis",
+    "mechanism": "Pyrroloquinoline quinone; promotes formation of new mitochondria and supports nerve function",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "10–40 mg/day",
+    "notes": "May be stimulating in some individuals",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-13",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-13"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-14",
+    "name": "Shilajit",
+    "category": "Mito/adaptogen",
+    "mechanism": "Fulvic mineral complex; improves mitochondrial efficiency, testosterone utilization and nutrient transport",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "200–500 mg/day",
+    "notes": "Ensure purified, heavy metals screened",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-14",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-14"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-03",
+    "name": "Apigenin",
+    "category": "Flavonoid/SHBG",
+    "mechanism": "Plant flavone that may reduce aromatase, support GABA-A and modulate SHBG",
+    "phase_allowed": "2,3",
+    "dose_range": "25–100 mg/day",
+    "notes": "High doses may be sedating",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANDRO-03",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-ANDRO-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-DA-01",
+    "name": "Bromantane",
+    "category": "Dopaminergic adaptogen",
+    "mechanism": "Increases expression of tyrosine hydroxylase and dopamine; mild anxiolytic",
+    "phase_allowed": "2,3",
+    "dose_range": "25–100 mg/day",
+    "notes": "Cycle: e.g. 2 weeks on, 1 week off",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-DA-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-DA-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-DA-02",
+    "name": "9-me-BC",
+    "category": "Dopaminergic nootropic",
+    "mechanism": "Beta-carboline derivative that may increase dopaminergic markers and motivation",
+    "phase_allowed": "2,3",
+    "dose_range": "5–20 mg/day",
+    "notes": "Experimental; monitor mood/anxiety",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-DA-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-DA-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-DA-03",
+    "name": "L-Tyrosine",
+    "category": "Amino acid",
+    "mechanism": "Precursor for dopamine, norepinephrine and thyroid hormone",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "500–2000 mg/day",
+    "notes": "Best taken away from protein-heavy meals",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-DA-03",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-DA-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-PEPT-02",
+    "name": "Semax",
+    "category": "Peptide nootropic",
+    "mechanism": "Nasal heptapeptide increasing BDNF and neuroprotection; may support olfaction",
+    "phase_allowed": "2,3",
+    "dose_range": "200–600 mcg/day intranasal",
+    "notes": "Cycle use, avoid nightly chronic use",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PEPT-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PEPT-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-PEPT-03",
+    "name": "Selank",
+    "category": "Peptide anxiolytic",
+    "mechanism": "Nasal peptide modulating GABA/glutamate, reducing anxiety and supporting cognition",
+    "phase_allowed": "2,3",
+    "dose_range": "200–600 mcg/day intranasal",
+    "notes": "Synergistic with Semax",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PEPT-03",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PEPT-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-01",
+    "name": "Dihexa",
+    "category": "Neurotrophic modulator",
+    "mechanism": "Small molecule that may strongly potentiate HGF/c-Met and synaptogenesis",
+    "phase_allowed": "3",
+    "dose_range": "1–10 mg/day (very experimental)",
+    "notes": "Use with extreme caution; long half-life",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-01",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-NEURO-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-02",
+    "name": "NSI-189",
+    "category": "Neurogenesis agent",
+    "mechanism": "Experimental antidepressant increasing hippocampal volume and BDNF",
+    "phase_allowed": "2,3",
+    "dose_range": "10–40 mg/day",
+    "notes": "Cycle 4–12 weeks",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-NEURO-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-03",
+    "name": "ACD-856",
+    "category": "TrkA/TrkB potentiator",
+    "mechanism": "Enhances NGF/BDNF signaling; under investigation for cognitive disorders",
+    "phase_allowed": "3",
+    "dose_range": "10–25 mg/day (research)",
+    "notes": "Highly experimental",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-03",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-NEURO-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-PEPT-04",
+    "name": "Cerebrolysin",
+    "category": "Peptide mix",
+    "mechanism": "Porcine brain-derived neuropeptide mixture supporting neuroregeneration and cognition",
+    "phase_allowed": "2,3",
+    "dose_range": "5–10 mL IM/IV, cycles",
+    "notes": "Medical supervision recommended",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PEPT-04",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PEPT-04"
+    ]
+  },
+  {
+    "cas_id": "CAS-PEPT-05",
+    "name": "Cortexin",
+    "category": "Peptide mix",
+    "mechanism": "Brain-region-specific polypeptide complex used in some countries for cognition and neurorepair",
+    "phase_allowed": "2,3",
+    "dose_range": "10 mg IM, cycles",
+    "notes": "Region-specific protocols vary",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PEPT-05",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PEPT-05"
+    ]
+  },
+  {
+    "cas_id": "CAS-NOOT-01",
+    "name": "Piracetam",
+    "category": "Racetam nootropic",
+    "mechanism": "Enhances membrane fluidity and possibly neuroplasticity and microcirculation",
+    "phase_allowed": "2,3",
+    "dose_range": "800–4800 mg/day",
+    "notes": "Often split doses",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NOOT-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-NOOT-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-NOOT-02",
+    "name": "Phenylpiracetam",
+    "category": "Stimulant racetam",
+    "mechanism": "Modified piracetam with psychostimulant and pro-motivation effects",
+    "phase_allowed": "2,3",
+    "dose_range": "50–200 mg/day",
+    "notes": "Cycle to avoid tolerance",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NOOT-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-NOOT-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-H2-01",
+    "name": "Hydrogen Water Tablets",
+    "category": "Redox modulator",
+    "mechanism": "Molecular hydrogen delivery for selective antioxidant and signaling effects",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "Per label (typically 1–2 tabs in water)",
+    "notes": "Use on empty stomach for systemic effect",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-H2-01",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-H2-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-HORM-01",
+    "name": "DIM",
+    "category": "Indole-3-carbinol metabolite",
+    "mechanism": "Modulates estrogen metabolism and receptor balance",
+    "phase_allowed": "2,3",
+    "dose_range": "50–200 mg/day",
+    "notes": "May be too strong in low-estrogen states",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-HORM-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-HORM-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-HORM-02",
+    "name": "I3C",
+    "category": "Indole-3-carbinol",
+    "mechanism": "Cruciferous-derived compound altering estrogen metabolite ratios",
+    "phase_allowed": "2,3",
+    "dose_range": "100–400 mg/day",
+    "notes": "Can be rough on stomach in some",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-HORM-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-HORM-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-VIT-02",
+    "name": "Vitamin D3",
+    "category": "Fat-soluble vitamin",
+    "mechanism": "Regulates calcium metabolism, steroidogenesis and immune function",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "1000–4000 IU/day (individualized)",
+    "notes": "Monitor 25(OH)D levels",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VIT-02",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VIT-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-VIT-03",
+    "name": "Vitamin E (mixed tocopherols)",
+    "category": "Antioxidant",
+    "mechanism": "Protects PUFA in membranes, supports endocrine and cardiovascular health",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "100–400 IU/day",
+    "notes": "Use mixed tocopherols/tocotrienols",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VIT-03",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VIT-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-PEPT-06",
+    "name": "GHK-Cu",
+    "category": "Copper peptide",
+    "mechanism": "Tripeptide with copper that promotes wound healing, collagen synthesis and tissue remodeling",
+    "phase_allowed": "2,3",
+    "dose_range": "Topical or 1–3 mg/week injectable (research)",
+    "notes": "Monitor copper status if chronic",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PEPT-06",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PEPT-06"
+    ]
+  },
+  {
+    "cas_id": "CAS-PEPT-07",
+    "name": "TB-500 (Thymosin Beta-4 fragment)",
+    "category": "Peptide",
+    "mechanism": "Peptide fragment that may enhance tissue repair, angiogenesis and inflammation resolution",
+    "phase_allowed": "2,3",
+    "dose_range": "2–5 mg/week (cycle)",
+    "notes": "Research compound; monitor for side effects",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PEPT-07",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PEPT-07"
+    ]
+  },
+  {
+    "cas_id": "CAS-HPG-01",
+    "name": "Kisspeptin-10",
+    "category": "Peptide/HPG",
+    "mechanism": "Stimulates GnRH → LH/FSH → sex steroids; may reset hypothalamic axis",
+    "phase_allowed": "3",
+    "dose_range": "0.5–1 mcg 3×/day (experimental ultra-low dose)",
+    "notes": "Narrow therapeutic window",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-HPG-01",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-HPG-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-HPG-02",
+    "name": "Oxytocin (intranasal)",
+    "category": "Peptide/social",
+    "mechanism": "Modulates bonding, trust, tactile pleasure and sexual-affective circuits",
+    "phase_allowed": "3",
+    "dose_range": "5–20 IU PRN",
+    "notes": "Chronic use may blunt natural dynamics",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-HPG-02",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-HPG-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-PSY-01",
+    "name": "LSD",
+    "category": "Psychedelic",
+    "mechanism": "5-HT2A agonist producing large-scale neuroplasticity and potential 'reset' of limbic circuits",
+    "phase_allowed": null,
+    "dose_range": "50–200 mcg/session",
+    "notes": "Tool for IRM/Layer-0 work, not routine stack",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PSY-01",
+    "phase_allowed_list": [],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PSY-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-PSY-02",
+    "name": "Psilocybin",
+    "category": "Psychedelic",
+    "mechanism": "Serotonergic psychedelic that can increase BDNF and alter emotional/sensory processing",
+    "phase_allowed": null,
+    "dose_range": "1–3 g mushroom equivalent/session",
+    "notes": "IRM/Consciousness tool",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PSY-02",
+    "phase_allowed_list": [],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PSY-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-K01",
+    "name": "Raw Garlic / Allicin",
+    "category": "Antimicrobial",
+    "mechanism": "Broad-spectrum antimicrobial against bacteria and fungi; modulates biofilms",
+    "phase_allowed": "1.5,2",
+    "dose_range": "1–2 cloves/day or equivalent extract",
+    "notes": "Use short-term if tolerated",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-K01",
+    "phase_allowed_list": [
+      "1.5",
+      "2"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-K01"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-K02",
+    "name": "Oil of Oregano",
+    "category": "Antimicrobial",
+    "mechanism": "Potent antimicrobial and antifungal; disrupts biofilms",
+    "phase_allowed": "1.5,2",
+    "dose_range": "50–100 mg carvacrol extract 1–2×/day",
+    "notes": "Cycle and monitor gut tolerance",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-K02",
+    "phase_allowed_list": [
+      "1.5",
+      "2"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-K02"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-K03",
+    "name": "Neem",
+    "category": "Antimicrobial",
+    "mechanism": "Broad-spectrum anti-bacterial and anti-fungal herb",
+    "phase_allowed": "1.5,2",
+    "dose_range": "300–600 mg/day",
+    "notes": "Short cycles preferred",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-K03",
+    "phase_allowed_list": [
+      "1.5",
+      "2"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-K03"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-K04",
+    "name": "Caprylic Acid",
+    "category": "Antifungal",
+    "mechanism": "Medium-chain fatty acid targeting fungal membranes (e.g., Candida)",
+    "phase_allowed": "1.5,2",
+    "dose_range": "500–2000 mg/day",
+    "notes": "Take with meals",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-K04",
+    "phase_allowed_list": [
+      "1.5",
+      "2"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-K04"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-K05",
+    "name": "Peppermint Oil (enteric)",
+    "category": "Antispasmodic/antimicrobial",
+    "mechanism": "Enteric-coated oil with local antimicrobial and antispasmodic action",
+    "phase_allowed": "1.5,2",
+    "dose_range": "0.2–0.4 mL 1–3×/day",
+    "notes": "Avoid in GERD if not enteric-coated",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-K05",
+    "phase_allowed_list": [
+      "1.5",
+      "2"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-K05"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-P01",
+    "name": "Rifaximin",
+    "category": "Antibiotic (non-absorbed)",
+    "mechanism": "Non-systemic antibiotic for SIBO and IBS-related dysbiosis",
+    "phase_allowed": "Medical",
+    "dose_range": "550 mg 2–3×/day ×10–14 days",
+    "notes": "Medical supervision only",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-P01",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-P01"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-P02",
+    "name": "Neomycin",
+    "category": "Antibiotic",
+    "mechanism": "Poorly absorbed aminoglycoside often combined with rifaximin for methane SIBO",
+    "phase_allowed": "Medical",
+    "dose_range": "Dose per GI protocol",
+    "notes": "Supervised use only",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-P02",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-P02"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-P03",
+    "name": "Fluconazole",
+    "category": "Antifungal systemic",
+    "mechanism": "Systemic triazole antifungal targeting Candida and other fungi",
+    "phase_allowed": "Medical",
+    "dose_range": "50–200 mg/day",
+    "notes": "Monitor liver enzymes",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-P03",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-P03"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-P04",
+    "name": "Nystatin",
+    "category": "Antifungal local",
+    "mechanism": "Non-absorbed antifungal for GI Candida overgrowth",
+    "phase_allowed": "Medical",
+    "dose_range": "Per protocol (e.g., 500k–1M IU/day)",
+    "notes": "Local GI effect; minimal absorption",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-P04",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-P04"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-P05",
+    "name": "Metronidazole",
+    "category": "Antiprotozoal/antibiotic",
+    "mechanism": "Targets anaerobic bacteria and protozoa; used in some SIBO or parasitic protocols",
+    "phase_allowed": "Medical",
+    "dose_range": "250–500 mg 2–3×/day",
+    "notes": "Supervised due to side effect profile",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-P05",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-P05"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-P06",
+    "name": "Tinidazole",
+    "category": "Antiprotozoal",
+    "mechanism": "Longer half-life nitroimidazole for protozoal infections",
+    "phase_allowed": "Medical",
+    "dose_range": "Per specialist protocol",
+    "notes": "Supervised",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-P06",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-P06"
+    ]
+  },
+  {
+    "cas_id": "CAS-BIO-01",
+    "name": "Serrapeptase",
+    "category": "Proteolytic enzyme",
+    "mechanism": "Systemic enzyme breaking down proteinaceous biofilms and inflammatory debris",
+    "phase_allowed": "2,3",
+    "dose_range": "40,000–120,000 SPU/day empty stomach",
+    "notes": "Monitor for bleeding if on anticoagulants",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-BIO-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-BIO-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-BIO-02",
+    "name": "EDTA",
+    "category": "Chelator/biofilm",
+    "mechanism": "Binds divalent cations and disrupts some biofilms; also chelates metals",
+    "phase_allowed": "Advanced",
+    "dose_range": "IV or oral per protocol",
+    "notes": "Supervised; not routine",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-BIO-02",
+    "phase_allowed_list": [
+      "Advanced"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-BIO-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-BIO-03",
+    "name": "Bismuth Subsalicylate",
+    "category": "GI agent",
+    "mechanism": "Coats GI mucosa, has mild antimicrobial and biofilm-disrupting properties",
+    "phase_allowed": "1.5,2",
+    "dose_range": "Standard OTC dosing",
+    "notes": "Contains salicylate",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-BIO-03",
+    "phase_allowed_list": [
+      "1.5",
+      "2"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-BIO-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-PRO-01",
+    "name": "SBO Probiotics (general)",
+    "category": "Probiotic",
+    "mechanism": "Spore-based organisms supporting robust microbiome and resilience",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "Per product label",
+    "notes": "Includes MegaSpore as a specific brand",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PRO-01",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PRO-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-PRO-02",
+    "name": "Lactobacillus reuteri",
+    "category": "Probiotic",
+    "mechanism": "Strains such as DSM 17938 or ATCC 6475 may elevate oxytocin and affect social/sexual behavior",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "1–2 billion CFU/day",
+    "notes": "Often used as yogurt or supplement",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PRO-02",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PRO-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-PRO-03",
+    "name": "Inulin / Acacia Fiber",
+    "category": "Prebiotic",
+    "mechanism": "Soluble fibers feeding Bifidobacteria and other beneficial species",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "1–10 g/day",
+    "notes": "Titrate slowly",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PRO-03",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PRO-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-PRO-04",
+    "name": "Vivomixx / VSL#3",
+    "category": "High-dose probiotic mix",
+    "mechanism": "High-potency multi-strain probiotic for intensive microbiome support",
+    "phase_allowed": "2,3",
+    "dose_range": "1–2 sachets/day",
+    "notes": "Best refrigerated",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PRO-04",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PRO-04"
+    ]
+  },
+  {
+    "cas_id": "CAS-PRO-05",
+    "name": "FMT (Fecal Microbiota Transplant)",
+    "category": "Procedure",
+    "mechanism": "Transfer of donor microbiome to replace or augment host microbiota",
+    "phase_allowed": "Advanced",
+    "dose_range": "Per clinical protocol",
+    "notes": "Highly experimental outside standard indications",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PRO-05",
+    "phase_allowed_list": [
+      "Advanced"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PRO-05"
+    ]
+  },
+  {
+    "cas_id": "CAS-BOOST-01",
+    "name": "Yohimbine",
+    "category": "Alpha-2 antagonist",
+    "mechanism": "Blocks presynaptic alpha-2 receptors, increasing sympathetic tone and penile blood flow",
+    "phase_allowed": "3",
+    "dose_range": "2.5–10 mg/day",
+    "notes": "Can cause anxiety, tachycardia; use with caution",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-BOOST-01",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-BOOST-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-BOOST-02",
+    "name": "Butea superba",
+    "category": "Herbal PDE5-like",
+    "mechanism": "Thai herb with androgenic and PDE5-modulating properties",
+    "phase_allowed": "3",
+    "dose_range": "250–1000 mg/day",
+    "notes": "Monitor for BP/headache",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-BOOST-02",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-BOOST-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-BOOST-03",
+    "name": "Tian Li",
+    "category": "Herbal complex",
+    "mechanism": "Traditional formula marketed for libido and erectile function; multi-herb",
+    "phase_allowed": "3",
+    "dose_range": "Per product label",
+    "notes": "Quality varies; treat as experimental",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-BOOST-03",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-BOOST-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-13",
+    "name": "Tadalafil",
+    "category": "PDE5 inhibitor",
+    "mechanism": "Inhibits PDE5, raising cGMP and enhancing erectile response and endothelial function",
+    "phase_allowed": "2,3",
+    "dose_range": "2.5–10 mg/day or PRN",
+    "notes": "Watch BP, interactions with nitrates",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-13",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-13"
+    ]
+  },
+  {
+    "cas_id": "CAS-AMINO-01",
+    "name": "Glycine",
+    "category": "Amino acid",
+    "mechanism": "Simple amino acid; supports collagen synthesis, liver detox and parasympathetic tone",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "2–10 g/day",
+    "notes": "Often used at night for sleep",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-AMINO-01",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-AMINO-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-MET-03",
+    "name": "Berberine",
+    "category": "Metabolic / Antimicrobial (Kill-phase option)",
+    "mechanism": "Isoquinoline alkaloid; AMPK activation, improved insulin sensitivity and endothelial signaling; antimicrobial against dysbiosis/SIBO patterns; can reduce endotoxin load indirectly supporting NO/vascular function.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "300–500 mg with meals 1–2×/day (cycle)",
+    "notes": "Use in cycles (e.g., 2–4 wks). Can cause cramps/constipation or die-off effects; interacts with some meds via CYP/P-gp; monitor BP if combined with vasodilators.",
+    "cfs_modules": "CFS-08; CFS-09; CFS-10",
+    "hfmp_axes": "Axis 6; Axis 7; Axis 8",
+    "phases_used": "Phase 1.5–2 (cycle) / optional later",
+    "role": "Metabolic + gut/kill-phase lever; indirect EQ support.",
+    "phase_dosage": "P1.5: 300 mg with dinner; P2: 300–500 mg with meals 1–2×/day (cycle)",
+    "canonical_id": "CAS-MET-03",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-08; CFS-09; CFS-10"
+    ],
+    "hfmp_axes_list": [
+      "Axis 6; Axis 7; Axis 8"
+    ],
+    "phases_used_list": [
+      "Phase 1.5–2 (cycle) / optional later"
+    ],
+    "referenced_ids": [
+      "CAS-MET-03",
+      "CFS-08",
+      "CFS-09",
+      "CFS-10"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-15",
+    "name": "Mitolipin",
+    "category": "Mitochondrial membrane lipid",
+    "mechanism": "Cardiolipin-targeted phospholipid blend intended to restore mitochondrial inner membrane integrity and respiratory chain efficiency.",
+    "phase_allowed": "2,3",
+    "dose_range": "Per product protocol (often ~1–2 caps/day)",
+    "notes": "Turnbuckle-associated Longecity compound; long-term mitochondrial repair strategy.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-15",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-15"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-16",
+    "name": "Succinate",
+    "category": "TCA cycle intermediate",
+    "mechanism": "Provides substrate at complex II of the electron transport chain; supports ATP generation and can shift redox balance.",
+    "phase_allowed": "2,3",
+    "dose_range": "250–1000 mg/day",
+    "notes": "Used in some mitochondrial stacks and Lostfalco-style protocols.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-16",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-16"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-17",
+    "name": "Oxaloacetate (OAA)",
+    "category": "TCA cycle intermediate",
+    "mechanism": "Krebs cycle anaplerotic substrate; may modulate NAD+/NADH ratio and neuroprotection.",
+    "phase_allowed": "2,3",
+    "dose_range": "100–500 mg/day",
+    "notes": "Frequently paired with succinate/mitochondrial support cycles.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-17",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-17"
+    ]
+  },
+  {
+    "cas_id": "CAS-PEPT-08",
+    "name": "LL-37",
+    "category": "Antimicrobial peptide",
+    "mechanism": "Endogenous cathelicidin-derived peptide with strong antimicrobial and immunomodulatory effects; used experimentally for microbiome and infection modulation.",
+    "phase_allowed": "2,3",
+    "dose_range": "Dosing varies widely in research (e.g., 50–200 mcg/day) – experimental only",
+    "notes": "Considered in microbiome reset strategies; high experimental risk.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PEPT-08",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PEPT-08"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-18",
+    "name": "Actovegin",
+    "category": "Metabolic tissue extract",
+    "mechanism": "Deproteinized calf blood extract claimed to enhance oxygen utilization and glucose uptake in tissues.",
+    "phase_allowed": "2,3",
+    "dose_range": "Per protocol (e.g., 2–5 mL IM a few times/week)",
+    "notes": "Used in some Eastern European protocols for neuro and tissue repair.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-18",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-18"
+    ]
+  },
+  {
+    "cas_id": "CAS-MIN-01",
+    "name": "Boron",
+    "category": "Trace mineral",
+    "mechanism": "Influences steroid hormone metabolism, vitamin D status and inflammatory signaling.",
+    "phase_allowed": "2,3",
+    "dose_range": "1–10 mg/day",
+    "notes": "Discussion of borax/boron and SHBG modulation; monitor for toxicity at high doses.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MIN-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MIN-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-10",
+    "name": "Pancreatic Digestive Enzymes",
+    "category": "Digestive enzyme blend",
+    "mechanism": "Lipase, protease and amylase mixture to support digestion, reduce undigested food burden and secondary dysbiosis.",
+    "phase_allowed": "1.5,2",
+    "dose_range": "Per label with meals (typically 1–2 caps/meal)",
+    "notes": "Used when intrinsic pancreatic enzyme output is suspected to be low.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-10",
+    "phase_allowed_list": [
+      "1.5",
+      "2"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-GUT-10"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-19",
+    "name": "BHB (Beta-Hydroxybutyrate)",
+    "category": "Ketone body",
+    "mechanism": "Alternative fuel for brain and muscle; modulates NAD+/NADH, lowers neuroinflammation and supports mitochondrial efficiency.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "2–12 g/day (as salts or esters)",
+    "notes": "Can lower appetite and alter electrolytes; monitor GI tolerance.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-19",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MITO-19"
+    ]
+  },
+  {
+    "cas_id": "CAS-POLY-01",
+    "name": "Fisetin",
+    "category": "Flavonoid / senolytic",
+    "mechanism": "Plant flavonoid with antioxidant, anti-inflammatory and senolytic properties; may support cognition and vascular health.",
+    "phase_allowed": "2,3",
+    "dose_range": "100–500 mg/day or intermittent high-dose senolytic pulses",
+    "notes": "Synergistic with quercetin-style stacks; experimental at high doses.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-POLY-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-POLY-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-HERB-01",
+    "name": "Jiaogulan (Gynostemma)",
+    "category": "Herb / adaptogen",
+    "mechanism": "AMPK-modulating and NO-supporting adaptogen; used for cardiovascular and metabolic resilience.",
+    "phase_allowed": "2,3",
+    "dose_range": "300–1000 mg/day",
+    "notes": "May lower blood pressure and blood sugar; monitor if already low.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-HERB-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-HERB-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-HERB-02",
+    "name": "Mahkota Dewa (Phaleria macrocarpa)",
+    "category": "Herb / experimental",
+    "mechanism": "Traditional Southeast Asian herb with reported metabolic, vascular and libido effects.",
+    "phase_allowed": "3",
+    "dose_range": "Per product label (insufficient formal data)",
+    "notes": "Treat as experimental; quality control critical.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-HERB-02",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-HERB-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-HERB-03",
+    "name": "Ononis spinosa / Osul Iepurelui",
+    "category": "Herb",
+    "mechanism": "Traditional diuretic and uro-genital herb; may influence pelvic microcirculation and fluid balance.",
+    "phase_allowed": "2,3",
+    "dose_range": "Per herbal protocol (e.g., tea or extract)",
+    "notes": "Romanian/Eastern European folk usage; limited modern data.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-HERB-03",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-HERB-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-04",
+    "name": "Ginkgo biloba",
+    "category": "Herb / neurovascular",
+    "mechanism": "Improves microcirculation and may enhance cognitive performance and sensory processing.",
+    "phase_allowed": "2,3",
+    "dose_range": "60–240 mg/day (standardized extract)",
+    "notes": "Watch for interactions with anticoagulants.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-04",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-NEURO-04"
+    ]
+  },
+  {
+    "cas_id": "CAS-MIN-02",
+    "name": "Lithium (microdose)",
+    "category": "Trace mineral / neurotrophic",
+    "mechanism": "Very low-dose lithium (e.g., orotate) for neurotrophic and mood-stabilizing effects.",
+    "phase_allowed": "2,3",
+    "dose_range": "1–5 mg elemental lithium/day",
+    "notes": "Avoid high doses; monitor kidney function if chronic.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MIN-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MIN-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-HORM-03",
+    "name": "Enclomiphene",
+    "category": "SERM",
+    "mechanism": "Selective estrogen receptor modulator that increases LH/FSH and endogenous testosterone.",
+    "phase_allowed": "Medical",
+    "dose_range": "12.5–25 mg/day (per protocol)",
+    "notes": "Prescription drug; requires monitoring of labs and symptoms.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-HORM-03",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-HORM-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-HORM-04",
+    "name": "hCG (Human Chorionic Gonadotropin)",
+    "category": "Gonadotropin",
+    "mechanism": "Mimics LH to stimulate Leydig cells and testosterone production; preserves testicular volume.",
+    "phase_allowed": "Medical",
+    "dose_range": "e.g., 250–1000 IU 2–3×/week",
+    "notes": "Prescription; use only with endocrine oversight.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-HORM-04",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-HORM-04"
+    ]
+  },
+  {
+    "cas_id": "CAS-HORM-05",
+    "name": "Testosterone (exogenous)",
+    "category": "Sex steroid",
+    "mechanism": "Exogenous testosterone replacement or enhancement; increases androgen levels and secondary sex characteristics.",
+    "phase_allowed": "Medical",
+    "dose_range": "Dose per TRT or enhancement protocol",
+    "notes": "Included as reference agent; your case focuses on endogenous modulation.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-HORM-05",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-HORM-05"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEG-01",
+    "name": "Choline (general)",
+    "category": "Choline source / flagged",
+    "mechanism": "Essential nutrient but in this context discussed as promoting reabsorption of bile-bound toxins and increasing TMAO.",
+    "phase_allowed": null,
+    "dose_range": "Variable; not recommended in current protocol",
+    "notes": "Tracked as a 'red list' agent for APv1.0 despite general nutritional role.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEG-01",
+    "phase_allowed_list": [],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-NEG-01"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEG-02",
+    "name": "Lecithin",
+    "category": "Phospholipid blend / flagged",
+    "mechanism": "Phosphatidylcholine-rich mixture; here associated with increased bile-metabolite recycling and potential mood effects.",
+    "phase_allowed": null,
+    "dose_range": "Variable; not recommended in current protocol",
+    "notes": "Handled as negative/avoid in this specific context.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEG-02",
+    "phase_allowed_list": [],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-NEG-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEG-03",
+    "name": "Ox bile",
+    "category": "Bile salt / flagged",
+    "mechanism": "Supplemental bile salt complex; discussed as potentially worsening bile-bound toxin reabsorption in cholestatic states.",
+    "phase_allowed": null,
+    "dose_range": "Variable; avoided in APv1.0",
+    "notes": "May be useful in other contexts, but we flag as avoid for suspected cholestasis.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEG-03",
+    "phase_allowed_list": [],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-NEG-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-FOOD-02",
+    "name": "Fermented Foods (kefir, sauerkraut, etc.)",
+    "category": "Food / microbiome",
+    "mechanism": "Live-culture foods supplying diverse microbes and postbiotics for gut and immune modulation.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "1–3 servings/day as tolerated",
+    "notes": "Includes kefir, yogurt, sauerkraut, etc.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-FOOD-02",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-FOOD-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-FOOD-03",
+    "name": "Black Coffee",
+    "category": "Beverage / metabolic",
+    "mechanism": "Caffeine and polyphenols that stimulate bile dumping, lipolysis and adenosine antagonism.",
+    "phase_allowed": "1,1.5,2,3",
+    "dose_range": "1–3 cups/day",
+    "notes": "Core tool in Phase 1 bile-dump strategy.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-FOOD-03",
+    "phase_allowed_list": [
+      "1",
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-FOOD-03"
+    ]
+  },
+  {
+    "cas_id": "CAS-PRO-06",
+    "name": "Kefir Microbiota",
+    "category": "Probiotic ecosystem",
+    "mechanism": "Complex multi-strain microbial community from kefir grains; seeds gut with lactic acid bacteria and yeasts.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "1–2 glasses/day (homemade or quality kefir)",
+    "notes": "Overlaps with fermented foods but logged separately as microbial agent.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PRO-06",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PRO-06"
+    ]
+  },
+  {
+    "cas_id": "CAS-PRO-07",
+    "name": "Spore/SBO Probiotics (generic)",
+    "category": "Probiotic",
+    "mechanism": "Broad category of soil-based organism probiotics beyond specific brands like MegaSpore.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "Per label dosing",
+    "notes": "CAS-PRO-01 covers specific SBOs; this is the generic category anchor.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PRO-07",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PRO-01",
+      "CAS-PRO-07"
+    ]
+  },
+  {
+    "cas_id": "CAS-PRO-08",
+    "name": "Acacia Fiber",
+    "category": "Prebiotic fiber",
+    "mechanism": "Soluble fiber that feeds beneficial bacteria and improves stool quality and motility.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "3–15 g/day",
+    "notes": "Similar to inulin/PHGG; gentler in many people.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PRO-08",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PRO-08"
+    ]
+  },
+  {
+    "cas_id": "CAS-INF-02",
+    "name": "Sulforaphane (Broccoli Sprout Extract)",
+    "category": "Nrf2 activator",
+    "mechanism": "Isothiocyanate that activates Nrf2, increases antioxidant defenses and supports eNOS and detox pathways.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "10–40 mg sulforaphane equivalents/day",
+    "notes": "Can be stimulating or GI-irritating at high dose.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-INF-02",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-INF-02"
+    ]
+  },
+  {
+    "cas_id": "CAS-PHYS-01",
+    "name": "Angion Protocol v2",
+    "category": "Physical vascular training",
+    "mechanism": "Ischemia–reperfusion and mechanical stimuli to induce VEGF-driven microvascular remodeling and improved penile hemodynamics.",
+    "phase_allowed": "2,3",
+    "dose_range": "Protocol-based (see COP-10)",
+    "notes": "Non-molecular technique logged as a CAS physical agent for completeness.",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PHYS-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PHYS-01",
+      "COP-10"
+    ]
+  },
+  {
+    "cas_id": "CAS-DET-01",
+    "name": "Glutathione (oral, generic)",
+    "category": "Detox/Redox",
+    "mechanism": "Phase II conjugation cofactor and redox buffer; supports mitochondrial protection and detox throughput once bile flow is adequate.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "250–1000 mg/day",
+    "notes": "Low systemic bioavailability; mainly GI antioxidant. Introduce only after Phase 1 terrain is stable.",
+    "cfs_modules": "CFS-05, CFS-10, CFS-12",
+    "hfmp_axes": "HFMP-6, HFMP-8",
+    "phases_used": "1.5,2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-DET-01",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-05",
+      "CFS-10",
+      "CFS-12"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-6",
+      "HFMP-8"
+    ],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-DET-01",
+      "CFS-05",
+      "CFS-10",
+      "CFS-12",
+      "HFMP-6",
+      "HFMP-8"
+    ]
+  },
+  {
+    "cas_id": "CAS-DET-02",
+    "name": "Reduced Glutathione (liposomal)",
+    "category": "Detox/Redox",
+    "mechanism": "More bioavailable GSH form enhancing systemic and mitochondrial redox control during higher metabolic flux.",
+    "phase_allowed": "2,3",
+    "dose_range": "250–500 mg/day",
+    "notes": "Use only once gut–liver axis is solid. Synergistic with taurine and vitamin C.",
+    "cfs_modules": "CFS-05, CFS-12",
+    "hfmp_axes": "HFMP-6",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-DET-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-05",
+      "CFS-12"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-6"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-DET-02",
+      "CFS-05",
+      "CFS-12",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cas_id": "CAS-PHYS-02",
+    "name": "Medical Ozone (autohemotherapy)",
+    "category": "Adjunct/Procedure",
+    "mechanism": "Transient oxidative pulse to blood inducing Nrf2 and antioxidant enzymes; improves rheology and microcirculation.",
+    "phase_allowed": "Adjunct",
+    "dose_range": null,
+    "notes": "External medical adjunct only; not part of APv1.0 stack but may be overlaid once basics are in place.",
+    "cfs_modules": "CFS-05, CFS-12",
+    "hfmp_axes": "HFMP-6, HFMP-7",
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-PHYS-02",
+    "phase_allowed_list": [
+      "Adjunct"
+    ],
+    "cfs_modules_list": [
+      "CFS-05",
+      "CFS-12"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-6",
+      "HFMP-7"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PHYS-02",
+      "CFS-05",
+      "CFS-12",
+      "HFMP-6",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-05",
+    "name": "7,8-Dihydroxyflavone (7,8-DHF)",
+    "category": "Neurotrophic / TrkB agonist",
+    "mechanism": "Small-molecule TrkB agonist mimicking BDNF signaling; supports limbic, olfactory and sexual-circuit plasticity.",
+    "phase_allowed": "2,3",
+    "dose_range": "10–50 mg/day",
+    "notes": "Use as cyclical neuroplasticity tool (e.g. 10 days on / 10 off). Avoid stacking with other strong neurotrophics.",
+    "cfs_modules": "CFS-04, CFS-06",
+    "hfmp_axes": "HFMP-2, HFMP-5, HFMP-9",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-05",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-04",
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-5",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-05",
+      "CFS-04",
+      "CFS-06",
+      "HFMP-2",
+      "HFMP-5",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-06",
+    "name": "4'-DMA-7,8-DHF",
+    "category": "Experimental neurotrophic",
+    "mechanism": "Enhanced 7,8-DHF analog with improved TrkB activation and brain penetration in preclinical models.",
+    "phase_allowed": "3",
+    "dose_range": "Experimental; no validated human dose",
+    "notes": "Deep-end experimental tool; if ever used, apply as a short, single-agent microcycle only in Phase 3.",
+    "cfs_modules": "CFS-04, CFS-06",
+    "hfmp_axes": "HFMP-2, HFMP-5, HFMP-9",
+    "phases_used": "3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-06",
+    "phase_allowed_list": [
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-04",
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-5",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-06",
+      "CFS-04",
+      "CFS-06",
+      "HFMP-2",
+      "HFMP-5",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-07",
+    "name": "Mucuna Pruriens (L-DOPA)",
+    "category": "Dopamine precursor / Neuroactive",
+    "mechanism": "High-bioavailability natural source of L-DOPA; directly raises dopamine synthesis, increasing libido, motivation and orgasm intensity.",
+    "phase_allowed": "2,3",
+    "dose_range": "100–500 mg extract standardized to 15–20% L-DOPA",
+    "notes": "Potent dopaminergic; avoid combining with 9-me-BC on same day; cycle for receptor sensitivity.",
+    "cfs_modules": "CFS-02, CFS-05",
+    "hfmp_axes": "HFMP-2, HFMP-9",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-07",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02",
+      "CFS-05"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-07",
+      "CFS-02",
+      "CFS-05",
+      "HFMP-2",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-04",
+    "name": "Maca (Lepidium meyenii)",
+    "category": "Androgenic/adaptogenic herb",
+    "mechanism": "Traditional Peruvian root supporting libido, mood and energy; may modulate dopamine and endocrine tone.",
+    "phase_allowed": "2,3",
+    "dose_range": "500–2000 mg/day",
+    "notes": "Generally well tolerated; synergistic with tongkat, tribulus, muira puama.",
+    "cfs_modules": "CFS-02, CFS-09",
+    "hfmp_axes": "HFMP-1, HFMP-2",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANDRO-04",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02",
+      "CFS-09"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-1",
+      "HFMP-2"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-04",
+      "CFS-02",
+      "CFS-09",
+      "HFMP-1",
+      "HFMP-2"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-05",
+    "name": "Fadogia Agrestis",
+    "category": "Androgen / LH support",
+    "mechanism": "Acts as LH mimetic in preclinical data, potentially increasing testosterone and libido.",
+    "phase_allowed": "2,3",
+    "dose_range": "300–600 mg/day",
+    "notes": "Potent; monitor for restlessness, tension, or sleep disruption; use in microcycles.",
+    "cfs_modules": "CFS-01, CFS-11",
+    "hfmp_axes": "HFMP-1, HFMP-2",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANDRO-05",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-1",
+      "HFMP-2"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-05",
+      "CFS-01",
+      "CFS-11",
+      "HFMP-1",
+      "HFMP-2"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-06",
+    "name": "Bulbine Natalensis",
+    "category": "Androgen modulator",
+    "mechanism": "Traditional anabolic herb; may raise testosterone and lower estrogen; requires careful dosing to avoid hepatic stress.",
+    "phase_allowed": "2,3",
+    "dose_range": "25–50 mg extract/day",
+    "notes": "High potency; use only in controlled, short cycles with lab monitoring.",
+    "cfs_modules": "CFS-01, CFS-11",
+    "hfmp_axes": "HFMP-1, HFMP-2",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANDRO-06",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-1",
+      "HFMP-2"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-06",
+      "CFS-01",
+      "CFS-11",
+      "HFMP-1",
+      "HFMP-2"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-07",
+    "name": "Muira Puama",
+    "category": "Libido / Dopamine herb",
+    "mechanism": "Enhances sexual response, dopamine tone and mental focus; mild adaptogen.",
+    "phase_allowed": "2,3",
+    "dose_range": "250–500 mg/day",
+    "notes": "Synergistic with maca, tongkat, tribulus.",
+    "cfs_modules": "CFS-02, CFS-11",
+    "hfmp_axes": "HFMP-2, HFMP-9",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANDRO-07",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-07",
+      "CFS-02",
+      "CFS-11",
+      "HFMP-2",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-08",
+    "name": "Damiana",
+    "category": "Libido / Mood herb",
+    "mechanism": "Mild CNS stimulant and libido enhancer, supporting parasympathetic arousal.",
+    "phase_allowed": "2",
+    "dose_range": "200–400 mg/day",
+    "notes": "Useful but mild; complements vascular agents rather than replacing them.",
+    "cfs_modules": "CFS-02",
+    "hfmp_axes": "HFMP-2, HFMP-9",
+    "phases_used": "2",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANDRO-08",
+    "phase_allowed_list": [
+      "2"
+    ],
+    "cfs_modules_list": [
+      "CFS-02"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-08",
+      "CFS-02",
+      "HFMP-2",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-09",
+    "name": "Tribulus Terrestris",
+    "category": "Androgen/Libido herb",
+    "mechanism": "Saponin (protodioscin)-rich herb with modest androgenic and libido-supportive properties.",
+    "phase_allowed": "2",
+    "dose_range": "300–800 mg/day (standardized extract)",
+    "notes": "Mild testosterone support; often used as part of multi-herb libidostacks.",
+    "cfs_modules": "CFS-01, CFS-11",
+    "hfmp_axes": "HFMP-1, HFMP-2",
+    "phases_used": "2",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-ANDRO-09",
+    "phase_allowed_list": [
+      "2"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-1",
+      "HFMP-2"
+    ],
+    "phases_used_list": [
+      "2"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-09",
+      "CFS-01",
+      "CFS-11",
+      "HFMP-1",
+      "HFMP-2"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-06",
+    "name": "TTFD (Thiamine Tetrahydrofurfuryl Disulfide)",
+    "category": "Metabolic / Mitochondrial",
+    "mechanism": "High-penetrance B1 derivative; strongly activates PDH and carbohydrate oxidation, boosting ATP, dopamine synthesis and nerve conduction.",
+    "phase_allowed": "2,3",
+    "dose_range": "50–200 mg/day",
+    "notes": "Introduce after Phase 1.5 once gut/liver stable; titrate up watching for overstimulation.",
+    "cfs_modules": "CFS-01, CFS-06, CFS-12",
+    "hfmp_axes": "HFMP-2, HFMP-3, HFMP-6",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-06",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-06",
+      "CFS-12"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-3",
+      "HFMP-6"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-06",
+      "CFS-01",
+      "CFS-06",
+      "CFS-12",
+      "HFMP-2",
+      "HFMP-3",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-08",
+    "name": "Uridine Monophosphate",
+    "category": "Neuroplasticity / Nucleotide",
+    "mechanism": "Supports phospholipid synthesis, synapse formation and dopaminergic tone; part of modified Mr. Happy stack (without choline).",
+    "phase_allowed": "2,3",
+    "dose_range": "50–150 mg/day",
+    "notes": "Use with DHA; avoid choline co-loading in cholestasis context.",
+    "cfs_modules": "CFS-02, CFS-04, CFS-06",
+    "hfmp_axes": "HFMP-2, HFMP-9",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-08",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02",
+      "CFS-04",
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-08",
+      "CFS-02",
+      "CFS-04",
+      "CFS-06",
+      "HFMP-2",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-09",
+    "name": "Sulbuthiamine",
+    "category": "Dopaminergic / Thiamine derivative",
+    "mechanism": "Lipid-soluble thiamine dimer that enhances dopaminergic tone, libido, social and sexual drive.",
+    "phase_allowed": "2,3",
+    "dose_range": "200–400 mg/day (cycled)",
+    "notes": "Use in short cycles (e.g. 5 days on / 2 off) in Phase 2β+; avoid early terrain phases.",
+    "cfs_modules": "CFS-01, CFS-02, CFS-04",
+    "hfmp_axes": "HFMP-2, HFMP-9",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-09",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-02",
+      "CFS-04"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-09",
+      "CFS-01",
+      "CFS-02",
+      "CFS-04",
+      "HFMP-2",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-VIT-05",
+    "name": "Methylated B-Complex",
+    "category": "Vitamin complex",
+    "mechanism": "Provides methylated B12, B6 and folate to support neurotransmitter synthesis, methylation and energy metabolism.",
+    "phase_allowed": "2,3",
+    "dose_range": "Label-equivalent (low-moderate dose)",
+    "notes": "Introduce only once histamine and sleep are stable; may increase stimulation in sensitive users.",
+    "cfs_modules": "CFS-01, CFS-05",
+    "hfmp_axes": "HFMP-2, HFMP-6, HFMP-9",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VIT-05",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-05"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-6",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-VIT-05",
+      "CFS-01",
+      "CFS-05",
+      "HFMP-2",
+      "HFMP-6",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-GUT-07",
+    "name": "Tributyrin",
+    "category": "SCFA/Gut",
+    "mechanism": "Butyrate precursor; gut barrier repair; microglia calming",
+    "phase_allowed": "2",
+    "dose_range": "300–600mg/day",
+    "notes": "Phase 2A gut-brain axis support",
+    "cfs_modules": "CFS-05, CFS-06",
+    "hfmp_axes": "HFMP-5, HFMP-6",
+    "phases_used": "2",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-GUT-07",
+    "phase_allowed_list": [
+      "2"
+    ],
+    "cfs_modules_list": [
+      "CFS-05",
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-5",
+      "HFMP-6"
+    ],
+    "phases_used_list": [
+      "2"
+    ],
+    "referenced_ids": [
+      "CAS-GUT-07",
+      "CFS-05",
+      "CFS-06",
+      "HFMP-5",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-10",
+    "name": "Mucuna Pruriens",
+    "category": "Dopaminergic",
+    "mechanism": "Natural L-DOPA; dopamine and libido ignition",
+    "phase_allowed": "2,3",
+    "dose_range": "100–200mg standardized extract",
+    "notes": "Phase 2B microcycles",
+    "cfs_modules": "CFS-01, CFS-02",
+    "hfmp_axes": "HFMP-2, HFMP-9",
+    "phases_used": "2,3",
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-10",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-02"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-10",
+      "CFS-01",
+      "CFS-02",
+      "HFMP-2",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-13",
+    "name": "Magnesium β-Hydroxybutyrate (MHB)",
+    "category": "Neurosexual / Metabolic",
+    "mechanism": "Magnesium salt of β-hydroxybutyrate; supports mitochondrial ATP, reduces neuroinflammation, shifts autonomic tone parasympathetic, mildly GABAergic, enhances dopaminergic efficiency and sensual calm.",
+    "phase_allowed": "2,3",
+    "dose_range": "500–2000 mg per dose, ≤3000 mg/day",
+    "notes": "Use in Phase 2–3 only; evening or late afternoon dosing with food; avoid combining with alcohol or sedative drugs.",
+    "cfs_modules": "CFS-05, CFS-07, CFS-11",
+    "hfmp_axes": "HFMP-2, HFMP-5, HFMP-9",
+    "phases_used": "2,3",
+    "role": "Neurosexual",
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-13",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-05",
+      "CFS-07",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-5",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-13",
+      "CFS-05",
+      "CFS-07",
+      "CFS-11",
+      "HFMP-2",
+      "HFMP-5",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-14",
+    "name": "HMB (β-Hydroxy β-Methylbutyrate)",
+    "category": "Neurosexual / Androgenic / Metabolic",
+    "mechanism": "Leucine metabolite; increases androgen receptor density, reduces cortisol, enhances dopaminergic signaling, improves NO, increases libido.",
+    "phase_allowed": "2,3",
+    "dose_range": "1–3 g/day",
+    "notes": "Use with meals; avoid fasted; enhances libido and neurosexual function.",
+    "cfs_modules": "CFS-02, CFS-05, CFS-07, CFS-11",
+    "hfmp_axes": "HFMP-1, HFMP-2, HFMP-5, HFMP-7, HFMP-9",
+    "phases_used": "2,3",
+    "role": "Neurosexual",
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-14",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02",
+      "CFS-05",
+      "CFS-07",
+      "CFS-11"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-1",
+      "HFMP-2",
+      "HFMP-5",
+      "HFMP-7",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-14",
+      "CFS-02",
+      "CFS-05",
+      "CFS-07",
+      "CFS-11",
+      "HFMP-1",
+      "HFMP-2",
+      "HFMP-5",
+      "HFMP-7",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-15",
+    "name": "Methylene Blue (low-dose)",
+    "category": "Mitochondrial / Dopaminergic",
+    "mechanism": "Redox-active dye; enhances mitochondrial electron transport, increases ATP, modulates monoamine systems, neuroprotective.",
+    "phase_allowed": "2,3",
+    "dose_range": "0.25–2 mg/kg (typically 0.5–4 mg/day)",
+    "notes": "Avoid high doses; interacts with SSRIs/MAOIs; strong HFMP-2 and HFMP-6 amplifier.",
+    "cfs_modules": "CFS-02,CFS-05,CFS-06",
+    "hfmp_axes": "HFMP-2,HFMP-6,HFMP-7",
+    "phases_used": "2,3",
+    "role": "Mito/Dopa",
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-15",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02",
+      "CFS-05",
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-6",
+      "HFMP-7"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-15",
+      "CFS-02",
+      "CFS-05",
+      "CFS-06",
+      "HFMP-2",
+      "HFMP-6",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cas_id": "CAS-MITO-16",
+    "name": "Urolithin A",
+    "category": "Mitophagy / Mitochondrial",
+    "mechanism": "Polyphenol metabolite that promotes mitophagy and mitochondrial renewal, improving muscle function and endurance.",
+    "phase_allowed": "2,3",
+    "dose_range": "250–500 mg/day",
+    "notes": "Useful for long-term mitochondrial rejuvenation and HFMP-6 support.",
+    "cfs_modules": "CFS-06",
+    "hfmp_axes": "HFMP-6,HFMP-10",
+    "phases_used": "2,3",
+    "role": "Mitophagy",
+    "phase_dosage": null,
+    "canonical_id": "CAS-MITO-16",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-6",
+      "HFMP-10"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-MITO-16",
+      "CFS-06",
+      "HFMP-10",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cas_id": "CAS-B-01",
+    "name": "Niacinamide",
+    "category": "B vitamin",
+    "mechanism": "NAD+ precursor, anti-lipolytic, anti-inflammatory; supports thyroid and mitochondrial function.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "250–1000 mg/day",
+    "notes": "Peat-aligned; avoid very high doses with liver compromise.",
+    "cfs_modules": "CFS-01,CFS-06",
+    "hfmp_axes": "HFMP-3,HFMP-6",
+    "phases_used": "1.5,2,3",
+    "role": "Thyroid/Mito",
+    "phase_dosage": null,
+    "canonical_id": "CAS-B-01",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-3",
+      "HFMP-6"
+    ],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-B-01",
+      "CFS-01",
+      "CFS-06",
+      "HFMP-3",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cas_id": "CAS-B-02",
+    "name": "Riboflavin (B2)",
+    "category": "B vitamin",
+    "mechanism": "Cofactor in mitochondrial energy production and thyroid hormone activation.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "10–100 mg/day",
+    "notes": "Synergistic with niacinamide and thyroid support.",
+    "cfs_modules": "CFS-01,CFS-06",
+    "hfmp_axes": "HFMP-3,HFMP-6",
+    "phases_used": "1.5,2,3",
+    "role": "Mito/Thyroid",
+    "phase_dosage": null,
+    "canonical_id": "CAS-B-02",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-3",
+      "HFMP-6"
+    ],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-B-02",
+      "CFS-01",
+      "CFS-06",
+      "HFMP-3",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cas_id": "CAS-PRL-01",
+    "name": "Cabergoline",
+    "category": "Dopamine agonist",
+    "mechanism": "D2 receptor agonist; strongly suppresses prolactin; can markedly increase libido and erectile performance.",
+    "phase_allowed": "Medical",
+    "dose_range": "0.25–1 mg/week",
+    "notes": "Prescription only; monitor mood, valvular function; nuclear HFMP-4 lever.",
+    "cfs_modules": "CFS-04",
+    "hfmp_axes": "HFMP-2,HFMP-4,HFMP-9",
+    "phases_used": null,
+    "role": "Prolactin",
+    "phase_dosage": null,
+    "canonical_id": "CAS-PRL-01",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [
+      "CFS-04"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-4",
+      "HFMP-9"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PRL-01",
+      "CFS-04",
+      "HFMP-2",
+      "HFMP-4",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-PRL-02",
+    "name": "Bromocriptine",
+    "category": "Dopamine agonist",
+    "mechanism": "Ergoline derivative; D2 agonist that lowers prolactin and may improve libido and metabolic health.",
+    "phase_allowed": "Medical",
+    "dose_range": "1.25–5 mg/day",
+    "notes": "Prescription; shorter-acting alternative to cabergoline.",
+    "cfs_modules": "CFS-04",
+    "hfmp_axes": "HFMP-2,HFMP-4",
+    "phases_used": null,
+    "role": "Prolactin",
+    "phase_dosage": null,
+    "canonical_id": "CAS-PRL-02",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [
+      "CFS-04"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-4"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-PRL-02",
+      "CFS-04",
+      "HFMP-2",
+      "HFMP-4"
+    ]
+  },
+  {
+    "cas_id": "CAS-THY-01",
+    "name": "T2 (3,5-diiodothyronine)",
+    "category": "Thyroid hormone analog",
+    "mechanism": "Non-classical thyroid hormone that increases mitochondrial respiration and fat oxidation with less cardiac stimulation than T3.",
+    "phase_allowed": "2,3",
+    "dose_range": "100–300 mcg/day",
+    "notes": "Experimental; to be used only with thyroid-aware strategy and labs.",
+    "cfs_modules": "CFS-01,CFS-06",
+    "hfmp_axes": "HFMP-3,HFMP-6",
+    "phases_used": "2,3",
+    "role": "Thyroid",
+    "phase_dosage": null,
+    "canonical_id": "CAS-THY-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-3",
+      "HFMP-6"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-THY-01",
+      "CFS-01",
+      "CFS-06",
+      "HFMP-3",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cas_id": "CAS-THY-02",
+    "name": "Natural Desiccated Thyroid (NDT)",
+    "category": "Thyroid hormone",
+    "mechanism": "Combination of T4 and T3 from desiccated animal thyroid; supports systemic thyroid function.",
+    "phase_allowed": "Medical",
+    "dose_range": "15–120 mg/day (per labs)",
+    "notes": "Requires careful titration and regular lab monitoring.",
+    "cfs_modules": "CFS-01",
+    "hfmp_axes": "HFMP-3,HFMP-6",
+    "phases_used": null,
+    "role": "Thyroid",
+    "phase_dosage": null,
+    "canonical_id": "CAS-THY-02",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [
+      "CFS-01"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-3",
+      "HFMP-6"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-THY-02",
+      "CFS-01",
+      "HFMP-3",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cas_id": "CAS-THY-03",
+    "name": "Liothyronine (T3)",
+    "category": "Thyroid hormone",
+    "mechanism": "Active thyroid hormone; strongly increases metabolic rate and mitochondrial activity.",
+    "phase_allowed": "Medical",
+    "dose_range": "2.5–25 mcg/day",
+    "notes": "High leverage but risky; requires expert management and labs.",
+    "cfs_modules": "CFS-01,CFS-06",
+    "hfmp_axes": "HFMP-1,HFMP-2,HFMP-3,HFMP-6",
+    "phases_used": null,
+    "role": "Thyroid",
+    "phase_dosage": null,
+    "canonical_id": "CAS-THY-03",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-1",
+      "HFMP-2",
+      "HFMP-3",
+      "HFMP-6"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-THY-03",
+      "CFS-01",
+      "CFS-06",
+      "HFMP-1",
+      "HFMP-2",
+      "HFMP-3",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cas_id": "CAS-IOD-01",
+    "name": "Lugol's Iodine",
+    "category": "Iodine",
+    "mechanism": "Iodine/iodide solution; supports thyroid hormone synthesis and breast/testicular tissue health.",
+    "phase_allowed": "2,3",
+    "dose_range": "0.5–5 mg/day (or less)",
+    "notes": "Use only if iodine deficient and no active autoimmunity.",
+    "cfs_modules": "CFS-01",
+    "hfmp_axes": "HFMP-3",
+    "phases_used": "2,3",
+    "role": "Iodine",
+    "phase_dosage": null,
+    "canonical_id": "CAS-IOD-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-3"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-IOD-01",
+      "CFS-01",
+      "HFMP-3"
+    ]
+  },
+  {
+    "cas_id": "CAS-IOD-02",
+    "name": "Potassium Iodide",
+    "category": "Iodine",
+    "mechanism": "Iodide salt used for iodine repletion and thyroid support.",
+    "phase_allowed": "2,3",
+    "dose_range": "0.25–5 mg/day",
+    "notes": "Same cautions as Lugol's; start low.",
+    "cfs_modules": "CFS-01",
+    "hfmp_axes": "HFMP-3",
+    "phases_used": "2,3",
+    "role": "Iodine",
+    "phase_dosage": null,
+    "canonical_id": "CAS-IOD-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-01"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-3"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-IOD-02",
+      "CFS-01",
+      "HFMP-3"
+    ]
+  },
+  {
+    "cas_id": "CAS-B-03",
+    "name": "Niacin (flush)",
+    "category": "B vitamin",
+    "mechanism": "Nicotinic acid; induces histamine-mediated vasodilation and may enhance endothelial function and arousal.",
+    "phase_allowed": "2,3",
+    "dose_range": "50–500 mg occasionally",
+    "notes": "Use sparingly; can raise liver enzymes at high chronic doses.",
+    "cfs_modules": "CFS-07",
+    "hfmp_axes": "HFMP-5,HFMP-7",
+    "phases_used": "2,3",
+    "role": "Histamine",
+    "phase_dosage": null,
+    "canonical_id": "CAS-B-03",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-07"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-5",
+      "HFMP-7"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-B-03",
+      "CFS-07",
+      "HFMP-5",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cas_id": "CAS-HIST-01",
+    "name": "DAO (Diamine Oxidase) supplement",
+    "category": "Enzyme",
+    "mechanism": "Exogenous diamine oxidase to support degradation of dietary histamine.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "Single or double capsule with high-histamine meals",
+    "notes": "Useful when histamine overshoots or with histamine intolerance.",
+    "cfs_modules": null,
+    "hfmp_axes": "HFMP-5",
+    "phases_used": "1.5,2,3",
+    "role": "Histamine control",
+    "phase_dosage": null,
+    "canonical_id": "CAS-HIST-01",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [
+      "HFMP-5"
+    ],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-HIST-01",
+      "HFMP-5"
+    ]
+  },
+  {
+    "cas_id": "CAS-LIP-01",
+    "name": "Phosphatidylserine",
+    "category": "Phospholipid",
+    "mechanism": "Cortisol-modulating phospholipid; supports neuronal membrane function and may improve stress handling and cognition.",
+    "phase_allowed": "2,3",
+    "dose_range": "100–400 mg/day",
+    "notes": "Can reduce stress-induced cortisol elevations; supports HFMP-2 and HFMP-9.",
+    "cfs_modules": "CFS-05",
+    "hfmp_axes": "HFMP-2,HFMP-9",
+    "phases_used": "2,3",
+    "role": "Neuro",
+    "phase_dosage": null,
+    "canonical_id": "CAS-LIP-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-05"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-LIP-01",
+      "CFS-05",
+      "HFMP-2",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-13",
+    "name": "Cocoa Flavanols (high-flavanol cocoa extract)",
+    "category": "Vascular / Polyphenol",
+    "mechanism": "Rich in epicatechin and related flavanols; improves endothelial function and NO bioavailability.",
+    "phase_allowed": "2,3",
+    "dose_range": "200–500 mg flavanols/day",
+    "notes": "Use low-sugar extracts; strong synergy with NO stack.",
+    "cfs_modules": "CFS-02",
+    "hfmp_axes": "HFMP-7,HFMP-6",
+    "phases_used": "2,3",
+    "role": "Endothelial",
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-13",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-02"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-7",
+      "HFMP-6"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-VAS-13",
+      "CFS-02",
+      "HFMP-6",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-14",
+    "name": "Pentoxifylline",
+    "category": "Vasoactive drug",
+    "mechanism": "Improves red blood cell deformability and microcirculation; used in some ED and Peyronie's protocols.",
+    "phase_allowed": "Medical",
+    "dose_range": "400–800 mg/day",
+    "notes": "Off-label; potential HFMP-7 support for refractory microvascular issues.",
+    "cfs_modules": "CFS-02",
+    "hfmp_axes": "HFMP-7,HFMP-10",
+    "phases_used": null,
+    "role": "Microvascular",
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-14",
+    "phase_allowed_list": [
+      "Medical"
+    ],
+    "cfs_modules_list": [
+      "CFS-02"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-7",
+      "HFMP-10"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-14",
+      "CFS-02",
+      "HFMP-10",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cas_id": "CAS-LIV-10",
+    "name": "Artichoke Extract (Cynarin)",
+    "category": "Liver/Bile",
+    "mechanism": "Bile flow enhancer and lipid-lowering agent; supports liver and gallbladder function.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "500–1000 mg/day",
+    "notes": "Useful addition for cholestasis-prone terrain.",
+    "cfs_modules": "CFS-10",
+    "hfmp_axes": "HFMP-8",
+    "phases_used": "1.5,2,3",
+    "role": "Bile",
+    "phase_dosage": null,
+    "canonical_id": "CAS-LIV-10",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-10"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-8"
+    ],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-10",
+      "CFS-10",
+      "HFMP-8"
+    ]
+  },
+  {
+    "cas_id": "CAS-LIV-11",
+    "name": "Milk Thistle (Silymarin)",
+    "category": "Liver",
+    "mechanism": "Hepatoprotective flavonolignans; antioxidant and membrane-stabilizing effects on hepatocytes.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "200–600 mg/day",
+    "notes": "Classic liver support; may be layered once bile flow is improved.",
+    "cfs_modules": "CFS-10",
+    "hfmp_axes": "HFMP-8",
+    "phases_used": "1.5,2,3",
+    "role": "Liver",
+    "phase_dosage": null,
+    "canonical_id": "CAS-LIV-11",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-10"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-8"
+    ],
+    "phases_used_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-LIV-11",
+      "CFS-10",
+      "HFMP-8"
+    ]
+  },
+  {
+    "cas_id": "CAS-CT-01",
+    "name": "Hyaluronic Acid (oral)",
+    "category": "Connective tissue",
+    "mechanism": "Supports joint and connective tissue hydration; may improve fascia and tissue resilience.",
+    "phase_allowed": "2,3",
+    "dose_range": "50–200 mg/day",
+    "notes": "Long-term fascia and joint support.",
+    "cfs_modules": "CFS-07",
+    "hfmp_axes": "HFMP-10",
+    "phases_used": "2,3",
+    "role": "Fascia",
+    "phase_dosage": null,
+    "canonical_id": "CAS-CT-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-07"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-10"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-CT-01",
+      "CFS-07",
+      "HFMP-10"
+    ]
+  },
+  {
+    "cas_id": "CAS-CT-02",
+    "name": "Silica (Orthosilicic Acid)",
+    "category": "Connective tissue",
+    "mechanism": "Supports collagen and elastin synthesis; beneficial for skin, hair, vessels, and fascia.",
+    "phase_allowed": "2,3",
+    "dose_range": "5–20 mg/day (as Si)",
+    "notes": "Synergistic with collagen and vitamin C.",
+    "cfs_modules": "CFS-07",
+    "hfmp_axes": "HFMP-10,HFMP-7",
+    "phases_used": "2,3",
+    "role": "Fascia/Vascular",
+    "phase_dosage": null,
+    "canonical_id": "CAS-CT-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-07"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-10",
+      "HFMP-7"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-CT-02",
+      "CFS-07",
+      "HFMP-10",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-15",
+    "name": "Lithium (microdose)",
+    "category": "Mineral / Neurotrophic",
+    "mechanism": "Low-dose lithium supports neurotrophic signaling, mood stability, and may modulate neurosteroid and BDNF pathways.",
+    "phase_allowed": "2,3",
+    "dose_range": "0.5–5 mg/day (elemental)",
+    "notes": "Avoid in those with kidney disease or on interacting meds.",
+    "cfs_modules": "CFS-05",
+    "hfmp_axes": "HFMP-2,HFMP-9",
+    "phases_used": "2,3",
+    "role": "Neurotrophic",
+    "phase_dosage": null,
+    "canonical_id": "CAS-NEURO-15",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [
+      "CFS-05"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "2",
+      "3"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-15",
+      "CFS-05",
+      "HFMP-2",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-FUNG-01",
+    "name": "Undecylenic Acid",
+    "category": "Antifungal",
+    "mechanism": "Inhibits yeast–hyphal transition; reduces Candida virulence and acetaldehyde load in gut.",
+    "phase_allowed": null,
+    "dose_range": null,
+    "notes": "Primary antifungal in cholestatic terrain. Start low to avoid strong die-off; maintain binders and 1–2+ BMs/day.",
+    "cfs_modules": "CFS-05, CFS-06, CFS-10",
+    "hfmp_axes": "HFMP-2, HFMP-8, HFMP-9",
+    "phases_used": "1.0,1.5,2.0",
+    "role": "Antifungal/ALDH support",
+    "phase_dosage": "Phase 1–2: per label, typically titrate from 1–2 caps/day up to 5–10 caps/day divided with meals.",
+    "canonical_id": "CAS-FUNG-01",
+    "phase_allowed_list": [],
+    "cfs_modules_list": [
+      "CFS-05",
+      "CFS-06",
+      "CFS-10"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-8",
+      "HFMP-9"
+    ],
+    "phases_used_list": [
+      "1.0",
+      "1.5",
+      "2.0"
+    ],
+    "referenced_ids": [
+      "CAS-FUNG-01",
+      "CFS-05",
+      "CFS-06",
+      "CFS-10",
+      "HFMP-2",
+      "HFMP-8",
+      "HFMP-9"
+    ]
+  },
+  {
+    "cas_id": "CAS-BIND-02",
+    "name": "Cholestyramine",
+    "category": "Bile Resin Binder",
+    "mechanism": "Strongly binds bile acids and associated toxins in the gut to prevent enterohepatic recirculation.",
+    "phase_allowed": null,
+    "dose_range": null,
+    "notes": "Powerful but constipating bile acid binder. Strips fat-soluble vitamins; use only temporarily and support motility.",
+    "cfs_modules": "CFS-10",
+    "hfmp_axes": "HFMP-8",
+    "phases_used": "2.0,3.0",
+    "role": "Rescue binder",
+    "phase_dosage": "PRN or short cycles: 4g once or twice daily, away from food/meds/supps by 2–3 hours.",
+    "canonical_id": "CAS-BIND-02",
+    "phase_allowed_list": [],
+    "cfs_modules_list": [
+      "CFS-10"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-8"
+    ],
+    "phases_used_list": [
+      "2.0",
+      "3.0"
+    ],
+    "referenced_ids": [
+      "CAS-BIND-02",
+      "CFS-10",
+      "HFMP-8"
+    ]
+  },
+  {
+    "cas_id": "CAS-NEURO-16",
+    "name": "Intranasal Insulin",
+    "category": "Neuro-metabolic (Experimental)",
+    "mechanism": "Delivers insulin directly to CNS via olfactory route; supports hippocampal and olfactory bulb metabolism.",
+    "phase_allowed": null,
+    "dose_range": null,
+    "notes": "Advanced, post-ethical tool. Potential for hypoglycemia is low but monitor carefully; not part of base CPO.",
+    "cfs_modules": "CFS-01, CFS-06",
+    "hfmp_axes": "HFMP-2, HFMP-6",
+    "phases_used": "3.0",
+    "role": "Neuro-metabolic reset",
+    "phase_dosage": "Experimental: 5–10 IU IN per session, 1–2×/day in limited cycles.",
+    "canonical_id": "CAS-NEURO-16",
+    "phase_allowed_list": [],
+    "cfs_modules_list": [
+      "CFS-01",
+      "CFS-06"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-2",
+      "HFMP-6"
+    ],
+    "phases_used_list": [
+      "3.0"
+    ],
+    "referenced_ids": [
+      "CAS-NEURO-16",
+      "CFS-01",
+      "CFS-06",
+      "HFMP-2",
+      "HFMP-6"
+    ]
+  },
+  {
+    "cas_id": "CAS-ANDRO-11",
+    "name": "Danazol (low dose)",
+    "category": "Androgen / SHBG Modulator",
+    "mechanism": "Synthetic androgen that strongly suppresses SHBG production and alters gonadotropins.",
+    "phase_allowed": null,
+    "dose_range": null,
+    "notes": "Nuclear option for very high SHBG not responsive to natural methods. Androgenic and lipid-side-effect risk.",
+    "cfs_modules": "CFS-09, CFS-01",
+    "hfmp_axes": "HFMP-1, HFMP-4, HFMP-8",
+    "phases_used": "3.0",
+    "role": "SHBG suppression (last resort)",
+    "phase_dosage": "Specialist use only: e.g. 50–100mg/day short cycles under medical supervision.",
+    "canonical_id": "CAS-ANDRO-11",
+    "phase_allowed_list": [],
+    "cfs_modules_list": [
+      "CFS-09",
+      "CFS-01"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-1",
+      "HFMP-4",
+      "HFMP-8"
+    ],
+    "phases_used_list": [
+      "3.0"
+    ],
+    "referenced_ids": [
+      "CAS-ANDRO-11",
+      "CFS-01",
+      "CFS-09",
+      "HFMP-1",
+      "HFMP-4",
+      "HFMP-8"
+    ]
+  },
+  {
+    "cas_id": "CAS-FUNG-02",
+    "name": "Nystatin (oral, non-absorbed)",
+    "category": "Antifungal",
+    "mechanism": "Polyene antifungal that remains in gut lumen; reduces Candida without systemic liver load.",
+    "phase_allowed": null,
+    "dose_range": null,
+    "notes": "Medical-prescription tool. Useful when strong gut Candida is suspected and liver needs protection.",
+    "cfs_modules": "CFS-05, CFS-10",
+    "hfmp_axes": "HFMP-8, HFMP-2",
+    "phases_used": "1.5,2.0",
+    "role": "Antifungal (gut-local)",
+    "phase_dosage": "Typical: 500,000–1,000,000 units 2–4×/day as per medical guidance.",
+    "canonical_id": "CAS-FUNG-02",
+    "phase_allowed_list": [],
+    "cfs_modules_list": [
+      "CFS-05",
+      "CFS-10"
+    ],
+    "hfmp_axes_list": [
+      "HFMP-8",
+      "HFMP-2"
+    ],
+    "phases_used_list": [
+      "1.5",
+      "2.0"
+    ],
+    "referenced_ids": [
+      "CAS-FUNG-02",
+      "CFS-05",
+      "CFS-10",
+      "HFMP-2",
+      "HFMP-8"
+    ]
+  },
+  {
+    "cas_id": "CAS-VAS-15",
+    "name": "Endotelon (grape seed procyanidolic oligomers)",
+    "category": "OPC / Polyphenol",
+    "mechanism": "Standardized grape seed procyanidolic oligomers; venotonic/vasculoprotective; supports microcirculation & capillary resistance; antioxidant",
+    "phase_allowed": "2,3",
+    "dose_range": "150–300 mg/day (often 150 mg BID; some regimens 20 days/month)",
+    "notes": "Chronic endothelial/microvascular support; not a reliable acute pre-sex lever. Caution stacking with aspirin/anticoagulants (bruising/bleeding).",
+    "cfs_modules": null,
+    "hfmp_axes": null,
+    "phases_used": null,
+    "role": null,
+    "phase_dosage": null,
+    "canonical_id": "CAS-VAS-15",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-VAS-15"
+    ]
+  },
+  {
+    "cas_id": "CAS-MET-08",
+    "name": "TMG (Trimethylglycine)",
+    "category": "Methyl-buffer / Osmolyte",
+    "mechanism": "Methyl donor via BHMT; supports homocysteine→methionine; buffers methyl drain (e.g., high NAD+ support); osmolyte.",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "500–2000 mg/day with meals",
+    "notes": "Distinct from Betaine HCl; start low; monitor homocysteine; may not suit methyl-sensitive individuals.",
+    "cfs_modules": null,
+    "hfmp_axes": "HFMP-11",
+    "phases_used": null,
+    "role": "Methyl buffer",
+    "phase_dosage": null,
+    "canonical_id": "CAS-MET-08",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [
+      "HFMP-11"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-MET-08",
+      "HFMP-11"
+    ]
+  },
+  {
+    "cas_id": "CAS-BH4-01",
+    "name": "Royal Jelly (freeze-dried)",
+    "category": "Functional food / Pterin support",
+    "mechanism": "Dietary pterins/biopterin input; supports BH4 pool and NO coupling; antioxidant/anti-inflammatory support (context-dependent).",
+    "phase_allowed": "1.5,2,3",
+    "dose_range": "500–2000 mg/day (freeze-dried) or ~1–2 tsp fresh",
+    "notes": "Allergy risk (bee products); watch histamine-type reactions.",
+    "cfs_modules": null,
+    "hfmp_axes": "HFMP-11,HFMP-7",
+    "phases_used": null,
+    "role": "BH4 support",
+    "phase_dosage": null,
+    "canonical_id": "CAS-BH4-01",
+    "phase_allowed_list": [
+      "1.5",
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [
+      "HFMP-11",
+      "HFMP-7"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-BH4-01",
+      "HFMP-11",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cas_id": "CAS-BH4-02",
+    "name": "Sepiapterin (BH4 salvage precursor)",
+    "category": "BH4 salvage (advanced)",
+    "mechanism": "BH4 precursor (salvage pathway) to support NOS coupling and reduce uncoupled NO/peroxynitrite signaling (context-dependent).",
+    "phase_allowed": "2,3",
+    "dose_range": "Clinician-guided (specialty compound)",
+    "notes": "Advanced lever; avoid during unstable phases; monitor BP/headache/anxiety; discontinue if adverse effects.",
+    "cfs_modules": null,
+    "hfmp_axes": "HFMP-11,HFMP-7",
+    "phases_used": null,
+    "role": "BH4 salvage",
+    "phase_dosage": null,
+    "canonical_id": "CAS-BH4-02",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [
+      "HFMP-11",
+      "HFMP-7"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-BH4-02",
+      "HFMP-11",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cas_id": "CAS-BH4-03",
+    "name": "Sapropterin (BH4; Rx)",
+    "category": "BH4 (pharmaceutical)",
+    "mechanism": "Synthetic BH4 used clinically (e.g., PKU); may support NOS coupling when BH4 depleted (medical supervision).",
+    "phase_allowed": "2,3",
+    "dose_range": "Prescription only; clinician-guided",
+    "notes": "Medical supervision recommended; monitor response and labs.",
+    "cfs_modules": null,
+    "hfmp_axes": "HFMP-11,HFMP-7",
+    "phases_used": null,
+    "role": "BH4 restore",
+    "phase_dosage": null,
+    "canonical_id": "CAS-BH4-03",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [
+      "HFMP-11",
+      "HFMP-7"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-BH4-03",
+      "HFMP-11",
+      "HFMP-7"
+    ]
+  },
+  {
+    "cas_id": "CAS-RESET-01",
+    "name": "Hops extract (8‑Prenylnaringenin / 8‑PN)",
+    "category": "RESET TRACK ONLY",
+    "mechanism": "Potent phytoestrogen (8‑PN); included only in RESET branch per epigenetic/AR resensitization hypothesis.",
+    "phase_allowed": "2,3",
+    "dose_range": "RESET protocol only; clinician-guided",
+    "notes": "RESET TRACK ONLY — pair with methyl-buffer (TMG) + monitoring; avoid if estrogenic side effects.",
+    "cfs_modules": null,
+    "hfmp_axes": "HFMP-1,HFMP-9",
+    "phases_used": null,
+    "role": "RESET",
+    "phase_dosage": null,
+    "canonical_id": "CAS-RESET-01",
+    "phase_allowed_list": [
+      "2",
+      "3"
+    ],
+    "cfs_modules_list": [],
+    "hfmp_axes_list": [
+      "HFMP-1",
+      "HFMP-9"
+    ],
+    "phases_used_list": [],
+    "referenced_ids": [
+      "CAS-RESET-01",
+      "HFMP-1",
+      "HFMP-9"
+    ]
+  }
+]

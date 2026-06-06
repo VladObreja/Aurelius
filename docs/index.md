@@ -21,6 +21,7 @@ The repository is not a software application. Its architecture is a knowledge-sy
 - **Extraction script:** `tools/extract_aurelius.py`
 - **Protocol spine:** `docs/protocol-spine.md`
 - **BMAD adaptation:** `docs/bmad-protocol-workflow.md`
+- **Agent system brief:** `docs/agent-system-brief.md`
 - **Codex repo guidance:** `AGENTS.md`
 - **Operator skill:** `skills/aurelius-protocol-operator/SKILL.md`
 
@@ -40,6 +41,7 @@ The repository is not a software application. Its architecture is a knowledge-sy
 - [Aurelius Protocol Knowledge Base](./README.md) - Extraction summary
 - [Protocol Spine](./protocol-spine.md) - Frozen current protocol spine
 - [Protocol Brief](./protocol-brief.md) - Energy-first BMAD brief for protocol optimization
+- [Agent System Brief](./agent-system-brief.md) - BMAD product brief for protocol agent infrastructure
 - [BMAD Protocol Workflow](./bmad-protocol-workflow.md) - Protocol-specific BMAD adaptation
 - [Data Layout](./data-layout.md) - Data file map
 - [Protocol Index](./protocol-index.md) - Object counts and module/axis overview
@@ -72,8 +74,9 @@ For protocol understanding:
 For BMAD-based protocol development:
 
 1. Start with [BMAD Protocol Workflow](./bmad-protocol-workflow.md).
-2. Use this index as BMAD's brownfield project context.
-3. Create a Protocol Brief, then Protocol Requirements Document, then Protocol Architecture.
+2. Use [Protocol Brief](./protocol-brief.md) for protocol optimization work.
+3. Use [Agent System Brief](./agent-system-brief.md) for agent/tooling infrastructure work.
+4. Create a PRD, then Architecture, then Stories for the chosen workstream.
 
 For data work:
 
@@ -89,6 +92,7 @@ When planning new protocol work, ground the session in:
 - `docs/agent-orientation.md`
 - `docs/protocol-spine.md`
 - `docs/bmad-protocol-workflow.md`
+- `docs/agent-system-brief.md`
 - `AGENTS.md`
 - `skills/aurelius-protocol-operator/SKILL.md`
 

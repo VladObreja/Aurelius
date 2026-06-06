@@ -37,6 +37,7 @@ Start here:
 - `AGENTS.md` - Codex-specific guidance and local skill usage
 - `docs/index.md` - documentation index
 - `docs/protocol-brief.md` - energy-first protocol brief
+- `docs/agent-system-brief.md` - brief for the protocol agent/tooling layer
 - `docs/protocol-spine.md` - frozen current protocol spine
 - `docs/bmad-protocol-workflow.md` - BMAD adaptation for protocol development
 
@@ -134,6 +135,8 @@ Recommended artifact sequence:
 7. Validation and safety review
 8. Commit
 
+For agent/tooling infrastructure, start with `docs/agent-system-brief.md`, then create the agent-system PRD before adding new skills, scripts, tracking stores, or RAG infrastructure.
+
 ## Operator Skill
 
 For practical protocol execution questions, use:
@@ -177,6 +180,6 @@ See:
 1. Read this file.
 2. Read `docs/protocol-brief.md`.
 3. Read `docs/protocol-spine.md`.
-4. If answering execution questions, load `skills/aurelius-protocol-operator/SKILL.md`.
-5. If planning protocol changes, use `docs/bmad-protocol-workflow.md` and create planning artifacts before editing canonical data.
-
+4. Read `docs/agent-system-brief.md` if the task concerns agents, skills, tracking, RAG, or tooling.
+5. If answering execution questions, load `skills/aurelius-protocol-operator/SKILL.md`.
+6. If planning protocol changes, use `docs/bmad-protocol-workflow.md` and create planning artifacts before editing canonical data.

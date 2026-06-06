@@ -17,6 +17,7 @@ For protocol development direction, see:
 - `docs/protocol-spine.md`
 - `docs/protocol-brief.md`
 - `docs/bmad-protocol-workflow.md`
+- `docs/agent-system-brief.md`
 - `skills/aurelius-protocol-operator/SKILL.md`
 
 Important: this is a research and self-tracking knowledge base, not medical advice.
